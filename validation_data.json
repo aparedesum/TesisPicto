@@ -22,7 +22,7 @@
   {
     "id": 4,
     "oracion": "Cuando entro en casa me quito la ropa",
-    "traduccion": "pict_32874_cuándo pict_6491_entrar pict_7034_en pict_6964_casa pict_11233_desnudar"
+    "traduccion": "pict_32874_cuándo pict_6491_entrar pict_6964_casa pict_11233_desnudar"
   },
   {
     "id": 5,
@@ -112,7 +112,7 @@
   {
     "id": 22,
     "oracion": "¿La conoces?",
-    "traduccion": " pict_6993_conocer"
+    "traduccion": "pict_6993_conocer"
   },
   {
     "id": 23,
@@ -277,7 +277,7 @@
   {
     "id": 55,
     "oracion": "Buscar en el mapa",
-    "traduccion": "pict_6946_buscar pict_7034_en  pict_5505_mapa"
+    "traduccion": "pict_6946_buscar   pict_5505_mapa"
   },
   {
     "id": 56,
@@ -497,7 +497,7 @@
   {
     "id": 99,
     "oracion": "En el campo hay tulipanes y flores",
-    "traduccion": "pict_7034_en  pict_2683_campo pict_34043_tulipanes pict_7105_flores"
+    "traduccion": "pict_2683_campo pict_34043_tulipanes pict_7105_flores"
   },
   {
     "id": 100,
@@ -562,7 +562,7 @@
   {
     "id": 112,
     "oracion": "El raton bailador",
-    "traduccion": " pict_2546_ratón pict_24727_bailador"
+    "traduccion": "pict_2546_ratón pict_24727_bailador"
   },
   {
     "id": 113,
@@ -1062,7 +1062,7 @@
   {
     "id": 212,
     "oracion": "Los números",
-    "traduccion": " pict_34771_números"
+    "traduccion": "pict_34771_números"
   },
   {
     "id": 213,
@@ -1267,7 +1267,7 @@
   {
     "id": 253,
     "oracion": "La máquina de trabajo",
-    "traduccion": " pict_25652_máquina  pict_16087_trabajo"
+    "traduccion": "pict_25652_máquina  pict_16087_trabajo"
   },
   {
     "id": 254,
@@ -1357,7 +1357,7 @@
   {
     "id": 271,
     "oracion": "Se queda en una ciudad por mucho tiempo",
-    "traduccion": "pict_7034_en pict_2704_ciudad pict_7168_mucho pict_22631_tiempo"
+    "traduccion": "pict_2704_ciudad pict_7168_mucho pict_22631_tiempo"
   },
   {
     "id": 272,
@@ -1637,12 +1637,12 @@
   {
     "id": 327,
     "oracion": "En el mar vió una ballena",
-    "traduccion": "pict_7034_en  pict_2925_mar pict_28673_ver pict_8474_una pict_2268_ballena"
+    "traduccion": " pict_2925_mar pict_28673_ver pict_8474_una pict_2268_ballena"
   },
   {
     "id": 328,
     "oracion": "Los niños deben expresarse de forma respetuosa",
-    "traduccion": " pict_6975_niños pict_9692_expresar pict_36720_respetar"
+    "traduccion": "pict_6975_niños pict_9692_expresar pict_36720_respetar"
   },
   {
     "id": 329,
@@ -1662,7 +1662,7 @@
   {
     "id": 332,
     "oracion": "¿Para qué expondré?",
-    "traduccion": " pict_22620_qué pict_9870_exponer"
+    "traduccion": "pict_22620_qué pict_9870_exponer"
   },
   {
     "id": 333,
@@ -1707,7 +1707,7 @@
   {
     "id": 341,
     "oracion": "La hormiga y la trucha",
-    "traduccion": " pict_2425_hormiga pict_3047_y  pict_7820_trucha"
+    "traduccion": "pict_2425_hormiga pict_3047_y  pict_7820_trucha"
   },
   {
     "id": 342,
@@ -1807,7 +1807,7 @@
   {
     "id": 361,
     "oracion": "Pegar el dibujo en la pizarra",
-    "traduccion": "pict_2511_pegar pict_32518_dibujo pict_7034_en  pict_2526_pizarra"
+    "traduccion": "pict_2511_pegar pict_32518_dibujo   pict_2526_pizarra"
   },
   {
     "id": 362,
@@ -1817,7 +1817,7 @@
   {
     "id": 363,
     "oracion": "El orgulloso Lenguado",
-    "traduccion": " pict_31408_orgulloso pict_21957_lenguado"
+    "traduccion": "pict_31408_orgulloso pict_21957_lenguado"
   },
   {
     "id": 364,
@@ -2007,7 +2007,7 @@
   {
     "id": 401,
     "oracion": "el pueblo",
-    "traduccion": " pict_2823_pueblo"
+    "traduccion": "pict_2823_pueblo"
   },
   {
     "id": 402,
@@ -2632,7 +2632,7 @@
   {
     "id": 526,
     "oracion": "Yo escribo en un papel rojo",
-    "traduccion": "pict_7309_yo pict_8107_escribir pict_7034_en pict_8474_un pict_8349_papel pict_2808_rojo"
+    "traduccion": "pict_7309_yo pict_8107_escribir  pict_8474_un pict_8349_papel pict_2808_rojo"
   },
   {
     "id": 527,
@@ -2702,7 +2702,7 @@
   {
     "id": 540,
     "oracion": "La oveja da lana",
-    "traduccion": " pict_2489_oveja pict_28431_dar pict_2948_lana"
+    "traduccion": "pict_2489_oveja pict_28431_dar pict_2948_lana"
   },
   {
     "id": 541,
@@ -2832,7 +2832,7 @@
   {
     "id": 566,
     "oracion": "¿De qué se alimenta?",
-    "traduccion": " pict_22620_qué pict_11176_alimentar"
+    "traduccion": "pict_22620_qué pict_11176_alimentar"
   },
   {
     "id": 567,
@@ -2882,7 +2882,7 @@
   {
     "id": 576,
     "oracion": "La Vaca da leche",
-    "traduccion": " pict_2609_vaca pict_28431_dar pict_2445_leche"
+    "traduccion": "pict_2609_vaca pict_28431_dar pict_2445_leche"
   },
   {
     "id": 577,
@@ -3012,7 +3012,7 @@
   {
     "id": 602,
     "oracion": "La pesca es para adultos",
-    "traduccion": " pict_11339_pesca  pict_6887_adultos"
+    "traduccion": "pict_11339_pesca  pict_6887_adultos"
   },
   {
     "id": 603,
@@ -3022,7 +3022,7 @@
   {
     "id": 604,
     "oracion": "El Sol da calor",
-    "traduccion": " pict_2798_sol pict_35561_calor"
+    "traduccion": "pict_2798_sol pict_35561_calor"
   },
   {
     "id": 605,
@@ -3082,7 +3082,7 @@
   {
     "id": 616,
     "oracion": "Pobreza en el país",
-    "traduccion": "pict_15519_pobreza pict_7034_en  pict_35431_país"
+    "traduccion": "pict_15519_pobreza   pict_35431_país"
   },
   {
     "id": 617,
@@ -3352,7 +3352,7 @@
   {
     "id": 670,
     "oracion": "Escribo en mi cuaderno",
-    "traduccion": "pict_8107_escribir pict_7034_en pict_12264_mi pict_2359_cuaderno"
+    "traduccion": "pict_8107_escribir  pict_12264_mi pict_2359_cuaderno"
   },
   {
     "id": 671,
@@ -3377,7 +3377,7 @@
   {
     "id": 675,
     "oracion": "Trabajadores en cerámica nos enseñan",
-    "traduccion": "pict_7795_trabajadores pict_7034_en pict_32622_cerámica_cardial pict_11308_enseñar"
+    "traduccion": "pict_7795_trabajadores  pict_32622_cerámica_cardial pict_11308_enseñar"
   },
   {
     "id": 676,
@@ -3442,7 +3442,7 @@
   {
     "id": 688,
     "oracion": "Yo escribo en un papel",
-    "traduccion": "pict_7309_yo pict_8107_escribir pict_7034_en pict_8474_un pict_8349_papel"
+    "traduccion": "pict_7309_yo pict_8107_escribir  pict_8474_un pict_8349_papel"
   },
   {
     "id": 689,
@@ -3882,7 +3882,7 @@
   {
     "id": 776,
     "oracion": "Almuerzo en la mesa",
-    "traduccion": "pict_28206_almuerzo pict_7034_en  pict_3129_mesa"
+    "traduccion": "pict_28206_almuerzo   pict_3129_mesa"
   },
   {
     "id": 777,
@@ -3902,7 +3902,7 @@
   {
     "id": 780,
     "oracion": "Cuando entro en casa meto la ropa en la lavadora",
-    "traduccion": "pict_32874_cuándo pict_6491_entrar pict_7034_en pict_6964_casa pict_5496_lavar_la_ropa"
+    "traduccion": "pict_32874_cuándo pict_6491_entrar  pict_6964_casa pict_5496_lavar_la_ropa"
   },
   {
     "id": 781,
@@ -4102,7 +4102,7 @@
   {
     "id": 820,
     "oracion": "El cultivo está listo",
-    "traduccion": " pict_38079_cultivo pict_36392_estar pict_32820_estoy_listo"
+    "traduccion": "pict_38079_cultivo pict_36392_estar pict_32820_estoy_listo"
   },
   {
     "id": 821,
@@ -4162,7 +4162,7 @@
   {
     "id": 832,
     "oracion": "Pintar un delfín en el papel",
-    "traduccion": "pict_5574_pintar pict_2732_delfín pict_7034_en pict_8349_papel"
+    "traduccion": "pict_5574_pintar pict_2732_delfín  pict_8349_papel"
   },
   {
     "id": 833,
@@ -4222,7 +4222,7 @@
   {
     "id": 844,
     "oracion": "el clima en la Tierra",
-    "traduccion": " pict_24721_clima pict_7034_en  pict_30014_tierra"
+    "traduccion": "pict_24721_clima   pict_30014_tierra"
   },
   {
     "id": 845,
@@ -4532,7 +4532,7 @@
   {
     "id": 906,
     "oracion": "Las aves tienen las garras grandes",
-    "traduccion": " pict_6923_aves pict_32761_tener  pict_5477_garra pict_4658_grande"
+    "traduccion": "pict_6923_aves pict_32761_tener  pict_5477_garra pict_4658_grande"
   },
   {
     "id": 907,
@@ -4557,7 +4557,7 @@
   {
     "id": 911,
     "oracion": "El departamento de comunicación",
-    "traduccion": " pict_37570_departamento_de_comunicación"
+    "traduccion": "pict_37570_departamento_de_comunicación"
   },
   {
     "id": 912,
@@ -4582,7 +4582,7 @@
   {
     "id": 916,
     "oracion": "Juntarnos en equipo",
-    "traduccion": "pict_26817_juntar pict_7034_en pict_15264_equipo"
+    "traduccion": "pict_26817_juntar  pict_15264_equipo"
   },
   {
     "id": 917,
@@ -4732,7 +4732,7 @@
   {
     "id": 946,
     "oracion": "La flor crece rápido",
-    "traduccion": " pict_7104_flor pict_23991_crecer pict_5306_rápido"
+    "traduccion": "pict_7104_flor pict_23991_crecer pict_5306_rápido"
   },
   {
     "id": 947,
@@ -4837,7 +4837,7 @@
   {
     "id": 967,
     "oracion": "La contaminación",
-    "traduccion": " pict_7066_contaminación"
+    "traduccion": "pict_7066_contaminación"
   },
   {
     "id": 968,

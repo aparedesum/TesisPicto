@@ -187,7 +187,7 @@
   {
     "id": 37,
     "oracion": "En el desierto vió un camello",
-    "traduccion": "pict_7034_en  pict_2734_desierto pict_2474_ver pict_8474_un pict_8522_camello"
+    "traduccion": "pict_2734_desierto pict_2474_ver pict_8474_un pict_8522_camello"
   },
   {
     "id": 38,
@@ -412,7 +412,7 @@
   {
     "id": 82,
     "oracion": "El público mira la obra de teatro",
-    "traduccion": " pict_24783_público pict_6564_mirar pict_11319_obra_de_teatro"
+    "traduccion": "pict_24783_público pict_6564_mirar pict_11319_obra_de_teatro"
   },
   {
     "id": 83,
@@ -437,7 +437,7 @@
   {
     "id": 87,
     "oracion": "La manzanilla es una planta que sana",
-    "traduccion": " pict_38795_manzanilla pict_8474_una pict_38613_planta pict_11351_que pict_29648_sana"
+    "traduccion": "pict_38795_manzanilla pict_8474_una pict_38613_planta pict_11351_que pict_29648_sana"
   },
   {
     "id": 88,
@@ -557,7 +557,7 @@
   {
     "id": 111,
     "oracion": "El pájaro",
-    "traduccion": " pict_2490_pájaro"
+    "traduccion": "pict_2490_pájaro"
   },
   {
     "id": 112,
@@ -577,7 +577,7 @@
   {
     "id": 115,
     "oracion": "La oca y la papa",
-    "traduccion": " pict_2878_oca pict_11399_y  pict_2503_papa"
+    "traduccion": "pict_2878_oca pict_11399_y  pict_2503_papa"
   },
   {
     "id": 116,
@@ -607,7 +607,7 @@
   {
     "id": 121,
     "oracion": "los adjetivos",
-    "traduccion": " pict_32584_adjetivos"
+    "traduccion": "pict_32584_adjetivos"
   },
   {
     "id": 122,
@@ -717,7 +717,7 @@
   {
     "id": 143,
     "oracion": "La niña mira",
-    "traduccion": " pict_32845_niña pict_2474_mirar"
+    "traduccion": "pict_32845_niña pict_2474_mirar"
   },
   {
     "id": 144,
@@ -862,7 +862,7 @@
   {
     "id": 172,
     "oracion": "Con mis sentidos yo puedo ver",
-    "traduccion": " pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6564_ver"
+    "traduccion": "pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6564_ver"
   },
   {
     "id": 173,
@@ -887,7 +887,7 @@
   {
     "id": 177,
     "oracion": "Anoto en mi cuaderno",
-    "traduccion": "pict_8490_anotar pict_7034_en pict_12264_mi pict_2359_cuaderno"
+    "traduccion": "pict_8490_anotar  pict_12264_mi pict_2359_cuaderno"
   },
   {
     "id": 178,
@@ -1057,7 +1057,7 @@
   {
     "id": 211,
     "oracion": "Qué observas en el cartel",
-    "traduccion": "pict_22620_qué pict_2474_observar pict_7034_en  pict_8064_cartel"
+    "traduccion": "pict_22620_qué pict_2474_observar   pict_8064_cartel"
   },
   {
     "id": 212,
@@ -1132,7 +1132,7 @@
   {
     "id": 226,
     "oracion": "Cuando entro en casa me lavo las manos o me baño",
-    "traduccion": "pict_32874_cuándo pict_6491_entrar pict_7034_en pict_6964_casa pict_8975_lavar_las_manos pict_6058_bañar"
+    "traduccion": "pict_32874_cuándo pict_6491_entrar  pict_6964_casa pict_8975_lavar_las_manos pict_6058_bañar"
   },
   {
     "id": 227,
@@ -1317,7 +1317,7 @@
   {
     "id": 263,
     "oracion": "De la oveja hacemos la lana",
-    "traduccion": "  pict_2489_oveja pict_11749_hacer  pict_2948_lana"
+    "traduccion": " pict_2489_oveja pict_11749_hacer  pict_2948_lana"
   },
   {
     "id": 264,
@@ -1457,7 +1457,7 @@
   {
     "id": 291,
     "oracion": "El niño y el pez",
-    "traduccion": " pict_2485_niño pict_3171_y  pict_2520_pez"
+    "traduccion": "pict_2485_niño pict_3171_y  pict_2520_pez"
   },
   {
     "id": 292,
@@ -1562,12 +1562,12 @@
   {
     "id": 312,
     "oracion": "Cuando entro en casa me pongo ropa limpia",
-    "traduccion": "pict_32874_cuándo pict_6491_entrar pict_7034_en pict_6964_casa pict_6627_vestir"
+    "traduccion": "pict_32874_cuándo pict_6491_entrar  pict_6964_casa pict_6627_vestir"
   },
   {
     "id": 313,
     "oracion": "La salud es importante",
-    "traduccion": " pict_14264_salud pict_22627_importante"
+    "traduccion": "pict_14264_salud pict_22627_importante"
   },
   {
     "id": 314,
@@ -1697,7 +1697,7 @@
   {
     "id": 339,
     "oracion": "Vivo en Sudamérica",
-    "traduccion": "pict_7302_vivir pict_7034_en pict_34387_Sudamérica"
+    "traduccion": "pict_7302_vivir  pict_34387_Sudamérica"
   },
   {
     "id": 340,
@@ -2047,7 +2047,7 @@
   {
     "id": 409,
     "oracion": "El bosque tiene muchas plantas",
-    "traduccion": " pict_2666_bosque pict_7168_muchas pict_11572_plantas"
+    "traduccion": "pict_2666_bosque pict_7168_muchas pict_11572_plantas"
   },
   {
     "id": 410,
@@ -2172,7 +2172,7 @@
   {
     "id": 434,
     "oracion": "Qué observas en la tablet",
-    "traduccion": "pict_22620_qué pict_2474_observar pict_7034_en  pict_28099_tableta"
+    "traduccion": "pict_22620_qué pict_2474_observar   pict_28099_tableta"
   },
   {
     "id": 435,
@@ -2282,7 +2282,7 @@
   {
     "id": 456,
     "oracion": "Yo escribo en un papel grande",
-    "traduccion": "pict_7309_yo pict_8107_escribir pict_7034_en pict_8474_un pict_8349_papel pict_4658_grande"
+    "traduccion": "pict_7309_yo pict_8107_escribir  pict_8474_un pict_8349_papel pict_4658_grande"
   },
   {
     "id": 457,
@@ -2452,7 +2452,7 @@
   {
     "id": 490,
     "oracion": "El sentido de ver",
-    "traduccion": " pict_30194_sentidos  pict_2474_ver"
+    "traduccion": "pict_30194_sentidos  pict_2474_ver"
   },
   {
     "id": 491,
@@ -2607,7 +2607,7 @@
   {
     "id": 521,
     "oracion": "Anoto en mi cuaderno",
-    "traduccion": "pict_8490_anotar pict_7034_en  pict_2359_cuaderno"
+    "traduccion": "pict_8490_anotar   pict_2359_cuaderno"
   },
   {
     "id": 522,
@@ -3157,12 +3157,12 @@
   {
     "id": 631,
     "oracion": "Con mis sentidos yo puedo comer",
-    "traduccion": " pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6456_comer"
+    "traduccion": "pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6456_comer"
   },
   {
     "id": 632,
     "oracion": "Las estaciones",
-    "traduccion": " pict_5464_estaciones"
+    "traduccion": "pict_5464_estaciones"
   },
   {
     "id": 633,
@@ -3187,7 +3187,7 @@
   {
     "id": 637,
     "oracion": "Con mis sentidos yo puedo oler",
-    "traduccion": " pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6574_oler"
+    "traduccion": "pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6574_oler"
   },
   {
     "id": 638,
@@ -3327,7 +3327,7 @@
   {
     "id": 665,
     "oracion": "Qué se habla en el texto",
-    "traduccion": "pict_22620_qué pict_3345_hablar pict_7034_en pict_37340_texto"
+    "traduccion": "pict_22620_qué pict_3345_hablar  pict_37340_texto"
   },
   {
     "id": 666,
@@ -3437,7 +3437,7 @@
   {
     "id": 687,
     "oracion": "El auto no funciona",
-    "traduccion": " pict_2339_auto pict_5526_no pict_37038_funcionar"
+    "traduccion": "pict_2339_auto pict_5526_no pict_37038_funcionar"
   },
   {
     "id": 688,
@@ -3522,7 +3522,7 @@
   {
     "id": 704,
     "oracion": "Con mis sentidos yo puedo oir",
-    "traduccion": " pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6572_oir"
+    "traduccion": "pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_6572_oir"
   },
   {
     "id": 705,
@@ -3577,7 +3577,7 @@
   {
     "id": 715,
     "oracion": "La leche proviene de la vaca",
-    "traduccion": " pict_2445_leche  pict_2609_vaca"
+    "traduccion": "pict_2445_leche  pict_2609_vaca"
   },
   {
     "id": 716,
@@ -3947,12 +3947,12 @@
   {
     "id": 789,
     "oracion": "Para qué leemos el texto",
-    "traduccion": " pict_22620_qué pict_28643_leer pict_37340_texto"
+    "traduccion": "pict_22620_qué pict_28643_leer pict_37340_texto"
   },
   {
     "id": 790,
     "oracion": "Las poleas son pesadas",
-    "traduccion": " pict_26334_polea pict_27025_pesado"
+    "traduccion": "pict_26334_polea pict_27025_pesado"
   },
   {
     "id": 791,
@@ -4052,7 +4052,7 @@
   {
     "id": 810,
     "oracion": "Con mis sentidos yo puedo tocar",
-    "traduccion": " pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_3293_tocar"
+    "traduccion": "pict_12266_mis pict_25445_sentidos pict_31807_yo pict_11750_poder pict_3293_tocar"
   },
   {
     "id": 811,
@@ -4147,7 +4147,7 @@
   {
     "id": 829,
     "oracion": "Yo escribo en un papel pequeño",
-    "traduccion": "pict_7309_yo pict_8107_escribir pict_7034_en pict_8474_un pict_8349_papel pict_4716_pequeño"
+    "traduccion": "pict_7309_yo pict_8107_escribir  pict_8474_un pict_8349_papel pict_4716_pequeño"
   },
   {
     "id": 830,
@@ -4182,7 +4182,7 @@
   {
     "id": 836,
     "oracion": "La artesanía",
-    "traduccion": " pict_22769_artesanía"
+    "traduccion": "pict_22769_artesanía"
   },
   {
     "id": 837,
@@ -4217,7 +4217,7 @@
   {
     "id": 843,
     "oracion": "María dio a luz al niño Jesús el 25 de diciembre en Belén",
-    "traduccion": "pict_7301_María pict_8176_nacer pict_7177_Jesús pict_29288_25 pict_6476_diciembre pict_7034_en pict_2823_pueblo"
+    "traduccion": "pict_7301_María pict_8176_nacer pict_7177_Jesús pict_29288_25 pict_6476_diciembre  pict_2823_pueblo"
   },
   {
     "id": 844,
@@ -4267,7 +4267,7 @@
   {
     "id": 853,
     "oracion": "Las plantas tienen raíces en la tierra",
-    "traduccion": "pict_3143_planta pict_7271_tener pict_3148_raíz pict_7034_en pict_3160_tierra"
+    "traduccion": "pict_3143_planta pict_7271_tener pict_3148_raíz  pict_3160_tierra"
   },
   {
     "id": 854,
@@ -4487,7 +4487,7 @@
   {
     "id": 897,
     "oracion": "La maestra corrige los exámenes",
-    "traduccion": " pict_2456_maestra pict_6998_corregir  pict_38462_examen"
+    "traduccion": "pict_2456_maestra pict_6998_corregir  pict_38462_examen"
   },
   {
     "id": 898,
@@ -4627,7 +4627,7 @@
   {
     "id": 925,
     "oracion": "El queso proviene de la leche",
-    "traduccion": " pict_4881_queso  pict_2445_leche"
+    "traduccion": "pict_4881_queso  pict_2445_leche"
   },
   {
     "id": 926,
@@ -4702,7 +4702,7 @@
   {
     "id": 940,
     "oracion": "La maestra me corrige",
-    "traduccion": " pict_28003_maestra pict_6632_me pict_6998_corregir"
+    "traduccion": "pict_28003_maestra pict_6632_me pict_6998_corregir"
   },
   {
     "id": 941,
