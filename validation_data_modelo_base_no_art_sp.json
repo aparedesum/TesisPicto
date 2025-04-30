@@ -1596,3221 +1596,3271 @@
   },
   {
     "id": 320,
+    "oracion": "combinación",
+    "traduccion": "combinación"
+  },
+  {
+    "id": 321,
     "oracion": "Información importante del cuento",
     "traduccion": "pict_9897_información pict_11470_importante pict_2364_cuento"
   },
   {
-    "id": 321,
+    "id": 322,
     "oracion": "Me duele el brazo",
     "traduccion": "pict_2617_me pict_30620_doler pict_2669_brazo"
   },
   {
-    "id": 322,
+    "id": 323,
+    "oracion": "sentido del olfato",
+    "traduccion": "sentido olfato"
+  },
+  {
+    "id": 324,
     "oracion": "Observa la polea",
     "traduccion": "pict_2474_observar pict_7029_la pict_26334_polea"
   },
   {
-    "id": 323,
+    "id": 325,
     "oracion": "El pez limpia la piel de la tortuga",
     "traduccion": "pict_2520_pez pict_4680_limpia pict_7029_la pict_2840_piel pict_7029_la pict_2596_tortuga"
   },
   {
-    "id": 324,
+    "id": 326,
     "oracion": "Muy triste",
     "traduccion": "pict_25708_muy pict_2606_triste"
   },
   {
-    "id": 325,
+    "id": 327,
     "oracion": "Los días son más largos hasta que anochece",
     "traduccion": "pict_7022_día pict_5581_ser pict_3220_más pict_4675_largo pict_11351_que pict_35731_anochecer"
   },
   {
-    "id": 326,
+    "id": 328,
     "oracion": "En el mar vió una ballena",
     "traduccion": "pict_2925_mar pict_2474_ver pict_2627_una pict_2268_ballena"
   },
   {
-    "id": 327,
+    "id": 329,
     "oracion": "Los niños deben expresarse de forma respetuosa",
     "traduccion": "pict_6975_niños deben pict_9692_expresar forma respetuosa"
   },
   {
-    "id": 328,
+    "id": 330,
     "oracion": "responder la pregunta",
     "traduccion": "pict_9030_responder pict_7029_la pict_7217_pregunta"
   },
   {
-    "id": 329,
+    "id": 331,
     "oracion": "Trabajo en familia",
     "traduccion": "pict_16087_trabajo pict_2392_familia"
   },
   {
-    "id": 330,
+    "id": 332,
     "oracion": "Cansada",
     "traduccion": "pict_28709_cansada"
   },
   {
-    "id": 331,
+    "id": 333,
     "oracion": "¿Para qué expondré?",
     "traduccion": "pict_22624_qué pict_9870_exponer"
   },
   {
-    "id": 332,
+    "id": 334,
     "oracion": "Mira al oso",
     "traduccion": "pict_2474_mirar pict_2488_oso"
   },
   {
-    "id": 333,
+    "id": 335,
     "oracion": "Atención al público",
     "traduccion": "pict_24863_atención pict_24783_público"
   },
   {
-    "id": 334,
+    "id": 336,
     "oracion": "Subrayo en el texto",
     "traduccion": "pict_6219_subrayar pict_37340_texto"
   },
   {
-    "id": 335,
+    "id": 337,
     "oracion": "Yo no discuto",
     "traduccion": "pict_2617_yo pict_5526_no pict_4634_discutir"
   },
   {
-    "id": 336,
+    "id": 338,
     "oracion": "Ellos hablan",
     "traduccion": "pict_7032_ellos pict_3345_hablar"
   },
   {
-    "id": 337,
+    "id": 339,
     "oracion": "Hola, me llamo Tris y te voy a hablar de la tristeza",
     "traduccion": "pict_6009_hola pict_2617_me pict_4687_llamar Tris pict_3047_y pict_6625_te pict_2432_ir pict_3345_hablar pict_7029_la pict_16371_tristeza"
   },
   {
-    "id": 338,
+    "id": 340,
     "oracion": "No se grita en el salón",
     "traduccion": "pict_5526_no pict_6481_se pict_4686_gritar pict_6211_salón"
   },
   {
-    "id": 339,
+    "id": 341,
     "oracion": "Sí, mamá",
     "traduccion": "pict_5584_sí pict_2458_mamá"
   },
   {
-    "id": 340,
+    "id": 342,
     "oracion": "La hormiga y la trucha",
     "traduccion": "pict_7029_la pict_2425_hormiga pict_3047_y pict_7029_la pict_7820_trucha"
   },
   {
-    "id": 341,
+    "id": 343,
     "oracion": "Espero sentada a que la doctora me llame",
     "traduccion": "pict_8109_esperar pict_11370_sentada pict_11351_que pict_7029_la pict_6561_doctora pict_2617_me pict_4687_llamar"
   },
   {
-    "id": 342,
+    "id": 344,
     "oracion": "Mira el mensaje de whatsapp",
     "traduccion": "pict_2474_mirar mensaje whatsapp"
   },
   {
-    "id": 343,
+    "id": 345,
     "oracion": "¿Qué herramientas utilizamos para construir?",
     "traduccion": "pict_22624_qué pict_7127_herramientas pict_15485_utilizar pict_2713_construir"
   },
   {
-    "id": 344,
+    "id": 346,
     "oracion": "Yo tengo gripe",
     "traduccion": "pict_2617_yo pict_7271_tener pict_5479_gripe"
   },
   {
-    "id": 345,
+    "id": 347,
     "oracion": "Blancanieves era muy fea",
     "traduccion": "pict_21447_blancanieves pict_5581_ser pict_25708_muy pict_4647_fea"
   },
   {
-    "id": 346,
+    "id": 348,
     "oracion": "Desayunar antes del mediodía",
     "traduccion": "pict_4625_desayunar pict_13028_antes pict_32708_mediodía"
   },
   {
-    "id": 347,
+    "id": 349,
     "oracion": "La enfermera pregunta a mamá si tengo alergia a medicamentos",
     "traduccion": "pict_7029_la pict_2375_enfermera pict_7217_pregunta pict_2458_mamá pict_28359_si pict_7271_tener pict_5372_alergia pict_8163_medicamentos"
   },
   {
-    "id": 348,
+    "id": 350,
     "oracion": "Escribir el título despacio",
     "traduccion": "pict_2380_escribir título pict_4676_despacio"
   },
   {
-    "id": 349,
+    "id": 351,
     "oracion": "Mira el amanecer",
     "traduccion": "pict_2474_mirar pict_3175_amanecer"
   },
   {
-    "id": 350,
+    "id": 352,
     "oracion": "Leer y responder las preguntas",
     "traduccion": "pict_7141_leer pict_3047_y pict_9030_responder pict_7217_pregunta"
   },
   {
-    "id": 351,
+    "id": 353,
     "oracion": "Nosotros nos protegemos",
     "traduccion": "pict_7185_nosotros pict_7184_nos pict_6192_proteger"
   },
   {
-    "id": 352,
+    "id": 354,
     "oracion": "¡Qué frío hace!",
     "traduccion": "pict_22624_qué pict_4652_frío pict_11749_hacer"
   },
   {
-    "id": 353,
+    "id": 355,
     "oracion": "Yo alimento a mi ovejas",
     "traduccion": "pict_2617_yo pict_4610_alimento pict_12264_mi pict_2489_oveja"
   },
   {
-    "id": 354,
+    "id": 356,
     "oracion": "Lee y responde las preguntas",
     "traduccion": "pict_7141_leer pict_3047_y pict_9030_responder pict_7217_pregunta"
   },
   {
-    "id": 355,
+    "id": 357,
     "oracion": "Cuando pasen unos días estaré bien",
     "traduccion": "pict_24053_cuando pict_6581_pasar pict_8475_unos pict_7022_día pict_5466_estar pict_5397_bien"
   },
   {
-    "id": 356,
+    "id": 358,
     "oracion": "Oír el cuento con atención",
     "traduccion": "Oír pict_2364_cuento pict_24863_atención"
   },
   {
-    "id": 357,
+    "id": 359,
     "oracion": "Completa la frase",
     "traduccion": "pict_26176_completa pict_7029_la pict_27768_frase"
   },
   {
-    "id": 358,
+    "id": 360,
     "oracion": "Yo pienso",
     "traduccion": "pict_2617_yo pict_8662_pensar"
   },
   {
-    "id": 359,
+    "id": 361,
     "oracion": "Siembra y cultiva",
     "traduccion": "pict_7245_siembra pict_3047_y pict_38080_cultivar"
   },
   {
-    "id": 360,
+    "id": 362,
     "oracion": "Pegar el dibujo en la pizarra",
     "traduccion": "pict_2511_pegar pict_11238_dibujo pict_7029_la pict_2526_pizarra"
   },
   {
-    "id": 361,
+    "id": 363,
     "oracion": "La auxiliar dice se acabó nos vamos con la familia a casa y fin",
     "traduccion": "pict_7029_la pict_2476_auxiliar pict_9692_decir pict_28429_se_acabó pict_7184_nos pict_2432_ir pict_7029_la pict_2392_familia pict_2317_casa pict_3047_y pict_5358_fin"
   },
   {
-    "id": 362,
+    "id": 364,
     "oracion": "El orgulloso Lenguado",
     "traduccion": "pict_31408_orgulloso pict_21957_lenguado"
   },
   {
-    "id": 363,
+    "id": 365,
     "oracion": "Siéntate en la alfombra en el borde sin hablar",
     "traduccion": "Siéntate pict_7029_la pict_2249_alfombra borde pict_3345_hablar"
   },
   {
-    "id": 364,
+    "id": 366,
     "oracion": "Contenta",
     "traduccion": "pict_3245_contenta"
   },
   {
-    "id": 365,
+    "id": 367,
     "oracion": "responder las preguntas",
     "traduccion": "pict_9030_responder pict_7217_pregunta"
   },
   {
-    "id": 366,
+    "id": 368,
     "oracion": "Compartir con niños",
     "traduccion": "pict_15361_compartir pict_6975_niños"
   },
   {
-    "id": 367,
+    "id": 369,
     "oracion": "Mirar a los ojos",
     "traduccion": "pict_2474_mirar pict_2876_ojos"
   },
   {
-    "id": 368,
+    "id": 370,
     "oracion": "Ahora nadie se quedaba allí a vivir",
     "traduccion": "pict_13026_ahora pict_11314_nadie pict_6481_se pict_27206_quedar pict_5375_allí pict_7302_vivir"
   },
   {
-    "id": 369,
+    "id": 371,
     "oracion": "Echamos la harina, el aceite y la levadura en el bol y removemos",
     "traduccion": "pict_5447_echar pict_7029_la pict_8600_harina pict_2246_aceite pict_3047_y pict_7029_la pict_9052_levadura pict_3257_bol pict_3047_y pict_5981_remover"
   },
   {
-    "id": 370,
+    "id": 372,
     "oracion": "Intercambio frases",
     "traduccion": "pict_31955_intercambio pict_27768_frase"
   },
   {
-    "id": 371,
+    "id": 373,
     "oracion": "Yo quiero evitar caerme patinando",
     "traduccion": "pict_2617_yo pict_5441_querer pict_24031_evitar pict_4582_caer pict_16841_patinar"
   },
   {
-    "id": 372,
+    "id": 374,
     "oracion": "Usar abrigo para el frio",
     "traduccion": "pict_15485_usar pict_2242_abrigo frio"
   },
   {
-    "id": 373,
+    "id": 375,
     "oracion": "La semana santa termina el domingo de pascua",
     "traduccion": "pict_7029_la pict_3153_semana_santa pict_5358_terminar pict_6478_domingo pascua"
   },
   {
-    "id": 374,
+    "id": 376,
     "oracion": "Pego con la mano",
     "traduccion": "Pego pict_7029_la pict_2928_mano"
   },
   {
-    "id": 375,
+    "id": 377,
     "oracion": "Limpiar la mesa",
     "traduccion": "pict_3351_limpiar pict_7029_la pict_3129_mesa"
   },
   {
-    "id": 376,
+    "id": 378,
     "oracion": "En el mar viven los peces",
     "traduccion": "pict_2925_mar pict_7302_vivir pict_7199_peces"
   },
   {
-    "id": 377,
+    "id": 379,
     "oracion": "Clara y los animales",
     "traduccion": "pict_4604_clara pict_3047_y pict_6901_animales"
   },
   {
-    "id": 378,
+    "id": 380,
     "oracion": "Seguir instrucciones",
     "traduccion": "pict_7038_seguir pict_34705_instrucciones"
   },
   {
-    "id": 379,
+    "id": 381,
     "oracion": "Observa la naturaleza",
     "traduccion": "pict_2474_observar pict_7029_la pict_20389_naturaleza"
   },
   {
-    "id": 380,
+    "id": 382,
     "oracion": "Comida deliciosa",
     "traduccion": "pict_4611_comida pict_32340_deliciosa"
   },
   {
-    "id": 381,
+    "id": 383,
     "oracion": "El viento me da en la cara",
     "traduccion": "pict_7259_viento pict_2617_me pict_17038_dar pict_7029_la pict_2684_cara"
   },
   {
-    "id": 382,
+    "id": 384,
     "oracion": "Diseñadora de moda",
     "traduccion": "Diseñadora pict_37997_moda"
   },
   {
-    "id": 383,
+    "id": 385,
     "oracion": "Se pone el abrigo",
     "traduccion": "pict_6481_se pict_6627_poner pict_2242_abrigo"
   },
   {
-    "id": 384,
+    "id": 386,
     "oracion": "Mira el color negro",
     "traduccion": "pict_2474_mirar pict_5968_color pict_2886_negro"
   },
   {
-    "id": 385,
+    "id": 387,
     "oracion": "Palabra complicada",
     "traduccion": "pict_9837_palabra pict_4629_complicada"
   },
   {
-    "id": 386,
+    "id": 388,
     "oracion": "Cesta para juguetes",
     "traduccion": "pict_3012_cesta pict_9813_juguetes"
   },
   {
-    "id": 387,
+    "id": 389,
     "oracion": "La tristeza es un sentimiento negativo, se asocia al azul",
     "traduccion": "pict_7029_la pict_16371_tristeza pict_5581_ser pict_2627_un pict_12359_sentimiento pict_26937_negativo pict_6481_se pict_32324_asociar pict_3355_azul"
   },
   {
-    "id": 388,
+    "id": 390,
     "oracion": "Me duele el diente",
     "traduccion": "pict_2617_me pict_30620_doler pict_10267_diente"
   },
   {
-    "id": 389,
+    "id": 391,
     "oracion": "Yo no me como todos los caramelos ese día",
     "traduccion": "pict_2617_yo pict_5526_no pict_2617_me pict_12313_como pict_5596_todos pict_2686_caramelo pict_7091_ese pict_7022_día"
   },
   {
-    "id": 390,
+    "id": 392,
     "oracion": "Mamá y papá compran los regalos y los ponen en el árbol de navidad",
     "traduccion": "pict_2458_mamá pict_3047_y pict_31146_papá pict_6457_comprar pict_3149_regalo pict_3047_y pict_7033_los pict_6627_poner pict_2256_árbol pict_3134_navidad"
   },
   {
-    "id": 391,
+    "id": 393,
     "oracion": "¿Qué dices?",
     "traduccion": "pict_22624_qué pict_9692_decir"
   },
   {
-    "id": 392,
+    "id": 394,
     "oracion": "Observar y leer",
     "traduccion": "pict_2474_observar pict_3047_y pict_7141_leer"
   },
   {
-    "id": 393,
+    "id": 395,
     "oracion": "agarrar tijera",
     "traduccion": "pict_32773_agarrar pict_4964_tijera"
   },
   {
-    "id": 394,
+    "id": 396,
     "oracion": "Y no me importa porque escondo en mi mano",
     "traduccion": "pict_3047_y pict_5526_no pict_38123_me_importa pict_11348_porque pict_4642_esconder pict_12264_mi pict_2928_mano"
   },
   {
-    "id": 395,
+    "id": 397,
     "oracion": "Hola yo quiero escribir un poesía",
     "traduccion": "pict_6009_hola pict_5441_yo_quiero pict_2380_escribir pict_2627_un pict_22763_poesía"
   },
   {
-    "id": 396,
+    "id": 398,
     "oracion": "Cuando nazca mi hermanito, ¡seré el primero en conocerlo!",
     "traduccion": "pict_24053_cuando pict_8176_nacer pict_12264_mi hermanito pict_5581_ser pict_4726_primero pict_6993_conocer"
   },
   {
-    "id": 397,
+    "id": 399,
     "oracion": "pan con queso",
     "traduccion": "pict_2494_pan pict_2541_queso"
   },
   {
-    "id": 398,
+    "id": 400,
     "oracion": "El agua cambia a líquido",
     "traduccion": "pict_2248_agua pict_8053_cambiar líquido"
   },
   {
-    "id": 399,
+    "id": 401,
     "oracion": "Busca la solución",
     "traduccion": "pict_6946_buscar pict_7029_la pict_37711_solución"
   },
   {
-    "id": 400,
+    "id": 402,
     "oracion": "el pueblo",
     "traduccion": "pict_2823_pueblo"
   },
   {
-    "id": 401,
+    "id": 403,
     "oracion": "Explica cómo funciona",
     "traduccion": "pict_8579_explicar pict_22619_cómo pict_37038_funcionar"
   },
   {
-    "id": 402,
+    "id": 404,
     "oracion": "Leer el santo evangelio",
     "traduccion": "pict_7141_leer pict_24392_santo pict_24039_evangelio"
   },
   {
-    "id": 403,
+    "id": 405,
     "oracion": "El niño no sabe dónde está",
     "traduccion": "pict_2485_niño pict_5526_no pict_9034_saber pict_7764_dónde pict_5466_estar"
   },
   {
-    "id": 404,
+    "id": 406,
     "oracion": "¿Me recuerdas?",
     "traduccion": "pict_2617_me pict_11357_recordar"
   },
   {
-    "id": 405,
+    "id": 407,
     "oracion": "Me gusta",
     "traduccion": "pict_2617_me pict_2418_gustar"
   },
   {
-    "id": 406,
+    "id": 408,
     "oracion": "Yo quiero pintar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_2348_pintar"
   },
   {
-    "id": 407,
+    "id": 409,
     "oracion": "¿Donde crece la planta?",
     "traduccion": "pict_7764_donde pict_7002_crecer pict_7029_la pict_3143_planta"
   },
   {
-    "id": 408,
+    "id": 410,
     "oracion": "Beber agua",
     "traduccion": "pict_2276_beber pict_2248_agua"
   },
   {
-    "id": 409,
+    "id": 411,
     "oracion": "¿Trabajé en grupo?",
     "traduccion": "pict_2599_trabajar pict_38444_grupo"
   },
   {
-    "id": 410,
+    "id": 412,
     "oracion": "Vamos a la feria",
     "traduccion": "pict_2432_ir pict_7029_la pict_4649_feria"
   },
   {
-    "id": 411,
+    "id": 413,
     "oracion": "Observa el periodico",
     "traduccion": "pict_2474_observar periodico"
   },
   {
-    "id": 412,
+    "id": 414,
     "oracion": "Entramos en la consulta y me tumbo en la camilla",
     "traduccion": "pict_2742_entrar pict_7029_la pict_35139_consulta pict_3047_y pict_2617_me pict_8241_tumbar pict_7029_la pict_5937_camilla"
   },
   {
-    "id": 413,
+    "id": 415,
     "oracion": "De la sangre del dragón creció una rosa",
     "traduccion": "pict_7029_la pict_2803_sangre pict_5572_dragón pict_7002_crecer pict_2627_una pict_2807_rosa"
   },
   {
-    "id": 414,
+    "id": 416,
     "oracion": "Chocar las manos",
     "traduccion": "pict_4551_chocar pict_9830_manos"
   },
   {
-    "id": 415,
+    "id": 417,
     "oracion": "Cuando hablo con amabilidad, las personas me entienden mejor",
     "traduccion": "pict_24053_cuando pict_3345_hablar amabilidad pict_7117_personas pict_2617_me pict_11697_entender pict_11470_mejor"
   },
   {
-    "id": 416,
+    "id": 418,
     "oracion": "Yo quiero elaborar queso fresco",
     "traduccion": "pict_2617_yo pict_5441_querer pict_11698_elaborar pict_38046_queso_fresco"
   },
   {
-    "id": 417,
+    "id": 419,
     "oracion": "A veces podemos llorar",
     "traduccion": "pict_27387_veces pict_11750_poder pict_3239_llorar"
   },
   {
-    "id": 418,
+    "id": 420,
     "oracion": "¿Dónde se escondió Blancanieves?",
     "traduccion": "pict_7764_dónde pict_6481_se pict_4642_esconder pict_21447_blancanieves"
   },
   {
-    "id": 419,
+    "id": 421,
     "oracion": "Observa el carbón",
     "traduccion": "pict_2474_observar pict_5943_carbón"
   },
   {
-    "id": 420,
+    "id": 422,
+    "oracion": "Yo quiero reciclar",
+    "traduccion": "pict_2617_yo pict_5441_querer pict_27212_reciclar"
+  },
+  {
+    "id": 423,
     "oracion": "Me quito la mascarilla, me siento y pongo la cabeza hacia atrás",
     "traduccion": "pict_2617_me pict_11751_quitar pict_7029_la pict_9169_mascarilla pict_2617_me pict_30196_sentir pict_3047_y pict_6627_poner pict_7029_la pict_2673_cabeza atrás"
   },
   {
-    "id": 421,
+    "id": 424,
     "oracion": "Compartir una idea genial",
     "traduccion": "pict_15361_compartir pict_2627_una idea pict_11599_genial"
   },
   {
-    "id": 422,
+    "id": 425,
     "oracion": "Escribe la información de mi colegio electoral",
     "traduccion": "pict_2380_escribir pict_7029_la pict_9897_información pict_12264_mi pict_32736_colegio_electoral"
   },
   {
-    "id": 423,
+    "id": 426,
     "oracion": "Escribir el resultado",
     "traduccion": "pict_2380_escribir pict_6147_resultado"
   },
   {
-    "id": 424,
+    "id": 427,
     "oracion": "Estudiamos la historia del Perú",
     "traduccion": "pict_2387_estudiar pict_7029_la pict_32634_historia pict_8185_perú"
   },
   {
-    "id": 425,
+    "id": 428,
     "oracion": "Escribir una nota",
     "traduccion": "pict_2380_escribir pict_2627_una pict_7187_nota"
   },
   {
-    "id": 426,
+    "id": 429,
     "oracion": "te gusto",
     "traduccion": "pict_6625_te gusto"
   },
   {
-    "id": 427,
+    "id": 430,
     "oracion": "Escribir tus datos personales",
     "traduccion": "pict_2380_escribir pict_12283_tus pict_9702_datos_personales"
   },
   {
-    "id": 428,
+    "id": 431,
     "oracion": "Muchas personas se disfrazan con disfraces de miedo",
     "traduccion": "pict_7168_muchas pict_7117_personas pict_6481_se pict_5986_disfrazar pict_5985_disfraz pict_10261_miedo"
   },
   {
-    "id": 429,
+    "id": 432,
     "oracion": "Lo que más le gustaba era compartir sus inventos",
     "traduccion": "pict_6481_lo pict_11351_que pict_3220_más pict_6481_le pict_2418_gustar pict_5581_ser pict_15361_compartir pict_12276_sus inventos"
   },
   {
-    "id": 430,
+    "id": 433,
     "oracion": "Las personas ayudan con sus palas",
     "traduccion": "pict_7117_personas pict_4570_ayudar pict_12276_sus pict_5100_palas"
   },
   {
-    "id": 431,
+    "id": 434,
     "oracion": "Quiero llevarme todas las piedras y meterlas en mi caja de los tesoros",
     "traduccion": "pict_5441_querer pict_6139_llevar pict_5596_todas pict_28585_piedras pict_3047_y pict_5514_meter pict_12264_mi pict_5935_caja pict_6229_tesoro"
   },
   {
-    "id": 432,
+    "id": 435,
     "oracion": "Algunos niños se disfrazarán de bruja",
     "traduccion": "pict_5374_algunos pict_6975_niños pict_6481_se pict_5986_disfrazar pict_5404_bruja"
   },
   {
-    "id": 433,
+    "id": 436,
     "oracion": "Yo, vivo en un puerto",
     "traduccion": "pict_2617_yo pict_11397_vivo pict_2627_un pict_3145_puerto"
   },
   {
-    "id": 434,
+    "id": 437,
     "oracion": "Observa la manguera de incendios",
     "traduccion": "pict_2474_observar pict_7029_la pict_2929_manguera pict_4668_incendio"
   },
   {
-    "id": 435,
+    "id": 438,
     "oracion": "Ducharse y vestirse",
     "traduccion": "pict_2371_duchar pict_3047_y pict_2781_vestir"
   },
   {
-    "id": 436,
+    "id": 439,
     "oracion": "La rana se quitó el traje de baño y se bañó como se gustaba",
     "traduccion": "pict_7029_la pict_2543_rana pict_6481_se pict_11751_quitar pict_29931_traje pict_6929_baño pict_3047_y pict_6481_se pict_2271_bañar pict_12313_como pict_6481_se pict_2418_gustar"
   },
   {
-    "id": 437,
+    "id": 440,
     "oracion": "En el colegio hay profesores que nos gustan más",
     "traduccion": "pict_3082_colegio pict_9001_haber pict_2457_profesor pict_11351_que pict_7184_nos pict_2418_gustar pict_3220_más"
   },
   {
-    "id": 438,
+    "id": 441,
     "oracion": "nacer",
     "traduccion": "pict_8176_nacer"
   },
   {
-    "id": 439,
+    "id": 442,
     "oracion": "cuerda",
     "traduccion": "pict_7006_cuerda"
   },
   {
-    "id": 440,
+    "id": 443,
     "oracion": "Yo quiero estudiar para la exposición",
     "traduccion": "pict_2617_yo pict_5441_querer pict_2387_estudiar pict_7029_la pict_9870_exposición"
   },
   {
-    "id": 441,
+    "id": 444,
     "oracion": "Saturno tiene anillos",
     "traduccion": "pict_10300_saturno pict_7271_tener pict_2252_anillo"
   },
   {
-    "id": 442,
+    "id": 445,
     "oracion": "Aprieto en el brazo y me levanto de la camilla",
     "traduccion": "pict_5552_apretar pict_2669_brazo pict_3047_y pict_2617_me pict_6549_levantar pict_7029_la pict_5937_camilla"
   },
   {
-    "id": 443,
+    "id": 446,
     "oracion": "plantas aromáticas",
     "traduccion": "pict_39101_plantas_aromáticas"
   },
   {
-    "id": 444,
+    "id": 447,
     "oracion": "Los niños escribe en su cuaderno",
     "traduccion": "pict_6975_niños pict_2380_escribir pict_12272_su pict_2359_cuaderno"
   },
   {
-    "id": 445,
+    "id": 448,
     "oracion": "Yo ayudo a decorar galletas de Navidad",
     "traduccion": "pict_2617_yo pict_4570_ayudar pict_7008_decorar pict_2402_galletas pict_3134_navidad"
   },
   {
-    "id": 446,
+    "id": 449,
     "oracion": "Leer mis anotaciones",
     "traduccion": "pict_7141_leer pict_12266_mis anotaciones"
   },
   {
-    "id": 447,
+    "id": 450,
     "oracion": "Mira la publicidad",
     "traduccion": "pict_2474_mirar pict_7029_la pict_8064_publicidad"
   },
   {
-    "id": 448,
+    "id": 451,
     "oracion": "Yo quiero buscar huevos de pascua",
     "traduccion": "pict_2617_yo pict_5441_querer pict_6946_buscar pict_34039_huevos pascua"
   },
   {
-    "id": 449,
+    "id": 452,
     "oracion": "ingredientes",
     "traduccion": "pict_24119_ingredientes"
   },
   {
-    "id": 450,
+    "id": 453,
+    "oracion": "kraken",
+    "traduccion": "kraken"
+  },
+  {
+    "id": 454,
     "oracion": "Hoja",
     "traduccion": "pict_3114_hoja"
   },
   {
-    "id": 451,
+    "id": 455,
     "oracion": "Vamos a explorar, confía en mí",
     "traduccion": "pict_2432_ir pict_31904_explorar pict_36694_confiar pict_2617_mí"
   },
   {
-    "id": 452,
+    "id": 456,
     "oracion": "Ir de la mano de mamá o papá",
     "traduccion": "pict_2432_ir pict_7029_la pict_2928_mano pict_2458_mamá pict_3037_o pict_31146_papá"
   },
   {
-    "id": 453,
+    "id": 457,
     "oracion": "Observar la naturaleza",
     "traduccion": "pict_2474_observar pict_7029_la pict_20389_naturaleza"
   },
   {
-    "id": 454,
+    "id": 458,
     "oracion": "¿Qué objeto veo?",
     "traduccion": "pict_22624_qué pict_11318_objeto pict_2474_ver"
   },
   {
-    "id": 455,
+    "id": 459,
     "oracion": "Meto los libros y cuadernos en mi mochila",
     "traduccion": "pict_5514_meter pict_6641_libros pict_3047_y pict_2359_cuaderno pict_12264_mi pict_2475_mochila"
   },
   {
-    "id": 456,
+    "id": 460,
     "oracion": "Blancanieves se escapó, se escondió en el bosque y se quedó a vivir con 7 enanitos",
     "traduccion": "pict_21447_blancanieves pict_6481_se pict_21834_escapar pict_6481_se pict_4642_esconder pict_2666_bosque pict_3047_y pict_6481_se pict_27206_quedar pict_7302_vivir pict_2633_7 enanitos"
   },
   {
-    "id": 457,
+    "id": 461,
     "oracion": "El verano se acerca ya",
     "traduccion": "pict_5604_verano pict_6481_se pict_5359_acercar pict_25736_ya"
   },
   {
-    "id": 458,
+    "id": 462,
     "oracion": "El agua cambia a gas",
     "traduccion": "pict_2248_agua pict_8053_cambiar pict_25129_gas"
   },
   {
-    "id": 459,
+    "id": 463,
     "oracion": "Estar sentado",
     "traduccion": "pict_25082_estar_sentado"
   },
   {
-    "id": 460,
+    "id": 464,
     "oracion": "Se formó una montaña de cosas más grande que la fábrica de cosas nuevas",
     "traduccion": "pict_6481_se formó pict_2627_una pict_2909_montaña cosas pict_3220_más pict_4658_grande pict_11351_que pict_7029_la pict_8581_fábrica cosas pict_4705_nuevo"
   },
   {
-    "id": 461,
+    "id": 465,
     "oracion": "Lavar la ropa blanca",
     "traduccion": "pict_5496_lavar pict_7029_la pict_37944_ropa_blanca"
   },
   {
-    "id": 462,
+    "id": 466,
     "oracion": "Máquina de bebidas",
     "traduccion": "pict_25652_máquina pict_4575_bebidas"
   },
   {
-    "id": 463,
+    "id": 467,
     "oracion": "Recogemos la basura",
     "traduccion": "pict_5514_recoger pict_7029_la pict_8499_basura"
   },
   {
-    "id": 464,
+    "id": 468,
     "oracion": "Observa las plantas aromáticas",
     "traduccion": "pict_2474_observar pict_39101_plantas_aromáticas"
   },
   {
-    "id": 465,
+    "id": 469,
     "oracion": "Frutas",
     "traduccion": "pict_4653_frutas"
   },
   {
-    "id": 466,
+    "id": 470,
     "oracion": "Extinción de animales marinos",
     "traduccion": "pict_34633_extinción pict_35853_animales_marinos"
   },
   {
-    "id": 467,
+    "id": 471,
     "oracion": "Crear nueva información",
     "traduccion": "pict_11698_crear pict_4705_nueva pict_9897_información"
   },
   {
-    "id": 468,
+    "id": 472,
     "oracion": "Nombre de la planta",
     "traduccion": "pict_27357_nombre pict_7029_la pict_3143_planta"
   },
   {
-    "id": 469,
+    "id": 473,
     "oracion": "¡Mamá sácame del agua!",
     "traduccion": "pict_2458_mamá pict_5568_sacar pict_2248_agua"
   },
   {
-    "id": 470,
+    "id": 474,
     "oracion": "Yo guardo la ropa",
     "traduccion": "pict_2617_yo pict_5514_guardar pict_7029_la pict_7233_ropa"
   },
   {
-    "id": 471,
+    "id": 475,
     "oracion": "Escribir una fecha",
     "traduccion": "pict_2380_escribir pict_2627_una pict_34799_fecha"
   },
   {
-    "id": 472,
+    "id": 476,
     "oracion": "Me vestiré y me pondré muy guapo",
     "traduccion": "pict_2617_me pict_2781_vestir pict_3047_y pict_2617_me pict_6627_poner pict_25708_muy pict_4660_guapo"
   },
   {
-    "id": 473,
+    "id": 477,
     "oracion": "Zapatos en Pies",
     "traduccion": "pict_2622_zapatos pict_37227_pies"
   },
   {
-    "id": 474,
+    "id": 478,
     "oracion": "Aprieto fuerte las manos y las abro después",
     "traduccion": "pict_5552_apretar pict_4655_fuerte pict_9830_manos pict_3047_y pict_7031_las pict_24825_abrir pict_13080_después"
   },
   {
-    "id": 475,
+    "id": 479,
     "oracion": "Ponerse el pijama",
     "traduccion": "pict_6627_poner pict_2522_pijama"
   },
   {
-    "id": 476,
+    "id": 480,
     "oracion": "Un regalo precioso: la piedra corazón",
     "traduccion": "pict_2627_un pict_3149_regalo pict_11194_precioso pict_7029_la pict_6594_piedra pict_2715_corazón"
   },
   {
-    "id": 477,
+    "id": 481,
     "oracion": "Observa los medios de comunicación",
     "traduccion": "pict_2474_observar pict_19570_medio pict_9870_comunicación"
   },
   {
-    "id": 478,
+    "id": 482,
     "oracion": "Blancanieves se comió una manzana",
     "traduccion": "pict_21447_blancanieves pict_6481_se pict_2349_comer pict_2627_una pict_2462_manzana"
   },
   {
-    "id": 479,
+    "id": 483,
     "oracion": "Por último, les dieron comida a las jirafas",
     "traduccion": "pict_4765_último pict_7031_les pict_17038_dar pict_4611_comida pict_2437_jirafa"
   },
   {
-    "id": 480,
+    "id": 484,
     "oracion": "Su mamá le pinta las uñas de los pies, que son cinco y no diez",
     "traduccion": "pict_12272_su pict_2458_mamá pict_6481_le pict_2348_pintar pict_2783_uña pict_37227_pies pict_11351_que pict_5581_ser pict_2631_cinco pict_3047_y pict_5526_no pict_7025_diez"
   },
   {
-    "id": 481,
+    "id": 485,
     "oracion": "Miro los videojuegos",
     "traduccion": "pict_2474_mirar pict_21945_videojuego"
   },
   {
-    "id": 482,
+    "id": 486,
     "oracion": "prohibido robar",
     "traduccion": "pict_32366_prohibido pict_8209_robar"
   },
   {
-    "id": 483,
+    "id": 487,
     "oracion": "El limón al lado de la olla",
     "traduccion": "pict_3022_limón pict_5367_lado pict_7029_la pict_9086_olla"
   },
   {
-    "id": 484,
+    "id": 488,
     "oracion": "Explicar una idea",
     "traduccion": "pict_8579_explicar pict_2627_una idea"
   },
   {
-    "id": 485,
+    "id": 489,
     "oracion": "Un cazador escuchó gritar a Caperucita y el cazador fue a Caperucita",
     "traduccion": "pict_2627_un pict_3010_cazador pict_2381_escuchar pict_4686_gritar pict_5942_caperucita pict_3047_y pict_3010_cazador pict_5581_ser pict_5942_caperucita"
   },
   {
-    "id": 486,
+    "id": 490,
     "oracion": "Yo puedo contar hasta 10",
     "traduccion": "pict_2617_yo pict_11750_poder pict_2714_contar pict_7025_10"
   },
   {
-    "id": 487,
+    "id": 491,
     "oracion": "Reutilizamos un objeto",
     "traduccion": "pict_36441_reutilizar pict_2627_un pict_11318_objeto"
   },
   {
-    "id": 488,
+    "id": 492,
     "oracion": "Tú eres exitoso",
     "traduccion": "pict_2608_tú eres exitoso"
   },
   {
-    "id": 489,
+    "id": 493,
     "oracion": "Si no me gusta, vamos a casa",
     "traduccion": "pict_28359_si pict_5526_no pict_2617_me pict_2418_gustar pict_2432_ir pict_2317_casa"
   },
   {
-    "id": 490,
+    "id": 494,
     "oracion": "Mantenerme sano",
     "traduccion": "pict_17050_mantener pict_12293_sano"
   },
   {
-    "id": 491,
+    "id": 495,
     "oracion": "Observa la tecnología",
     "traduccion": "pict_2474_observar pict_7029_la pict_11459_tecnología"
   },
   {
-    "id": 492,
+    "id": 496,
     "oracion": "Verdes, blancas, con manchitas, marrones y transparentes",
     "traduccion": "pict_4886_verde pict_2662_blanco manchitas pict_2923_marrón pict_3047_y pict_24440_transparente"
   },
   {
-    "id": 493,
+    "id": 497,
     "oracion": "Alimento saludable",
     "traduccion": "pict_37201_alimento_saludable"
   },
   {
-    "id": 494,
+    "id": 498,
     "oracion": "Pintar cerámica rojo y blanco",
     "traduccion": "pict_2348_pintar pict_36147_cerámica pict_2808_rojo pict_3047_y pict_2662_blanco"
   },
   {
-    "id": 495,
+    "id": 499,
     "oracion": "Las herramientas se usan para trabajar",
     "traduccion": "pict_7127_herramientas pict_6481_se pict_15485_usar pict_2599_trabajar"
   },
   {
-    "id": 496,
+    "id": 500,
     "oracion": "Sonreír a mamá",
     "traduccion": "pict_13354_sonreír pict_2458_mamá"
   },
   {
-    "id": 497,
+    "id": 501,
     "oracion": "Los dos animales se ayudan",
     "traduccion": "pict_2628_dos pict_6901_animales pict_6481_se pict_4570_ayudar"
   },
   {
-    "id": 498,
+    "id": 502,
     "oracion": "Esta palabra es complicada",
     "traduccion": "pict_7095_esta pict_9837_palabra pict_5581_ser pict_4629_complicada"
   },
   {
-    "id": 499,
+    "id": 503,
     "oracion": "Algunas personas dicen truco o trato",
     "traduccion": "pict_5374_algunas pict_7117_personas pict_9692_decir truco pict_3037_o trato"
   },
   {
-    "id": 500,
+    "id": 504,
     "oracion": "Las aves volaban y cantaban de alegría",
     "traduccion": "pict_6923_aves pict_6246_volar pict_3047_y pict_2315_cantar pict_8582_alegría"
   },
   {
-    "id": 501,
+    "id": 505,
+    "oracion": "reflejo",
+    "traduccion": "reflejo"
+  },
+  {
+    "id": 506,
     "oracion": "Vamos a la playa, piscina y parques",
     "traduccion": "pict_2432_ir pict_7029_la pict_2826_playa pict_3142_piscina pict_3047_y pict_2859_parque"
   },
   {
-    "id": 502,
+    "id": 507,
     "oracion": "Yo quiero leer textos",
     "traduccion": "pict_2617_yo pict_5441_querer pict_7141_leer pict_37340_texto"
   },
   {
-    "id": 503,
+    "id": 508,
     "oracion": "Colorín colorado este cuento se ha acabado",
     "traduccion": "Colorín colorado pict_8115_este_cuento_se_ha_acabado"
   },
   {
-    "id": 504,
+    "id": 509,
     "oracion": "Leche",
     "traduccion": "pict_2445_leche"
   },
   {
-    "id": 505,
+    "id": 510,
     "oracion": "En la granja, les dieron comida a los cerdos",
     "traduccion": "pict_7029_la pict_3337_granja pict_7031_les pict_17038_dar pict_4611_comida pict_2327_cerdo"
   },
   {
-    "id": 506,
+    "id": 511,
     "oracion": "Aprendo a reciclar",
     "traduccion": "pict_8029_aprender pict_27212_reciclar"
   },
   {
-    "id": 507,
+    "id": 512,
     "oracion": "Observa la botella de metal",
     "traduccion": "pict_2474_observar pict_7029_la pict_2288_botella pict_6148_metal"
   },
   {
-    "id": 508,
+    "id": 513,
     "oracion": "En invierno te abrigarás",
     "traduccion": "pict_5493_invierno pict_6625_te abrigarás"
   },
   {
-    "id": 509,
+    "id": 514,
     "oracion": "¿importancia del estudio en los niños?",
     "traduccion": "importancia pict_8491_estudio pict_6975_niños"
   },
   {
-    "id": 510,
+    "id": 515,
     "oracion": "energía eólica",
     "traduccion": "pict_26061_energía_eólica"
   },
   {
-    "id": 511,
+    "id": 516,
     "oracion": "Objetos perdidos",
     "traduccion": "pict_16159_objeto_perdido"
   },
   {
-    "id": 512,
+    "id": 517,
     "oracion": "Subrayar la palabra correcta",
     "traduccion": "pict_6219_subrayar pict_7029_la pict_9837_palabra pict_21381_correcta"
   },
   {
-    "id": 513,
+    "id": 518,
     "oracion": "Agarrar",
     "traduccion": "pict_32773_agarrar"
   },
   {
-    "id": 514,
+    "id": 519,
     "oracion": "Tengo calor",
     "traduccion": "pict_6952_tener_calor"
   },
   {
-    "id": 515,
+    "id": 520,
     "oracion": "Escribe tu nombre",
     "traduccion": "pict_2380_escribir pict_12281_tu pict_27357_nombre"
   },
   {
-    "id": 516,
+    "id": 521,
     "oracion": "La comida da energía",
     "traduccion": "pict_7029_la pict_4611_comida pict_17038_dar pict_26059_energía"
   },
   {
-    "id": 517,
+    "id": 522,
     "oracion": "Respetar a todos",
     "traduccion": "pict_11621_respetar pict_5596_todos"
   },
   {
-    "id": 518,
+    "id": 523,
     "oracion": "Los pájaros regresan porque hace calor",
     "traduccion": "pict_2490_pájaro pict_29714_regresar pict_11348_porque pict_11749_hacer pict_35561_calor"
   },
   {
-    "id": 519,
+    "id": 524,
     "oracion": "¿Qué hora es?",
     "traduccion": "pict_22624_qué pict_7129_hora pict_5581_ser"
   },
   {
-    "id": 520,
+    "id": 525,
     "oracion": "Las flores van a despertar para paisajes dibujar",
     "traduccion": "pict_7105_flores pict_2432_ir pict_8988_despertar pict_10304_paisaje pict_8088_dibujar"
   },
   {
-    "id": 521,
+    "id": 526,
     "oracion": "Me pongo la mascarilla y me voy a casa con mis padres",
     "traduccion": "pict_2617_me pict_6627_poner pict_7029_la pict_9169_mascarilla pict_3047_y pict_2617_me pict_2432_ir pict_2317_casa pict_12266_mis pict_35059_padres"
   },
   {
-    "id": 522,
+    "id": 527,
     "oracion": "Yo escribo en un papel rojo",
     "traduccion": "pict_2617_yo pict_2380_escribir pict_2627_un pict_8349_papel pict_2808_rojo"
   },
   {
-    "id": 523,
+    "id": 528,
     "oracion": "Mezclar amarillo con rojo es igual a naranja",
     "traduccion": "pict_5515_mezclar pict_2648_amarillo pict_2808_rojo pict_5581_ser pict_3423_igual pict_2483_naranja"
   },
   {
-    "id": 524,
+    "id": 529,
     "oracion": "Poesía de invierno",
     "traduccion": "pict_22763_poesía pict_5493_invierno"
   },
   {
-    "id": 525,
+    "id": 530,
     "oracion": "El corazón y la respiración se para",
     "traduccion": "pict_2715_corazón pict_3047_y pict_7029_la respiración pict_6481_se pict_7194_para"
   },
   {
-    "id": 526,
+    "id": 531,
     "oracion": "Me acuesto en la cama y estaré tranquilo",
     "traduccion": "pict_2617_me pict_4553_acostar pict_7029_la pict_2304_cama pict_3047_y pict_5466_estar pict_31310_tranquilo"
   },
   {
-    "id": 527,
+    "id": 532,
     "oracion": "Llaman por teléfono a mis padres y vamos al médico",
     "traduccion": "pict_4687_llamar pict_2586_teléfono pict_12266_mis pict_35059_padres pict_3047_y pict_2432_ir pict_2467_médico"
   },
   {
-    "id": 528,
+    "id": 533,
     "oracion": "Luego pintamos",
     "traduccion": "pict_13080_luego pict_2348_pintar"
   },
   {
-    "id": 529,
+    "id": 534,
     "oracion": "Pintar con temperas",
     "traduccion": "pict_2348_pintar temperas"
   },
   {
-    "id": 530,
+    "id": 535,
     "oracion": "Enamorado",
     "traduccion": "pict_7232_enamorado"
   },
   {
-    "id": 531,
+    "id": 536,
     "oracion": "Yo ayudo a preparar un pastel",
     "traduccion": "pict_2617_yo pict_4570_ayudar pict_6190_preparar pict_2627_un pict_2502_pastel"
   },
   {
-    "id": 532,
+    "id": 537,
     "oracion": "Me gusta aprender cosas nuevas",
     "traduccion": "pict_2617_me pict_2418_gustar pict_8029_aprender cosas pict_4705_nuevo"
   },
   {
-    "id": 533,
+    "id": 538,
     "oracion": "Cuánto mides",
     "traduccion": "pict_24731_cuánto pict_5510_medir"
   },
   {
-    "id": 534,
+    "id": 539,
     "oracion": "Yo no quiero nada",
     "traduccion": "pict_2617_yo pict_6156_no_quiero pict_29839_nada"
   },
   {
-    "id": 535,
+    "id": 540,
     "oracion": "Observa el cielo, podrás tener unas vacaciones hermosas",
     "traduccion": "pict_2474_observar pict_6978_cielo pict_11750_poder pict_7271_tener pict_8475_unas pict_3166_vacaciones pict_11194_hermoso"
   },
   {
-    "id": 536,
+    "id": 541,
     "oracion": "La oveja da lana",
     "traduccion": "pict_7029_la pict_2489_oveja pict_17038_dar pict_2948_lana"
   },
   {
-    "id": 537,
+    "id": 542,
     "oracion": "Me duele la rodilla",
     "traduccion": "pict_2617_me pict_30620_doler pict_7029_la pict_2810_rodilla"
   },
   {
-    "id": 538,
+    "id": 543,
     "oracion": "Yo uno con el pegamento",
     "traduccion": "pict_2617_yo pict_2627_uno pict_2510_pegamento"
   },
   {
-    "id": 539,
+    "id": 544,
     "oracion": "Respiro, aguanto y soplo velitas",
     "traduccion": "pict_34377_respirar aguanto pict_3047_y pict_4747_soplar velitas"
   },
   {
-    "id": 540,
+    "id": 545,
     "oracion": "Observa la información",
     "traduccion": "pict_2474_observar pict_7029_la pict_9897_información"
   },
   {
-    "id": 541,
+    "id": 546,
     "oracion": "Cómo Hacer pis",
     "traduccion": "pict_22619_cómo pict_3429_hacer_pis"
   },
   {
-    "id": 542,
+    "id": 547,
     "oracion": "Si terminé de comer y mamá está comiendo, no me enojo",
     "traduccion": "pict_28359_si pict_5358_terminar pict_2349_comer pict_3047_y pict_2458_mamá pict_5466_estar pict_2349_comer pict_5526_no pict_2617_me enojo"
   },
   {
-    "id": 543,
+    "id": 548,
     "oracion": "Todos los seres vivos nacen, se desarrollan y mueren",
     "traduccion": "pict_5596_todos pict_10250_seres_vivos pict_8176_nacer pict_6481_se pict_11683_desarrollar pict_3047_y pict_16359_morir"
   },
   {
-    "id": 544,
+    "id": 549,
     "oracion": "Compartir con mamá",
     "traduccion": "pict_15361_compartir pict_2458_mamá"
   },
   {
-    "id": 545,
+    "id": 550,
     "oracion": "Indicar partes de la planta",
     "traduccion": "pict_6612_indicar pict_9877_partes pict_7029_la pict_3143_planta"
   },
   {
-    "id": 546,
+    "id": 551,
     "oracion": "Abro la boca, meten el hisopo en mi garganta y espero",
     "traduccion": "pict_24825_abrir pict_7029_la pict_2663_boca pict_5514_meter hisopo pict_12264_mi pict_3332_garganta pict_3047_y pict_8109_esperar"
   },
   {
-    "id": 547,
+    "id": 552,
     "oracion": "Yo puedo tapar la botella",
     "traduccion": "pict_2617_yo pict_11750_poder pict_7264_tapar_el_bote"
   },
   {
-    "id": 548,
+    "id": 553,
     "oracion": "Cómo ordenar",
     "traduccion": "pict_22619_cómo pict_2872_ordenar"
   },
   {
-    "id": 549,
+    "id": 554,
     "oracion": "Ganar la medalla",
     "traduccion": "pict_7218_ganar pict_7029_la pict_3128_medalla"
   },
   {
-    "id": 550,
+    "id": 555,
     "oracion": "Yo puedo dormir mucho por las mañanas",
     "traduccion": "pict_2617_yo pict_11750_poder pict_2369_dormir pict_5521_mucho pict_7152_mañana"
   },
   {
-    "id": 551,
+    "id": 556,
     "oracion": "Colores y formas",
     "traduccion": "pict_32586_color_y_forma"
   },
   {
-    "id": 552,
+    "id": 557,
     "oracion": "Urano es muy frío",
     "traduccion": "pict_10302_urano pict_5581_ser pict_25708_muy pict_4652_frío"
   },
   {
-    "id": 553,
+    "id": 558,
     "oracion": "Como tranquila y despacio",
     "traduccion": "pict_12313_como pict_31310_tranquila pict_3047_y pict_4676_despacio"
   },
   {
-    "id": 554,
+    "id": 559,
     "oracion": "Los adolescentes no juegan con muñecas",
     "traduccion": "pict_38817_adolescentes pict_5526_no pict_2439_jugar pict_2482_muñeca"
   },
   {
-    "id": 555,
+    "id": 560,
     "oracion": "Me estoy poniendo los pantalones",
     "traduccion": "pict_2617_me pict_5466_estar pict_6627_poner pict_13638_pantalones"
   },
   {
-    "id": 556,
+    "id": 561,
     "oracion": "Cuidado con lo que miras por internet",
     "traduccion": "pict_25618_cuidado pict_6481_lo pict_11351_que pict_2474_mirar pict_5492_internet"
   },
   {
-    "id": 557,
+    "id": 562,
     "oracion": "Escucho a alguien entrar sin llamar",
     "traduccion": "pict_2381_escuchar pict_37779_alguien pict_2742_entrar pict_4687_llamar"
   },
   {
-    "id": 558,
+    "id": 563,
     "oracion": "Vámonos a casa",
     "traduccion": "Vámonos pict_2317_casa"
   },
   {
-    "id": 559,
+    "id": 564,
     "oracion": "Evaporación",
     "traduccion": "pict_36157_evaporación"
   },
   {
-    "id": 560,
+    "id": 565,
     "oracion": "Escucho el cuento con atención",
     "traduccion": "pict_2381_escuchar pict_2364_cuento pict_24863_atención"
   },
   {
-    "id": 561,
+    "id": 566,
     "oracion": "Todos sintieron que eran los mejores",
     "traduccion": "pict_5596_todos pict_30196_sentir pict_11351_que pict_5581_ser pict_11470_mejor"
   },
   {
-    "id": 562,
+    "id": 567,
     "oracion": "¿De qué se alimenta?",
     "traduccion": "pict_22624_qué pict_6481_se pict_11176_alimentar"
   },
   {
-    "id": 563,
+    "id": 568,
     "oracion": "Hacemos una fila",
     "traduccion": "pict_11749_hacer pict_2627_una pict_7102_fila"
   },
   {
-    "id": 564,
+    "id": 569,
     "oracion": "Yo quiero escribir un cuento",
     "traduccion": "pict_2617_yo pict_5441_querer pict_2380_escribir pict_2627_un pict_2364_cuento"
   },
   {
-    "id": 565,
+    "id": 570,
     "oracion": "En nuestro colegio veremos calabazas",
     "traduccion": "pict_12268_nuestro pict_3082_colegio pict_2474_ver pict_2679_calabaza"
   },
   {
-    "id": 566,
+    "id": 571,
     "oracion": "La reina se disfrazó de anciana y le dio a Blancanieves una manzana envenenada",
     "traduccion": "pict_7029_la pict_5559_reina pict_6481_se pict_5986_disfrazar pict_34894_anciana pict_3047_y pict_6481_le pict_17038_dar pict_21447_blancanieves pict_2627_una pict_2462_manzana envenenada"
   },
   {
-    "id": 567,
+    "id": 572,
     "oracion": "Describir una pelota",
     "traduccion": "Describir pict_2627_una pict_3241_pelota"
   },
   {
-    "id": 568,
+    "id": 573,
     "oracion": "Muy feliz",
     "traduccion": "pict_25708_muy pict_9907_feliz"
   },
   {
-    "id": 569,
+    "id": 574,
     "oracion": "Observen la tienda de animales",
     "traduccion": "Observen pict_7029_la pict_9117_tienda pict_6901_animales"
   },
   {
-    "id": 570,
+    "id": 575,
     "oracion": "Usar saco antes de exponer",
     "traduccion": "pict_15485_usar pict_3296_saco pict_13028_antes pict_9870_exponer"
   },
   {
-    "id": 571,
+    "id": 576,
     "oracion": "Compartir con papá",
     "traduccion": "pict_15361_compartir pict_31146_papá"
   },
   {
-    "id": 572,
+    "id": 577,
     "oracion": "La Vaca da leche",
     "traduccion": "pict_7029_la pict_2609_vaca pict_2445_leche"
   },
   {
-    "id": 573,
+    "id": 578,
     "oracion": "Miro mi agenda",
     "traduccion": "pict_2474_mirar pict_12264_mi pict_5898_agenda"
   },
   {
-    "id": 574,
+    "id": 579,
     "oracion": "Y adornan las ventanas, la puerta o el jardín",
     "traduccion": "pict_3047_y pict_7008_adornar pict_2611_ventana pict_7029_la pict_3244_puerta pict_3037_o pict_2434_jardín"
   },
   {
-    "id": 575,
+    "id": 580,
     "oracion": "Yo sé trabajar y quiero tener amigos",
     "traduccion": "pict_2617_yo pict_9034_saber pict_2599_trabajar pict_3047_y pict_5441_querer pict_7271_tener pict_2255_amigos"
   },
   {
-    "id": 576,
+    "id": 581,
     "oracion": "En la escuela, la maestra pregunta sobre los peces",
     "traduccion": "pict_7029_la pict_3082_escuela pict_7029_la pict_2456_maestra pict_7217_pregunta pict_7199_peces"
   },
   {
-    "id": 577,
+    "id": 582,
     "oracion": "¿A quién le llevó la comida Caperucita?",
     "traduccion": "pict_9853_quién pict_6481_le pict_6139_llevar pict_7029_la pict_4611_comida pict_5942_caperucita"
   },
   {
-    "id": 578,
+    "id": 583,
     "oracion": "Me duele la espalda",
     "traduccion": "pict_2617_me pict_30620_doler pict_7029_la pict_2748_espalda"
   },
   {
-    "id": 579,
+    "id": 584,
     "oracion": "El caballero",
     "traduccion": "pict_5406_caballero"
   },
   {
-    "id": 580,
+    "id": 585,
     "oracion": "Todo correcto",
     "traduccion": "pict_5596_todo pict_21381_correcto"
   },
   {
-    "id": 581,
+    "id": 586,
     "oracion": "¿Cuál es tu canción favorita?",
     "traduccion": "pict_26022_cuál pict_5581_ser pict_12281_tu pict_24791_canción pict_30012_favorita"
   },
   {
-    "id": 582,
+    "id": 587,
     "oracion": "El sol dice hola la luna dice adiós",
     "traduccion": "pict_2798_sol pict_9692_decir pict_6009_hola pict_7029_la pict_2933_luna pict_9692_decir pict_5896_adiós"
   },
   {
-    "id": 583,
+    "id": 588,
     "oracion": "Diseñar un documento",
     "traduccion": "pict_21800_diseñar pict_2627_un pict_21802_documento"
   },
   {
-    "id": 584,
+    "id": 589,
     "oracion": "Yo quiero bailar con mis amigos",
     "traduccion": "pict_2617_yo pict_5441_querer pict_2652_bailar pict_12266_mis pict_2255_amigos"
   },
   {
-    "id": 585,
+    "id": 590,
     "oracion": "Empieza en Octubre y se retrasa una hora el reloj",
     "traduccion": "pict_5431_empezar pict_6571_octubre pict_3047_y pict_6481_se retrasa pict_2627_una pict_7129_hora pict_2549_reloj"
   },
   {
-    "id": 586,
+    "id": 591,
     "oracion": "Besar a mamá",
     "traduccion": "pict_6062_besar pict_2458_mamá"
   },
   {
-    "id": 587,
+    "id": 592,
     "oracion": "Resolver el examen",
     "traduccion": "pict_37711_resolver pict_38462_examen"
   },
   {
-    "id": 588,
+    "id": 593,
     "oracion": "Me duele la garganta",
     "traduccion": "pict_2617_me pict_30620_doler pict_7029_la pict_3332_garganta"
   },
   {
-    "id": 589,
+    "id": 594,
     "oracion": "Hace mucho tiempo las mujeres trabajaban en el campo",
     "traduccion": "pict_11749_hacer pict_37678_mucho_tiempo pict_32364_mujeres pict_2599_trabajar pict_2683_campo"
   },
   {
-    "id": 590,
+    "id": 595,
     "oracion": "Poca utilidad",
     "traduccion": "pict_5546_poco pict_17036_utilidad"
   },
   {
-    "id": 591,
+    "id": 596,
     "oracion": "Siete días, ¿cuáles son?",
     "traduccion": "pict_2633_siete pict_7022_día pict_26022_cuál pict_5581_ser"
   },
   {
-    "id": 592,
+    "id": 597,
     "oracion": "El señor invierno",
     "traduccion": "pict_4744_señor pict_5493_invierno"
   },
   {
-    "id": 593,
+    "id": 598,
     "oracion": "Mamá, es un lugar lejos",
     "traduccion": "pict_2458_mamá pict_5581_ser pict_2627_un pict_9819_lugar pict_30385_lejos"
   },
   {
-    "id": 594,
+    "id": 599,
     "oracion": "Yo quiero dibujar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_8088_dibujar"
   },
   {
-    "id": 595,
+    "id": 600,
     "oracion": "La rana se lo contó a quiénes pasaban por allí",
     "traduccion": "pict_7029_la pict_2543_rana pict_6481_se pict_6481_lo pict_2714_contar pict_9857_quiénes pict_6581_pasar pict_5375_allí"
   },
   {
-    "id": 596,
+    "id": 601,
     "oracion": "Observa el muro grande",
     "traduccion": "pict_2474_observar pict_8266_muro pict_4658_grande"
   },
   {
-    "id": 597,
+    "id": 602,
     "oracion": "Me miro al espejo",
     "traduccion": "pict_2617_me pict_2474_mirar pict_2385_espejo"
   },
   {
-    "id": 598,
+    "id": 603,
     "oracion": "La pesca es para adultos",
     "traduccion": "pict_7029_la pict_11339_pesca pict_5581_ser pict_6887_adultos"
   },
   {
-    "id": 599,
+    "id": 604,
     "oracion": "Abrochamos el cinturón",
     "traduccion": "pict_5357_abrochar pict_2336_cinturón"
   },
   {
-    "id": 600,
+    "id": 605,
     "oracion": "El Sol da calor",
     "traduccion": "pict_2798_sol pict_17038_dar pict_35561_calor"
   },
   {
-    "id": 601,
+    "id": 606,
     "oracion": "Qué es un arco iris",
     "traduccion": "pict_22624_qué pict_5581_ser pict_2627_un pict_2986_arco_iris"
   },
   {
-    "id": 602,
+    "id": 607,
     "oracion": "Seguimos las normas del aula",
     "traduccion": "pict_7038_seguir pict_34794_normas pict_5913_aula"
   },
   {
-    "id": 603,
+    "id": 608,
     "oracion": "Clara y su familia viajarán a Alemania para ver a sus primas",
     "traduccion": "pict_4604_clara pict_3047_y pict_12272_su pict_2392_familia pict_4671_viajar pict_8011_alemania pict_2474_ver pict_12276_sus pict_30372_primas"
   },
   {
-    "id": 604,
+    "id": 609,
     "oracion": "¿Quiénes son los personajes del cuento?",
     "traduccion": "pict_9857_quiénes pict_5581_ser personajes pict_2364_cuento"
   },
   {
-    "id": 605,
+    "id": 610,
     "oracion": "Leer el libro",
     "traduccion": "pict_7141_leer pict_2450_libro"
   },
   {
-    "id": 606,
+    "id": 611,
     "oracion": "Hola, cual es tu nombre",
     "traduccion": "pict_6009_hola cual pict_5581_ser pict_12281_tu pict_27357_nombre"
   },
   {
-    "id": 607,
+    "id": 612,
     "oracion": "Hola yo quiero comprar 1 olla",
     "traduccion": "pict_6009_hola pict_5441_yo_quiero pict_6457_comprar pict_2627_1 pict_9086_olla"
   },
   {
-    "id": 608,
+    "id": 613,
     "oracion": "Ir al baño",
     "traduccion": "pict_2432_ir pict_6929_baño"
   },
   {
-    "id": 609,
+    "id": 614,
     "oracion": "Si la persona está viva siente sueño",
     "traduccion": "pict_28359_si pict_7029_la pict_34559_persona pict_5466_estar pict_11397_viva pict_30196_sentir pict_5590_sueño"
   },
   {
-    "id": 610,
+    "id": 615,
     "oracion": "Visitar la iglesia",
     "traduccion": "pict_4772_visitar pict_7029_la pict_3118_iglesia"
   },
   {
-    "id": 611,
+    "id": 616,
     "oracion": "Carne",
     "traduccion": "pict_2316_carne"
   },
   {
-    "id": 612,
+    "id": 617,
     "oracion": "Pobreza en el país",
     "traduccion": "pict_15519_pobreza pict_35431_país"
   },
   {
-    "id": 613,
+    "id": 618,
     "oracion": "No chuparse el dedo",
     "traduccion": "pict_5526_no pict_2702_chupar pict_3298_dedo"
   },
   {
-    "id": 614,
+    "id": 619,
     "oracion": "Yo quiero leer el santo evangelio",
     "traduccion": "pict_2617_yo pict_5441_querer pict_7141_leer pict_24392_santo pict_24039_evangelio"
   },
   {
-    "id": 615,
+    "id": 620,
     "oracion": "La gente del pueblo estaba muy asustada",
     "traduccion": "pict_7029_la pict_7117_gente pict_2823_pueblo pict_5466_estar pict_25708_muy pict_2261_asustada"
   },
   {
-    "id": 616,
+    "id": 621,
     "oracion": "También vió que en tierra había cosas y no sabía qué hacían allí",
     "traduccion": "pict_11591_también pict_2474_ver pict_11351_que pict_3160_tierra pict_9001_haber cosas pict_3047_y pict_5526_no pict_9034_saber pict_22624_qué pict_11749_hacer pict_5375_allí"
   },
   {
-    "id": 617,
+    "id": 622,
     "oracion": "El pollo conseguía arreglar cualquier cosa",
     "traduccion": "pict_2533_pollo pict_24208_conseguir pict_6910_arreglar pict_26779_cualquier cosa"
   },
   {
-    "id": 618,
+    "id": 623,
     "oracion": "Observa la ardilla",
     "traduccion": "pict_2474_observar pict_7029_la pict_2257_ardilla"
   },
   {
-    "id": 619,
+    "id": 624,
     "oracion": "Mezclar amarillo y rojo con el pincel",
     "traduccion": "pict_5515_mezclar pict_2648_amarillo pict_3047_y pict_2808_rojo pict_2523_pincel"
   },
   {
-    "id": 620,
+    "id": 625,
     "oracion": "Nos quedamos en casa, jugamos y leemos",
     "traduccion": "pict_7184_nos pict_27206_quedar pict_2317_casa pict_2439_jugar pict_3047_y pict_7141_leer"
   },
   {
-    "id": 621,
+    "id": 626,
     "oracion": "Decir información negativa",
     "traduccion": "pict_9692_decir pict_9897_información pict_26937_negativa"
   },
   {
-    "id": 622,
+    "id": 627,
     "oracion": "Escribimos en el mapa lo más importante",
     "traduccion": "pict_2380_escribir pict_5505_mapa pict_6481_lo pict_3220_más pict_11470_importante"
   },
   {
-    "id": 623,
+    "id": 628,
     "oracion": "Los pájaros vuelan a otros lugares",
     "traduccion": "pict_2490_pájaro pict_6246_volar pict_17056_otros pict_32598_lugares"
   },
   {
-    "id": 624,
+    "id": 629,
     "oracion": "¿Cómo estás?",
     "traduccion": "pict_22619_cómo pict_5466_estar"
   },
   {
-    "id": 625,
+    "id": 630,
     "oracion": "Cuando termina de salir humo, la enfermera me quita la mascarilla",
     "traduccion": "pict_24053_cuando pict_5358_terminar pict_2806_salir pict_6529_humo pict_7029_la pict_2375_enfermera pict_2617_me pict_11751_quitar pict_7029_la pict_9169_mascarilla"
   },
   {
-    "id": 626,
+    "id": 631,
     "oracion": "pintor",
     "traduccion": "pict_6596_pintor"
   },
   {
-    "id": 627,
+    "id": 632,
     "oracion": "Escribir del futuro",
     "traduccion": "pict_2380_escribir pict_9829_futuro"
   },
   {
-    "id": 628,
+    "id": 633,
     "oracion": "Clara y su familia viajarán a Alemania para ver a sus primos",
     "traduccion": "pict_4604_clara pict_3047_y pict_12272_su pict_2392_familia pict_4671_viajar pict_8011_alemania pict_2474_ver pict_12276_sus pict_30318_primos"
   },
   {
-    "id": 629,
+    "id": 634,
     "oracion": "pescar",
     "traduccion": "pict_6592_pescar"
   },
   {
-    "id": 630,
+    "id": 635,
     "oracion": "Yo dibujo una planta",
     "traduccion": "pict_2617_yo pict_11238_dibujo pict_2627_una pict_3143_planta"
   },
   {
-    "id": 631,
+    "id": 636,
     "oracion": "Mesa electoral",
     "traduccion": "pict_25241_mesa_electoral"
   },
   {
-    "id": 632,
+    "id": 637,
     "oracion": "Me enojo cuando las cosas van mal",
     "traduccion": "pict_2617_me enojo pict_24053_cuando cosas pict_2432_ir pict_5504_mal"
   },
   {
-    "id": 633,
+    "id": 638,
     "oracion": "Durante el viaje a alemania, pararon varias veces para descansar",
     "traduccion": "pict_11393_viaje pict_8011_alemania pict_7195_parar pict_5374_varias pict_27387_veces pict_3299_descansar"
   },
   {
-    "id": 634,
+    "id": 639,
     "oracion": "Observa las monedas",
     "traduccion": "pict_2474_observar pict_8633_monedas"
   },
   {
-    "id": 635,
+    "id": 640,
     "oracion": "¿Me explicas?",
     "traduccion": "pict_2617_me pict_8579_explicar"
   },
   {
-    "id": 636,
+    "id": 641,
     "oracion": "Tengo frío",
     "traduccion": "pict_35583_tener_frío"
   },
   {
-    "id": 637,
+    "id": 642,
     "oracion": "Acostarse en la cama",
     "traduccion": "pict_4553_acostar pict_7029_la pict_2304_cama"
   },
   {
-    "id": 638,
+    "id": 643,
     "oracion": "Yo elijo mi disfraz",
     "traduccion": "pict_2617_yo pict_6483_elegir pict_12264_mi pict_5985_disfraz"
   },
   {
-    "id": 639,
+    "id": 644,
     "oracion": "Comida de Perú",
     "traduccion": "pict_4611_comida pict_8185_perú"
   },
   {
-    "id": 640,
+    "id": 645,
     "oracion": "Si la persona está viva siente calor",
     "traduccion": "pict_28359_si pict_7029_la pict_34559_persona pict_5466_estar pict_11397_viva pict_30196_sentir pict_35561_calor"
   },
   {
-    "id": 641,
+    "id": 646,
     "oracion": "Queremos una sonrisa y paz",
     "traduccion": "pict_5441_querer pict_2627_una pict_13354_sonrisa pict_3047_y pict_8182_paz"
   },
   {
-    "id": 642,
+    "id": 647,
     "oracion": "Observa la luna",
     "traduccion": "pict_2474_observar pict_7029_la pict_2933_luna"
   },
   {
-    "id": 643,
+    "id": 648,
     "oracion": "Al entrar al restaurante me lavo las manos",
     "traduccion": "pict_2742_entrar pict_10283_restaurante pict_2617_me pict_5496_lavar pict_9830_manos"
   },
   {
-    "id": 644,
+    "id": 649,
     "oracion": "Los cristianos recordamos el domingo de ramos bendiciendo las palmas",
     "traduccion": "pict_23993_cristiano pict_11357_recordar pict_6478_domingo pict_7804_ramo pict_30894_bendecir pict_38142_palmas"
   },
   {
-    "id": 645,
+    "id": 650,
     "oracion": "Mezclar azul con rojo es igual a violeta",
     "traduccion": "pict_5515_mezclar pict_3355_azul pict_2808_rojo pict_5581_ser pict_3423_igual pict_11395_violeta"
   },
   {
-    "id": 646,
+    "id": 651,
     "oracion": "Ahora cuando van a comprar colocan las cosas en su cesto, sin bolsas",
     "traduccion": "pict_13026_ahora pict_24053_cuando pict_2432_ir pict_6457_comprar pict_6989_colocar cosas pict_12272_su pict_34486_cesto pict_21453_bolsa"
   },
   {
-    "id": 647,
+    "id": 652,
     "oracion": "¿Quiénes asistieron?",
     "traduccion": "pict_9857_quiénes pict_21385_asistir"
   },
   {
-    "id": 648,
+    "id": 653,
     "oracion": "Contar un cuento de amor",
     "traduccion": "pict_2714_contar pict_2627_un pict_2364_cuento pict_8020_amor"
   },
   {
-    "id": 649,
+    "id": 654,
     "oracion": "Yo quiero participar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_11475_participar"
   },
   {
-    "id": 650,
+    "id": 655,
     "oracion": "Aburrido",
     "traduccion": "pict_2245_aburrido"
   },
   {
-    "id": 651,
+    "id": 656,
     "oracion": "Observa los árboles del campo",
     "traduccion": "pict_2474_observar pict_2256_árbol pict_2683_campo"
   },
   {
-    "id": 652,
+    "id": 657,
     "oracion": "Hablar a uno mismo",
     "traduccion": "pict_3345_hablar pict_2627_uno pict_4667_mismo"
   },
   {
-    "id": 653,
+    "id": 658,
     "oracion": "Me encuentro mal",
     "traduccion": "pict_2617_me pict_5990_encontrar pict_5504_mal"
   },
   {
-    "id": 654,
+    "id": 659,
     "oracion": "Antes de leer",
     "traduccion": "pict_13028_antes pict_7141_leer"
   },
   {
-    "id": 655,
+    "id": 660,
     "oracion": "Señala el color rojo",
     "traduccion": "pict_6612_señalar pict_5968_color pict_2808_rojo"
   },
   {
-    "id": 656,
+    "id": 661,
     "oracion": "Las campanadas son los sonidos de un reloj grande",
     "traduccion": "campanadas pict_5581_ser pict_27073_sonido pict_2627_un pict_2549_reloj pict_4658_grande"
   },
   {
-    "id": 657,
+    "id": 662,
     "oracion": "Me ponen algodón con alcohol y esparadrapo",
     "traduccion": "pict_2617_me pict_6627_poner pict_2985_algodón pict_2984_alcohol pict_3047_y pict_3306_esparadrapo"
   },
   {
-    "id": 658,
+    "id": 663,
     "oracion": "Tú puedes comprender",
     "traduccion": "pict_2608_tú pict_11750_poder pict_11697_comprender"
   },
   {
-    "id": 659,
+    "id": 664,
     "oracion": "cuaderno de comunicación",
     "traduccion": "pict_2359_cuaderno pict_9870_comunicación"
   },
   {
-    "id": 660,
+    "id": 665,
     "oracion": "estados de la materia",
     "traduccion": "estados pict_7029_la materia"
   },
   {
-    "id": 661,
+    "id": 666,
     "oracion": "Observalos al hablar",
     "traduccion": "Observalos pict_3345_hablar"
   },
   {
-    "id": 662,
+    "id": 667,
     "oracion": "Karen volvió a sonreír",
     "traduccion": "Karen pict_6248_volver pict_13354_sonreír"
   },
   {
-    "id": 663,
+    "id": 668,
     "oracion": "preguntar",
     "traduccion": "pict_9840_preguntar"
   },
   {
-    "id": 664,
+    "id": 669,
     "oracion": "Recibir el diploma",
     "traduccion": "pict_17044_recibir pict_27724_diploma"
   },
   {
-    "id": 665,
+    "id": 670,
     "oracion": "Decir que pasó",
     "traduccion": "pict_9692_decir pict_11351_que pict_6581_pasar"
   },
   {
-    "id": 666,
+    "id": 671,
     "oracion": "Escribo en mi cuaderno",
     "traduccion": "pict_2380_escribir pict_12264_mi pict_2359_cuaderno"
   },
   {
-    "id": 667,
+    "id": 672,
     "oracion": "El desayuno da energía",
     "traduccion": "pict_4626_desayuno pict_17038_dar pict_26059_energía"
   },
   {
-    "id": 668,
+    "id": 673,
     "oracion": "Colocamos un cuadro",
     "traduccion": "pict_6989_colocar pict_2627_un pict_2360_cuadro"
   },
   {
-    "id": 669,
+    "id": 674,
     "oracion": "Recomiendo que escribas en tu cuaderno",
     "traduccion": "pict_37708_recomendar pict_11351_que pict_2380_escribir pict_12281_tu pict_2359_cuaderno"
   },
   {
-    "id": 670,
+    "id": 675,
     "oracion": "Hola yo quiero comer",
     "traduccion": "pict_6009_hola pict_5441_yo_quiero pict_2349_comer"
   },
   {
-    "id": 671,
+    "id": 676,
     "oracion": "Trabajadores en cerámica nos enseñan",
     "traduccion": "pict_7795_trabajadores pict_36147_cerámica pict_7184_nos pict_11308_enseñar"
   },
   {
-    "id": 672,
+    "id": 677,
     "oracion": "Escuchar el cuento",
     "traduccion": "pict_2381_escuchar pict_2364_cuento"
   },
   {
-    "id": 673,
+    "id": 678,
     "oracion": "Hoy por la tarde vamos a ver la cabalgata de reyes",
     "traduccion": "pict_7131_hoy pict_7029_la pict_7268_tarde pict_2432_ir pict_2474_ver pict_7029_la pict_26708_cabalgata pict_3124_reyes"
   },
   {
-    "id": 674,
+    "id": 679,
     "oracion": "Terminar de estudiar",
     "traduccion": "pict_5358_terminar pict_2387_estudiar"
   },
   {
-    "id": 675,
+    "id": 680,
     "oracion": "Soy responsable ayudando a las personas",
     "traduccion": "pict_5581_ser pict_15531_responsable pict_4570_ayudar pict_7117_personas"
   },
   {
-    "id": 676,
+    "id": 681,
     "oracion": "¿Quién descubre los huesos de dinosaurio?",
     "traduccion": "pict_9853_quién pict_6019_descubrir pict_2972_hueso pict_2738_dinosaurio"
   },
   {
-    "id": 677,
+    "id": 682,
     "oracion": "La comida da energía al cuerpo",
     "traduccion": "pict_7029_la pict_4611_comida pict_17038_dar pict_26059_energía pict_2728_cuerpo"
   },
   {
-    "id": 678,
+    "id": 683,
     "oracion": "Hablamos y escuchamos",
     "traduccion": "pict_3345_hablar pict_3047_y pict_2381_escuchar"
   },
   {
-    "id": 679,
+    "id": 684,
     "oracion": "Se hizo de día y Dani se despertó",
     "traduccion": "pict_6481_se pict_11749_hacer pict_7022_día pict_3047_y Dani pict_6481_se pict_8988_despertar"
   },
   {
-    "id": 680,
+    "id": 685,
     "oracion": "Yo tengo miedo de los niños y adultos",
     "traduccion": "pict_2617_yo pict_7271_tener pict_10261_miedo pict_6975_niños pict_3047_y pict_6887_adultos"
   },
   {
-    "id": 681,
+    "id": 686,
     "oracion": "Escuchamos la exposición de los compañeros",
     "traduccion": "pict_2381_escuchar pict_7029_la pict_9870_exposición pict_7062_compañeros"
   },
   {
-    "id": 682,
+    "id": 687,
     "oracion": "La abuela estaba enferma",
     "traduccion": "pict_7029_la pict_2243_abuela pict_5466_estar pict_3308_enferma"
   },
   {
-    "id": 683,
+    "id": 688,
     "oracion": "Cuando tengo una pregunta, puedo levantar la mano y esperar mi turno",
     "traduccion": "pict_24053_cuando pict_7271_tener pict_2627_una pict_7217_pregunta pict_11750_poder pict_9034_levantar_la_mano pict_3047_y pict_8109_esperar pict_12264_mi pict_7158_turno"
   },
   {
-    "id": 684,
+    "id": 689,
     "oracion": "Yo escribo en un papel",
     "traduccion": "pict_2617_yo pict_2380_escribir pict_2627_un pict_8349_papel"
   },
   {
-    "id": 685,
+    "id": 690,
     "oracion": "Si a mi me gusta Halloween y es divertido, yo me disfrazo y hago truco o trato",
     "traduccion": "pict_28359_si pict_12264_mi pict_2617_me pict_2418_gustar pict_6951_halloween pict_3047_y pict_5581_ser pict_24735_divertido pict_2617_yo_me pict_5986_disfrazar pict_3047_y pict_11749_hacer truco pict_3037_o trato"
   },
   {
-    "id": 686,
+    "id": 691,
     "oracion": "Mira la abeja",
     "traduccion": "pict_2474_mirar pict_7029_la pict_2239_abeja"
   },
   {
-    "id": 687,
+    "id": 692,
     "oracion": "noticia informativa",
     "traduccion": "pict_7784_noticia pict_8229_informativo"
   },
   {
-    "id": 688,
+    "id": 693,
     "oracion": "Beber un vaso de agua",
     "traduccion": "pict_2276_beber pict_2627_un pict_2610_vaso pict_2248_agua"
   },
   {
-    "id": 689,
+    "id": 694,
     "oracion": "La primavera ya llegó",
     "traduccion": "pict_7029_la pict_5553_primavera pict_25736_ya pict_11708_llegar"
   },
   {
-    "id": 690,
+    "id": 695,
     "oracion": "Hola",
     "traduccion": "pict_6009_hola"
   },
   {
-    "id": 691,
+    "id": 696,
     "oracion": "Pescado",
     "traduccion": "pict_2519_pescado"
   },
   {
-    "id": 692,
+    "id": 697,
     "oracion": "Me duele el pecho",
     "traduccion": "pict_2617_me pict_30620_doler pict_2853_pecho"
   },
   {
-    "id": 693,
+    "id": 698,
     "oracion": "Si no me gustan las uvas, puedo elegir",
     "traduccion": "pict_28359_si pict_5526_no pict_2617_me pict_2418_gustar pict_3247_uvas pict_11750_poder pict_6483_elegir"
   },
   {
-    "id": 694,
+    "id": 699,
     "oracion": "Las bolsas iban llenando todo, cajones; horno; despensa",
     "traduccion": "pict_21453_bolsa pict_2432_ir pict_7146_llenar pict_5596_todo pict_6070_cajón pict_2426_horno pict_15996_despensa"
   },
   {
-    "id": 695,
+    "id": 700,
     "oracion": "Guardamos los juguetes",
     "traduccion": "pict_5514_guardar pict_9813_juguetes"
   },
   {
-    "id": 696,
+    "id": 701,
     "oracion": "dios de los ríos y los lagos",
     "traduccion": "pict_24013_dios pict_10306_ríos pict_3047_y pict_6022_lago"
   },
   {
-    "id": 697,
+    "id": 702,
     "oracion": "Yo borro la hoja de papel",
     "traduccion": "pict_2617_yo pict_2286_borrar pict_7029_la pict_3114_hoja pict_8349_papel"
   },
   {
-    "id": 698,
+    "id": 703,
     "oracion": "Tengo fiebre",
     "traduccion": "pict_7271_tener pict_5470_fiebre"
   },
   {
-    "id": 699,
+    "id": 704,
     "oracion": "El lobo fue a casa de la abuelita y se la comió",
     "traduccion": "pict_5892_lobo pict_5581_ser pict_2317_casa pict_7029_la abuelita pict_3047_y pict_6481_se pict_7029_la pict_2349_comer"
   },
   {
-    "id": 700,
+    "id": 705,
     "oracion": "Seremos uno más en la familia",
     "traduccion": "pict_5581_ser pict_2627_uno pict_3220_más pict_7029_la pict_2392_familia"
   },
   {
-    "id": 701,
+    "id": 706,
     "oracion": "Comer trucha",
     "traduccion": "pict_2349_comer pict_7820_trucha"
   },
   {
-    "id": 702,
+    "id": 707,
     "oracion": "Observa una pila",
     "traduccion": "pict_2474_observar pict_2627_una pict_8320_pila"
   },
   {
-    "id": 703,
+    "id": 708,
     "oracion": "El estómago y los intestinos ayudan a la alimentación",
     "traduccion": "pict_3309_estómago pict_3047_y pict_2967_intestino pict_4570_ayudar pict_7029_la alimentación"
   },
   {
-    "id": 704,
+    "id": 709,
     "oracion": "Observamos los dibujos y escribimos que son",
     "traduccion": "pict_2474_observar pict_11238_dibujo pict_3047_y pict_2380_escribir pict_11351_que pict_5581_ser"
   },
   {
-    "id": 705,
+    "id": 710,
     "oracion": "Observa el balde de agua",
     "traduccion": "pict_2474_observar pict_2725_balde pict_2248_agua"
   },
   {
-    "id": 706,
+    "id": 711,
     "oracion": "Flor",
     "traduccion": "pict_3102_flor"
   },
   {
-    "id": 707,
+    "id": 712,
     "oracion": "Organiza los colores y formas",
     "traduccion": "pict_35653_organizar pict_32586_colores_y_formas"
   },
   {
-    "id": 708,
+    "id": 713,
     "oracion": "Muy molesto",
     "traduccion": "pict_25708_muy pict_7157_molesto"
   },
   {
-    "id": 709,
+    "id": 714,
     "oracion": "Explicar el tablero de comunicación",
     "traduccion": "pict_8579_explicar pict_6222_tablero pict_9870_comunicación"
   },
   {
-    "id": 710,
+    "id": 715,
     "oracion": "¿Jugamos a la pelota?",
     "traduccion": "pict_2439_jugar pict_7029_la pict_3241_pelota"
   },
   {
-    "id": 711,
+    "id": 716,
     "oracion": "Puedo beber agua",
     "traduccion": "pict_11750_poder pict_2276_beber pict_2248_agua"
   },
   {
-    "id": 712,
+    "id": 717,
     "oracion": "Ausencia de lenguaje",
     "traduccion": "Ausencia pict_10259_lenguaje"
   },
   {
-    "id": 713,
+    "id": 718,
     "oracion": "Dormir mis 8 horas",
     "traduccion": "pict_2369_dormir pict_12266_mis pict_2634_8 pict_7129_hora"
   },
   {
-    "id": 714,
+    "id": 719,
     "oracion": "Ganar el partido",
     "traduccion": "pict_7218_ganar pict_6170_partido"
   },
   {
-    "id": 715,
+    "id": 720,
     "oracion": "Es un día muy especial para todas las mamás, profesoras, tías, abuelas, hijas",
     "traduccion": "pict_5581_ser pict_2627_un pict_7022_día pict_25708_muy especial pict_5596_todas pict_2458_mamá pict_2456_profesora pict_30271_tía pict_2243_abuela pict_9885_hija"
   },
   {
-    "id": 716,
+    "id": 721,
     "oracion": "¿Estás enfadado?",
     "traduccion": "pict_5466_estar pict_2374_enfadado"
   },
   {
-    "id": 717,
+    "id": 722,
     "oracion": "Las cosas para trabajar están acá",
     "traduccion": "cosas pict_2599_trabajar pict_5466_estar pict_5382_acá"
   },
   {
-    "id": 718,
+    "id": 723,
     "oracion": "Yo quiero contar un cuento",
     "traduccion": "pict_2617_yo pict_5441_querer pict_38631_contar_un_cuento"
   },
   {
-    "id": 719,
+    "id": 724,
     "oracion": "Veo una gallina",
     "traduccion": "pict_2474_ver pict_2627_una pict_2403_gallina"
   },
   {
-    "id": 720,
+    "id": 725,
     "oracion": "Por favor, me cuidas",
     "traduccion": "favor pict_2617_me pict_11691_cuidar"
   },
   {
-    "id": 721,
+    "id": 726,
     "oracion": "Me gusta la poesía",
     "traduccion": "pict_2617_me pict_2418_gustar pict_7029_la pict_22763_poesía"
   },
   {
-    "id": 722,
+    "id": 727,
     "oracion": "Cinta adhesiva",
     "traduccion": "pict_15357_cinta pict_37499_adhesivo"
   },
   {
-    "id": 723,
+    "id": 728,
     "oracion": "3 cucharas de sal",
     "traduccion": "pict_2629_3 pict_2362_cuchara pict_25576_sal"
   },
   {
-    "id": 724,
+    "id": 729,
     "oracion": "Observa los lápices de colores",
     "traduccion": "pict_2474_observar pict_2440_lápiz pict_5968_colores"
   },
   {
-    "id": 725,
+    "id": 730,
     "oracion": "Los pájaros cantan su canción",
     "traduccion": "pict_2490_pájaro pict_2315_cantar pict_12272_su pict_24791_canción"
   },
   {
-    "id": 726,
+    "id": 731,
     "oracion": "Oficina de empleo",
     "traduccion": "pict_9092_oficina pict_11457_empleo"
   },
   {
-    "id": 727,
+    "id": 732,
     "oracion": "La mascarilla quirúrgica funciona 4 horas",
     "traduccion": "pict_7029_la pict_36791_mascarilla_quirúrgica pict_37038_funcionar pict_2630_4 pict_7129_hora"
   },
   {
-    "id": 728,
+    "id": 733,
     "oracion": "soldado",
     "traduccion": "pict_2797_soldado"
   },
   {
-    "id": 729,
+    "id": 734,
     "oracion": "Asustado",
     "traduccion": "pict_2261_asustado"
   },
   {
-    "id": 730,
+    "id": 735,
     "oracion": "Y el invierno lo seguirá",
     "traduccion": "pict_3047_y pict_5493_invierno pict_6481_lo pict_7038_seguir"
   },
   {
-    "id": 731,
+    "id": 736,
     "oracion": "Necesitamos ruedas para la máquina",
     "traduccion": "pict_37160_necesitar pict_5566_rueda pict_7029_la pict_25652_máquina"
   },
   {
-    "id": 732,
+    "id": 737,
     "oracion": "Voy con papá al centro de salud",
     "traduccion": "pict_2432_ir pict_31146_papá pict_5424_centro pict_14264_salud"
   },
   {
-    "id": 733,
+    "id": 738,
     "oracion": "Me estoy poniendo la bufanda",
     "traduccion": "pict_2617_me pict_5466_estar pict_6627_poner pict_7029_la pict_2290_bufanda"
   },
   {
-    "id": 734,
+    "id": 739,
     "oracion": "No discutir",
     "traduccion": "pict_5526_no pict_4634_discutir"
   },
   {
-    "id": 735,
+    "id": 740,
     "oracion": "¿Qué cosas recibiste?",
     "traduccion": "pict_22624_qué cosas pict_17044_recibir"
   },
   {
-    "id": 736,
+    "id": 741,
     "oracion": "Yo puedo descansar en el sofá por las tardes",
     "traduccion": "pict_2617_yo pict_11750_poder pict_3299_descansar pict_2571_sofá pict_7268_tarde"
   },
   {
-    "id": 737,
+    "id": 742,
     "oracion": "5 minutos",
     "traduccion": "pict_2631_5 pict_37374_minuto"
   },
   {
-    "id": 738,
+    "id": 743,
     "oracion": "Quiénes son los artistas",
     "traduccion": "pict_9857_quiénes pict_5581_ser pict_34767_artistas"
   },
   {
-    "id": 739,
+    "id": 744,
     "oracion": "Observa el aceite",
     "traduccion": "pict_2474_observar pict_2246_aceite"
   },
   {
-    "id": 740,
+    "id": 745,
     "oracion": "DNI",
     "traduccion": "pict_5987_dni"
   },
   {
-    "id": 741,
+    "id": 746,
     "oracion": "Estornudar",
     "traduccion": "pict_36149_estornudar"
   },
   {
-    "id": 742,
+    "id": 747,
     "oracion": "Observa el autobús",
     "traduccion": "pict_2474_observar pict_2262_autobús"
   },
   {
-    "id": 743,
+    "id": 748,
     "oracion": "Tú te diviertes",
     "traduccion": "pict_2608_tú pict_6625_te pict_8992_divertir"
   },
   {
-    "id": 744,
+    "id": 749,
     "oracion": "Leer historia del arte",
     "traduccion": "pict_7141_leer pict_32634_historia arte"
   },
   {
-    "id": 745,
+    "id": 750,
     "oracion": "Granizar no es igual que una granada",
     "traduccion": "pict_35105_granizar pict_5526_no pict_5581_ser pict_3423_igual pict_11351_que pict_2627_una pict_8594_granada"
   },
   {
-    "id": 746,
+    "id": 751,
     "oracion": "Caminamos por la calle hasta la biblioteca",
     "traduccion": "pict_3251_caminar pict_7029_la pict_2299_calle pict_7029_la pict_3065_biblioteca"
   },
   {
-    "id": 747,
+    "id": 752,
     "oracion": "Yo uno con la goma",
     "traduccion": "pict_2617_yo pict_2627_uno pict_7029_la pict_2409_goma"
   },
   {
-    "id": 748,
+    "id": 753,
     "oracion": "Hola, ¿cómo están?",
     "traduccion": "pict_6009_hola pict_22619_cómo pict_5466_estar"
   },
   {
-    "id": 749,
+    "id": 754,
     "oracion": "Se marcha el frío, llega el sol",
     "traduccion": "pict_6481_se pict_38346_marchar pict_4652_frío pict_11708_llegar pict_2798_sol"
   },
   {
-    "id": 750,
+    "id": 755,
     "oracion": "Sheila nació con una sola pierna, pero fuerte como ninguna",
     "traduccion": "Sheila pict_8176_nacer pict_2627_una pict_10213_sola pict_8666_pierna pict_11377_pero pict_4655_fuerte pict_12313_como pict_5800_ninguna"
   },
   {
-    "id": 751,
+    "id": 756,
     "oracion": "Yo quiero leer",
     "traduccion": "pict_2617_yo pict_5441_querer pict_7141_leer"
   },
   {
-    "id": 752,
+    "id": 757,
     "oracion": "Comer todo tipo de alimentos",
     "traduccion": "pict_2349_comer pict_5596_todo tipo pict_4610_alimentos"
   },
   {
-    "id": 753,
+    "id": 758,
     "oracion": "Observa la rosa",
     "traduccion": "pict_2474_observar pict_7029_la pict_2807_rosa"
   },
   {
-    "id": 754,
+    "id": 759,
     "oracion": "Cómo resolverlo",
     "traduccion": "pict_22619_cómo pict_37711_resolver"
   },
   {
-    "id": 755,
+    "id": 760,
     "oracion": "Cesto pequeño de paja",
     "traduccion": "pict_34486_cesto pict_4716_pequeño pict_6163_paja"
   },
   {
-    "id": 756,
+    "id": 761,
     "oracion": "Yo quiero hablar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_3345_hablar"
   },
   {
-    "id": 757,
+    "id": 762,
     "oracion": "Esta palabra es difícil",
     "traduccion": "pict_7095_esta pict_9837_palabra pict_5581_ser pict_4629_difícil"
   },
   {
-    "id": 758,
+    "id": 763,
     "oracion": "mina",
     "traduccion": "pict_8630_mina"
   },
   {
-    "id": 759,
+    "id": 764,
     "oracion": "Y a la mañana siguiente, el pájaro atravesó un mar",
     "traduccion": "pict_3047_y pict_7029_la pict_7152_mañana pict_27331_siguiente pict_2490_pájaro atravesó pict_2627_un pict_2925_mar"
   },
   {
-    "id": 760,
+    "id": 765,
     "oracion": "Tirarme al piso",
     "traduccion": "pict_6542_tirar pict_2575_piso"
   },
   {
-    "id": 761,
+    "id": 766,
     "oracion": "Los auxiliares nos dicen si podemos ir a la piscina",
     "traduccion": "pict_2476_auxiliar pict_7184_nos pict_9692_decir pict_28359_si pict_11750_poder pict_2432_ir pict_7029_la pict_3142_piscina"
   },
   {
-    "id": 762,
+    "id": 767,
     "oracion": "Turismo rural peligroso",
     "traduccion": "pict_28225_turismo_rural peligroso"
   },
   {
-    "id": 763,
+    "id": 768,
     "oracion": "Hacer la actividad",
     "traduccion": "pict_11749_hacer pict_7029_la pict_8008_actividad"
   },
   {
-    "id": 764,
+    "id": 769,
     "oracion": "Nueva información",
     "traduccion": "pict_4705_nueva pict_9897_información"
   },
   {
-    "id": 765,
+    "id": 770,
     "oracion": "No llores Sheila, que es una pierna bonita, como la de tu muñeca margarita",
     "traduccion": "pict_5526_no pict_3239_llorar Sheila pict_11351_que pict_5581_ser pict_2627_una pict_8666_pierna pict_11194_bonita pict_12313_como pict_7029_la pict_12281_tu pict_2482_muñeca pict_3127_margarita"
   },
   {
-    "id": 766,
+    "id": 771,
     "oracion": "Neptuno tiene muchos vientos",
     "traduccion": "pict_10298_neptuno pict_7271_tener pict_7168_muchos pict_7259_viento"
   },
   {
-    "id": 767,
+    "id": 772,
     "oracion": "Vamos al mercado a comprar",
     "traduccion": "pict_2432_ir pict_32942_mercado pict_6457_comprar"
   },
   {
-    "id": 768,
+    "id": 773,
     "oracion": "La plastilina cambia de formas",
     "traduccion": "pict_7029_la pict_2529_plastilina pict_8053_cambiar pict_4651_formas"
   },
   {
-    "id": 769,
+    "id": 774,
     "oracion": "Observa la regla y compás",
     "traduccion": "pict_2474_observar pict_7029_la pict_34065_regla_y_compás"
   },
   {
-    "id": 770,
+    "id": 775,
     "oracion": "Participamos en una conversación",
     "traduccion": "pict_11475_participar pict_2627_una pict_23402_conversación"
   },
   {
-    "id": 771,
+    "id": 776,
     "oracion": "Cuidado al cruzar el río",
     "traduccion": "pict_25618_cuidado pict_5976_cruzar pict_2811_río"
   },
   {
-    "id": 772,
+    "id": 777,
     "oracion": "Almuerzo en la mesa",
     "traduccion": "pict_28207_almuerzo pict_7029_la pict_3129_mesa"
   },
   {
-    "id": 773,
+    "id": 778,
     "oracion": "Te contaré un cuento",
     "traduccion": "pict_6625_te pict_2714_contar pict_2627_un pict_2364_cuento"
   },
   {
-    "id": 774,
+    "id": 779,
     "oracion": "Terminar la clase de química",
     "traduccion": "pict_5358_terminar pict_7029_la pict_5913_clase pict_36374_química"
   },
   {
-    "id": 775,
+    "id": 780,
     "oracion": "¿Yo puedo ayudarte?",
     "traduccion": "pict_2617_yo pict_11750_poder pict_4570_ayudar"
   },
   {
-    "id": 776,
+    "id": 781,
     "oracion": "Cuando entro en casa meto la ropa en la lavadora",
     "traduccion": "pict_24053_cuando pict_2742_entrar pict_2317_casa pict_5514_meter pict_7029_la pict_7233_ropa pict_7029_la pict_2442_lavadora"
   },
   {
-    "id": 777,
+    "id": 782,
     "oracion": "Cuidado con la corriente eléctrica",
     "traduccion": "pict_25618_cuidado pict_7029_la corriente eléctrica"
   },
   {
-    "id": 778,
+    "id": 783,
     "oracion": "¿ Por qué llora la niña ?",
     "traduccion": "pict_22624_qué pict_3239_llorar pict_7029_la pict_2484_niña"
   },
   {
-    "id": 779,
+    "id": 784,
     "oracion": "Ella está triste",
     "traduccion": "pict_7029_ella pict_5466_estar pict_2606_triste"
   },
   {
-    "id": 780,
+    "id": 785,
     "oracion": "Diseño un auto",
     "traduccion": "pict_21800_diseñar pict_2627_un pict_2339_auto"
   },
   {
-    "id": 781,
+    "id": 786,
     "oracion": "Nosotras nos reímos a carcajadas",
     "traduccion": "pict_7183_nosotras pict_7184_nos reímos pict_38792_carcajada"
   },
   {
-    "id": 782,
+    "id": 787,
     "oracion": "Quiero compartir",
     "traduccion": "pict_5441_querer pict_15361_compartir"
   },
   {
-    "id": 783,
+    "id": 788,
     "oracion": "Dar un beso",
     "traduccion": "pict_17038_dar pict_2627_un pict_4576_beso"
   },
   {
-    "id": 784,
+    "id": 789,
     "oracion": "Quiero gritar, tirarme al suelo y golpear",
     "traduccion": "pict_5441_querer pict_4686_gritar pict_6542_tirar pict_2575_suelo pict_3047_y pict_6586_golpear"
   },
   {
-    "id": 785,
+    "id": 790,
     "oracion": "Algunos niños se disfrazarán de esqueleto",
     "traduccion": "pict_5374_algunos pict_6975_niños pict_6481_se pict_5986_disfrazar pict_5727_esqueleto"
   },
   {
-    "id": 786,
+    "id": 791,
     "oracion": "Pensar con calma",
     "traduccion": "pict_8662_pensar calma"
   },
   {
-    "id": 787,
+    "id": 792,
     "oracion": "Yo quiero 1 taza de leche",
     "traduccion": "pict_2617_yo pict_5441_querer pict_2627_1 pict_2582_taza pict_2445_leche"
   },
   {
-    "id": 788,
+    "id": 793,
     "oracion": "¡Corre que se acaba el papel higiénico!",
     "traduccion": "pict_2719_correr pict_11351_que pict_6481_se pict_5358_acabar pict_2862_papel_higiénico"
   },
   {
-    "id": 789,
+    "id": 794,
     "oracion": "Recibimos el pan",
     "traduccion": "pict_17044_recibir pict_2494_pan"
   },
   {
-    "id": 790,
+    "id": 795,
     "oracion": "Esperamos 3 horas",
     "traduccion": "pict_8109_esperar pict_2629_3 pict_7129_hora"
   },
   {
-    "id": 791,
+    "id": 796,
     "oracion": "La princesa se puso muy contenta",
     "traduccion": "pict_7029_la pict_5554_princesa pict_6481_se pict_6627_poner pict_25708_muy pict_3245_contenta"
   },
   {
-    "id": 792,
+    "id": 797,
     "oracion": "Usamos papeles grandes para las manualidades",
     "traduccion": "pict_15485_usar pict_2398_papeles pict_4658_grande pict_7794_manualidades"
   },
   {
-    "id": 793,
+    "id": 798,
     "oracion": "Una vez en tierra descubrió que el cielo siempre estaba tapado por una nube gris",
     "traduccion": "pict_2627_una pict_27385_vez pict_3160_tierra pict_6019_descubrir pict_11351_que pict_6978_cielo pict_17322_siempre pict_5466_estar tapado pict_2627_una pict_2883_nube pict_3340_gris"
   },
   {
-    "id": 794,
+    "id": 799,
     "oracion": "Yo quiero preguntar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_9840_preguntar"
   },
   {
-    "id": 795,
+    "id": 800,
     "oracion": "Te gusta el aguacate",
     "traduccion": "pict_6625_te pict_2418_gustar pict_8009_aguacate"
   },
   {
-    "id": 796,
+    "id": 801,
     "oracion": "Llegó a una gran fábrica",
     "traduccion": "pict_11708_llegar pict_2627_una gran pict_8581_fábrica"
   },
   {
-    "id": 797,
+    "id": 802,
     "oracion": "Ana va a la granja",
     "traduccion": "Ana pict_2432_ir pict_7029_la pict_3337_granja"
   },
   {
-    "id": 798,
+    "id": 803,
     "oracion": "¼ de kilo de calcio",
     "traduccion": "¼ kilo pict_25898_calcio"
   },
   {
-    "id": 799,
+    "id": 804,
     "oracion": "Sentado, atento, en silencio y manos quietas",
     "traduccion": "pict_11370_sentado atento pict_5936_silencio pict_3047_y pict_37312_manos_quietas"
   },
   {
-    "id": 800,
+    "id": 805,
     "oracion": "Hacer cambiar de pensamiento",
     "traduccion": "pict_11749_hacer pict_8053_cambiar pict_26310_pensamiento"
   },
   {
-    "id": 801,
+    "id": 806,
     "oracion": "Estas lluvias están unidas a tormentas, viento",
     "traduccion": "pict_7096_estas pict_3123_lluvia pict_5466_estar unidas tormentas pict_7259_viento"
   },
   {
-    "id": 802,
+    "id": 807,
     "oracion": "En verano podrás tomar el sol",
     "traduccion": "pict_5604_verano podrás pict_2276_tomar pict_2798_sol"
   },
   {
-    "id": 803,
+    "id": 808,
     "oracion": "Colorea el sol",
     "traduccion": "Colorea pict_2798_sol"
   },
   {
-    "id": 804,
+    "id": 809,
+    "oracion": "Yo quiero hablar",
+    "traduccion": "pict_2617_yo pict_5441_querer pict_3345_hablar"
+  },
+  {
+    "id": 810,
     "oracion": "María viaja en avión alrededor del mundo",
     "traduccion": "pict_7301_maría pict_4671_viajar pict_2264_avión pict_5376_alrededor pict_30014_mundo"
   },
   {
-    "id": 805,
+    "id": 811,
     "oracion": "Organizar una obra de teatro",
     "traduccion": "pict_35653_organizar pict_2627_una pict_19537_obra pict_10284_teatro"
   },
   {
-    "id": 806,
+    "id": 812,
     "oracion": "Nosotros escuchamos",
     "traduccion": "pict_7185_nosotros pict_2381_escuchar"
   },
   {
-    "id": 807,
+    "id": 813,
     "oracion": "La semana santa es un tiempo muy importante para los cristianos",
     "traduccion": "pict_7029_la pict_3153_semana_santa pict_5581_ser pict_2627_un pict_7223_tiempo pict_25708_muy pict_11470_importante pict_23993_cristiano"
   },
   {
-    "id": 808,
+    "id": 814,
     "oracion": "Marte tiene tierra roja",
     "traduccion": "pict_10296_marte pict_7271_tener pict_3160_tierra pict_2808_roja"
   },
   {
-    "id": 809,
+    "id": 815,
     "oracion": "Contenedor",
     "traduccion": "pict_2355_contenedor"
   },
   {
-    "id": 810,
+    "id": 816,
     "oracion": "¿Qué haré?",
     "traduccion": "pict_22624_qué pict_11749_hacer"
   },
   {
-    "id": 811,
+    "id": 817,
     "oracion": "El dragón se comió las vacas, las ovejas y los cerdos",
     "traduccion": "pict_5572_dragón pict_6481_se pict_2349_comer pict_2609_vaca pict_2489_oveja pict_3047_y pict_2327_cerdo"
   },
   {
-    "id": 812,
+    "id": 818,
     "oracion": "El sol se pone por el oeste",
     "traduccion": "pict_2798_sol pict_6481_se pict_6627_poner pict_8179_oeste"
   },
   {
-    "id": 813,
+    "id": 819,
     "oracion": "Yo quiero explicar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_8579_explicar"
   },
   {
-    "id": 814,
+    "id": 820,
     "oracion": "Protegemos el medio ambiente",
     "traduccion": "pict_6192_proteger pict_20389_medio_ambiente"
   },
   {
-    "id": 815,
+    "id": 821,
     "oracion": "El cultivo está listo",
     "traduccion": "pict_38079_cultivo pict_5466_estar pict_17004_listo"
   },
   {
-    "id": 816,
+    "id": 822,
     "oracion": "Vertemos el bol en el molde",
     "traduccion": "Vertemos pict_3257_bol pict_15459_molde"
   },
   {
-    "id": 817,
+    "id": 823,
     "oracion": "Ir a la mesa del congreso",
     "traduccion": "pict_2432_ir pict_7029_la pict_3129_mesa pict_21551_congreso"
   },
   {
-    "id": 818,
+    "id": 824,
     "oracion": "Me he dado un golpe y la enfermera me va a ayudar",
     "traduccion": "pict_2617_me pict_9001_haber pict_2731_dado pict_2627_un golpe pict_3047_y pict_7029_la pict_2375_enfermera pict_2617_me pict_2432_ir pict_4570_ayudar"
   },
   {
-    "id": 819,
+    "id": 825,
     "oracion": "Esperamos que nos llame la enfermera y entramos en la consulta",
     "traduccion": "pict_8109_esperar pict_11351_que pict_7184_nos pict_4687_llamar pict_7029_la pict_2375_enfermera pict_3047_y pict_2742_entrar pict_7029_la pict_35139_consulta"
   },
   {
-    "id": 820,
+    "id": 826,
     "oracion": "Esperamos que nos llame la enfermera",
     "traduccion": "pict_8109_esperar pict_11351_que pict_7184_nos pict_4687_llamar pict_7029_la pict_2375_enfermera"
   },
   {
-    "id": 821,
+    "id": 827,
     "oracion": "Jugar con el cubo",
     "traduccion": "pict_2439_jugar pict_2725_cubo"
   },
   {
-    "id": 822,
+    "id": 828,
     "oracion": "Yo quiero pintar el círculo",
     "traduccion": "pict_2617_yo pict_5441_querer pict_2348_pintar pict_4603_círculo"
   },
   {
-    "id": 823,
+    "id": 829,
     "oracion": "Salir corriendo",
     "traduccion": "pict_2806_salir pict_2719_correr"
   },
   {
-    "id": 824,
+    "id": 830,
     "oracion": "El rey hizo un sorteo, para decidir a quién se comería el dragón",
     "traduccion": "pict_5563_rey pict_11749_hacer pict_2627_un sorteo pict_11694_decidir pict_9853_quién pict_6481_se pict_2349_comer pict_5572_dragón"
   },
   {
-    "id": 825,
+    "id": 831,
     "oracion": "En clase hay que trabajar",
     "traduccion": "pict_5913_clase pict_9001_haber pict_11351_que pict_2599_trabajar"
   },
   {
-    "id": 826,
+    "id": 832,
     "oracion": "Mamá me lleva a la orilla",
     "traduccion": "pict_2458_mamá pict_2617_me pict_6139_llevar pict_7029_la orilla"
   },
   {
-    "id": 827,
+    "id": 833,
     "oracion": "Pintar un delfín en el papel",
     "traduccion": "pict_2348_pintar pict_2627_un pict_2732_delfín pict_8349_papel"
   },
   {
-    "id": 828,
+    "id": 834,
     "oracion": "Cojo mi estuche",
     "traduccion": "pict_26954_cojo pict_12264_mi pict_8575_estuche"
   },
   {
-    "id": 829,
+    "id": 835,
     "oracion": "Qué es una poesía",
     "traduccion": "pict_22624_qué pict_5581_ser pict_2627_una pict_22763_poesía"
   },
   {
-    "id": 830,
+    "id": 836,
     "oracion": "Bolitas para hacer collares",
     "traduccion": "pict_10281_bolitas pict_11749_hacer pict_2347_collar"
   },
   {
-    "id": 831,
+    "id": 837,
     "oracion": "¿Quién salvó a la abuela y a caperucita?",
     "traduccion": "pict_9853_quién pict_38316_salvar pict_7029_la pict_2243_abuela pict_3047_y pict_5942_caperucita"
   },
   {
-    "id": 832,
+    "id": 838,
     "oracion": "Ahora a trabajar en silencio",
     "traduccion": "pict_13026_ahora pict_2599_trabajar pict_5936_silencio"
   },
   {
-    "id": 833,
+    "id": 839,
     "oracion": "El agua estaba muy sucia y para bañarse tuvo que ponerse un traje de rayas",
     "traduccion": "pict_2248_agua pict_5466_estar pict_25708_muy pict_4750_sucia pict_3047_y pict_2271_bañar pict_7271_tener pict_11351_que pict_6627_poner pict_2627_un pict_29931_traje pict_7225_rayas"
   },
   {
-    "id": 834,
+    "id": 840,
     "oracion": "Empieza en Junio y acabamos el colegio",
     "traduccion": "pict_5431_empezar pict_6539_junio pict_3047_y pict_5358_acabar pict_3082_colegio"
   },
   {
-    "id": 835,
+    "id": 841,
     "oracion": "Primero cenamos todos juntos",
     "traduccion": "pict_4726_primero pict_4593_cenar pict_5596_todos pict_5367_junto"
   },
   {
-    "id": 836,
+    "id": 842,
     "oracion": "Necesito cosas para trabajar",
     "traduccion": "pict_37160_necesitar cosas pict_2599_trabajar"
   },
   {
-    "id": 837,
+    "id": 843,
     "oracion": "Observa el sol",
     "traduccion": "pict_2474_observar pict_2798_sol"
   },
   {
-    "id": 838,
+    "id": 844,
     "oracion": "Chocar los puños",
     "traduccion": "pict_4551_chocar pict_16865_puño"
   },
   {
-    "id": 839,
+    "id": 845,
     "oracion": "el clima en la Tierra",
     "traduccion": "pict_24721_clima pict_7029_la pict_3160_tierra"
   },
   {
-    "id": 840,
+    "id": 846,
     "oracion": "Y en invierno el fuego te da calor",
     "traduccion": "pict_3047_y pict_5493_invierno pict_4664_fuego pict_6625_te pict_17038_dar pict_35561_calor"
   },
   {
-    "id": 841,
+    "id": 847,
     "oracion": "Preparar pollo con papas",
     "traduccion": "pict_6190_preparar pict_2533_pollo pict_2503_papa"
   },
   {
-    "id": 842,
+    "id": 848,
     "oracion": "Pongo las piedras en mis manos",
     "traduccion": "pict_6627_poner pict_28585_piedras pict_12266_mis pict_9830_manos"
   },
   {
-    "id": 843,
+    "id": 849,
     "oracion": "La reina era buena",
     "traduccion": "pict_7029_la pict_5559_reina pict_5581_ser pict_10197_buena"
   },
   {
-    "id": 844,
+    "id": 850,
     "oracion": "Masa",
     "traduccion": "pict_32476_masa"
   },
   {
-    "id": 845,
+    "id": 851,
     "oracion": "Comer pescado",
     "traduccion": "pict_2349_comer pict_2519_pescado"
   },
   {
-    "id": 846,
+    "id": 852,
     "oracion": "También tenían algo en común",
     "traduccion": "pict_11591_también pict_7271_tener algo común"
   },
   {
-    "id": 847,
+    "id": 853,
     "oracion": "Agradece al público",
     "traduccion": "pict_38783_agradecer pict_24783_público"
   },
   {
-    "id": 848,
+    "id": 854,
+    "oracion": "Mirar a los ojos",
+    "traduccion": "pict_2474_mirar pict_2876_ojos"
+  },
+  {
+    "id": 855,
     "oracion": "Observa el nudo",
     "traduccion": "pict_2474_observar pict_9180_nudo"
   },
   {
-    "id": 849,
+    "id": 856,
     "oracion": "Mezclar amarillo con azul es igual a verde",
     "traduccion": "pict_5515_mezclar pict_2648_amarillo pict_3355_azul pict_5581_ser pict_3423_igual pict_4886_verde"
   },
   {
-    "id": 850,
+    "id": 857,
     "oracion": "Clima caluroso",
     "traduccion": "pict_24721_clima pict_2300_caluroso"
   },
   {
-    "id": 851,
+    "id": 858,
     "oracion": "Coloca el número anterior o posterior",
     "traduccion": "pict_6989_colocar pict_2879_número pict_27319_anterior pict_3037_o pict_27331_posterior"
   },
   {
-    "id": 852,
+    "id": 859,
     "oracion": "Yo tengo lápiz y papel",
     "traduccion": "pict_2617_yo pict_7271_tener pict_10312_lápiz_y_papel"
   },
   {
-    "id": 853,
+    "id": 860,
     "oracion": "María viaja en coche alrededor del mundo",
     "traduccion": "pict_7301_maría pict_4671_viajar pict_2339_coche pict_5376_alrededor pict_30014_mundo"
   },
   {
-    "id": 854,
+    "id": 861,
+    "oracion": "Yo quiero leer",
+    "traduccion": "pict_2617_yo pict_5441_querer pict_7141_leer"
+  },
+  {
+    "id": 862,
     "oracion": "En clase hay muchos niños y niñas",
     "traduccion": "pict_5913_clase pict_9001_haber pict_7168_muchos pict_6975_niños pict_3047_y pict_6974_niñas"
   },
   {
-    "id": 855,
+    "id": 863,
     "oracion": "Cojo piedras redondas",
     "traduccion": "pict_26954_cojo pict_28585_piedras pict_4603_redondo"
   },
   {
-    "id": 856,
+    "id": 864,
     "oracion": "Tirarán caramelos",
     "traduccion": "pict_6542_tirar pict_2686_caramelo"
   },
   {
-    "id": 857,
+    "id": 865,
     "oracion": "Hoy los aprendo cantando",
     "traduccion": "pict_7131_hoy pict_7033_los pict_8029_aprender pict_2315_cantar"
   },
   {
-    "id": 858,
+    "id": 866,
     "oracion": "papa",
     "traduccion": "pict_2503_papa"
   },
   {
-    "id": 859,
+    "id": 867,
+    "oracion": "Vámonos a casa",
+    "traduccion": "Vámonos pict_2317_casa"
+  },
+  {
+    "id": 868,
     "oracion": "Compartimos los juguetes",
     "traduccion": "pict_15361_compartir pict_9813_juguetes"
   },
   {
-    "id": 860,
+    "id": 869,
     "oracion": "Proteger el Medio ambiente",
     "traduccion": "pict_6192_proteger pict_19570_medio ambiente"
   },
   {
-    "id": 861,
+    "id": 870,
     "oracion": "Compartimos y todos los niños tienen caramelos",
     "traduccion": "pict_15361_compartir pict_3047_y pict_5596_todos pict_6975_niños pict_7271_tener pict_2686_caramelo"
   },
   {
-    "id": 862,
+    "id": 871,
     "oracion": "Los auxiliares también nos dicen qué vamos a hacer",
     "traduccion": "pict_2476_auxiliar pict_11591_también pict_7184_nos pict_9692_decir pict_22624_qué pict_2432_ir pict_11749_hacer"
   },
   {
-    "id": 863,
+    "id": 872,
     "oracion": "Yo quiero correr",
     "traduccion": "pict_2617_yo pict_5441_querer pict_2719_correr"
   },
   {
-    "id": 864,
+    "id": 873,
     "oracion": "Me duele el pie",
     "traduccion": "pict_2617_me pict_30620_doler pict_2841_pie"
   },
   {
-    "id": 865,
+    "id": 874,
     "oracion": "Por eso el doctor le puso una pierna de quita y pon",
     "traduccion": "pict_7091_eso pict_2467_doctor pict_6481_le pict_6627_poner pict_2627_una pict_8666_pierna quita pict_3047_y pon"
   },
   {
-    "id": 866,
+    "id": 875,
     "oracion": "Las ciudades cuando se inundan, no tienen agua o electricidad",
     "traduccion": "pict_2704_ciudad pict_24053_cuando pict_6481_se inundan pict_5526_no pict_7271_tener pict_2248_agua pict_3037_o pict_24798_electricidad"
   },
   {
-    "id": 867,
+    "id": 876,
     "oracion": "Me van hacer un análisis de sangre",
     "traduccion": "pict_2617_me pict_2432_ir pict_11749_hacer pict_2627_un pict_32112_análisis pict_2803_sangre"
   },
   {
-    "id": 868,
+    "id": 877,
     "oracion": "Me ponen en un dedo un aparato para ver si respiro bien",
     "traduccion": "pict_2617_me pict_6627_poner pict_2627_un pict_3298_dedo pict_2627_un pict_13030_aparato pict_2474_ver pict_28359_si pict_34377_respirar pict_5397_bien"
   },
   {
-    "id": 869,
+    "id": 878,
     "oracion": "Ana va con sus amigos de excursión a la granja",
     "traduccion": "Ana pict_2432_ir pict_12276_sus pict_2255_amigos pict_4670_excursión pict_7029_la pict_3337_granja"
   },
   {
-    "id": 870,
+    "id": 879,
     "oracion": "Yo quiero crear una cerámica",
     "traduccion": "pict_2617_yo pict_5441_querer pict_11698_crear pict_2627_una pict_36147_cerámica"
   },
   {
-    "id": 871,
+    "id": 880,
     "oracion": "Estudiamos la biblia",
     "traduccion": "pict_2387_estudiar pict_7029_la pict_23833_biblia"
   },
   {
-    "id": 872,
+    "id": 881,
     "oracion": "Información importante",
     "traduccion": "pict_9897_información pict_11470_importante"
   },
   {
-    "id": 873,
+    "id": 882,
     "oracion": "Al llegar al hotel me ducharé",
     "traduccion": "pict_11708_llegar pict_9895_hotel pict_2617_me ducharé"
   },
   {
-    "id": 874,
+    "id": 883,
     "oracion": "Ellos gritan",
     "traduccion": "pict_7032_ellos pict_4686_gritar"
   },
   {
-    "id": 875,
+    "id": 884,
     "oracion": "Voy con mamá al hospital",
     "traduccion": "pict_2432_ir pict_2458_mamá pict_3116_hospital"
   },
   {
-    "id": 876,
+    "id": 885,
     "oracion": "Sentada, atenta, en silencio y manos quietas",
     "traduccion": "pict_11370_sentada atenta pict_5936_silencio pict_3047_y pict_37312_manos_quietas"
   },
   {
-    "id": 877,
+    "id": 886,
     "oracion": "Observar el martillo geológico",
     "traduccion": "pict_2474_observar pict_2922_martillo geológico"
   },
   {
-    "id": 878,
+    "id": 887,
     "oracion": "Elegir 1",
     "traduccion": "pict_6483_elegir pict_2627_1"
   },
   {
-    "id": 879,
+    "id": 888,
     "oracion": "La maestra escribe palabras en la pizarra",
     "traduccion": "pict_7029_la pict_2456_maestra pict_2380_escribir pict_9837_palabra pict_7029_la pict_2526_pizarra"
   },
   {
-    "id": 880,
+    "id": 889,
     "oracion": "El plátano da mucha energía",
     "traduccion": "pict_2530_plátano pict_17038_dar pict_7168_mucha pict_26059_energía"
   },
   {
-    "id": 881,
+    "id": 890,
     "oracion": "Ponemos el molde en el horno",
     "traduccion": "pict_6627_poner pict_15459_molde pict_2426_horno"
   },
   {
-    "id": 882,
+    "id": 891,
     "oracion": "El agua cambia a sólido",
     "traduccion": "pict_2248_agua pict_8053_cambiar pict_36323_sólido"
   },
   {
-    "id": 883,
+    "id": 892,
     "oracion": "Miro el menú y elijo pizza y agua",
     "traduccion": "pict_2474_mirar pict_5513_menú pict_3047_y pict_6483_elegir pict_2527_pizza pict_3047_y pict_2248_agua"
   },
   {
-    "id": 884,
+    "id": 893,
     "oracion": "Me duele la cabeza",
     "traduccion": "pict_2617_me pict_30620_doler pict_7029_la pict_2673_cabeza"
   },
   {
-    "id": 885,
+    "id": 894,
     "oracion": "En el escenario cuando suene la música bailamos nuestro baile",
     "traduccion": "pict_8106_escenario pict_24053_cuando pict_6891_sonar pict_7029_la pict_11311_música pict_2652_bailar pict_12268_nuestro pict_2652_baile"
   },
   {
-    "id": 886,
+    "id": 895,
     "oracion": "Estos días son diferentes",
     "traduccion": "pict_7096_estos pict_7022_día pict_5581_ser pict_4628_diferente"
   },
   {
-    "id": 887,
+    "id": 896,
     "oracion": "Salimos en fila del colegio",
     "traduccion": "pict_2806_salir pict_7102_fila pict_3082_colegio"
   },
   {
-    "id": 888,
+    "id": 897,
     "oracion": "Obedecer siempre a mama",
     "traduccion": "pict_22007_obedecer pict_17322_siempre mama"
   },
   {
-    "id": 889,
+    "id": 898,
     "oracion": "Volver a la actividad",
     "traduccion": "pict_6248_volver pict_7029_la pict_8008_actividad"
   },
   {
-    "id": 890,
+    "id": 899,
     "oracion": "Suena otra campana, y comemos otra uva",
     "traduccion": "pict_6891_sonar pict_17054_otra pict_5938_campana pict_3047_y pict_2349_comer pict_17054_otra pict_3247_uva"
   },
   {
-    "id": 891,
+    "id": 900,
     "oracion": "Entramos en la consulta y la enfermera nos dice que no duele",
     "traduccion": "pict_2742_entrar pict_7029_la pict_35139_consulta pict_3047_y pict_7029_la pict_2375_enfermera pict_7184_nos pict_9692_decir pict_11351_que pict_5526_no pict_30620_doler"
   },
   {
-    "id": 892,
+    "id": 901,
     "oracion": "Empieza en Marzo y se adelanta una hora el reloj",
     "traduccion": "pict_5431_empezar pict_6558_marzo pict_3047_y pict_6481_se pict_8482_adelantar pict_2627_una pict_7129_hora pict_2549_reloj"
   },
   {
-    "id": 893,
+    "id": 902,
     "oracion": "Cantar un himno",
     "traduccion": "pict_2315_cantar pict_2627_un pict_38000_himno"
   },
   {
-    "id": 894,
+    "id": 903,
     "oracion": "Ana amaba a la naturaleza",
     "traduccion": "Ana pict_6898_amar pict_7029_la pict_20389_naturaleza"
   },
   {
-    "id": 895,
+    "id": 904,
     "oracion": "Yo te indico a ti los candidatos que quiero",
     "traduccion": "pict_2617_yo pict_6625_te pict_6612_indicar pict_6625_ti pict_15720_candidatos pict_11351_que pict_5441_querer"
   },
   {
-    "id": 896,
+    "id": 905,
     "oracion": "Todos hacemos cosas aunque no nos gusten",
     "traduccion": "pict_5596_todos pict_11749_hacer cosas pict_11185_aunque pict_5526_no pict_7184_nos pict_2418_gustar"
   },
   {
-    "id": 897,
+    "id": 906,
     "oracion": "Tres Reyes Magos siguieron la estrella y llegaron al portal de Belén",
     "traduccion": "pict_2629_tres pict_3124_reyes Magos pict_7038_seguir pict_7029_la pict_2752_estrella pict_3047_y pict_11708_llegar portal pict_5089_belén"
   },
   {
-    "id": 898,
+    "id": 907,
     "oracion": "Las aves tienen las garras grandes",
     "traduccion": "pict_6923_aves pict_7271_tener pict_5477_garra pict_4658_grande"
   },
   {
-    "id": 899,
+    "id": 908,
     "oracion": "Me duele el estomago",
     "traduccion": "pict_2617_me pict_30620_doler estomago"
   },
   {
-    "id": 900,
+    "id": 909,
     "oracion": "escribir el título",
     "traduccion": "pict_2380_escribir título"
   },
   {
-    "id": 901,
+    "id": 910,
     "oracion": "Mi ficha informativa",
     "traduccion": "pict_12264_mi pict_10310_ficha pict_8229_informativo"
   },
   {
-    "id": 902,
+    "id": 911,
     "oracion": "Mi colegio",
     "traduccion": "pict_12264_mi pict_3082_colegio"
   },
   {
-    "id": 903,
+    "id": 912,
     "oracion": "El departamento de comunicación",
     "traduccion": "departamento pict_9870_comunicación"
   },
   {
-    "id": 904,
+    "id": 913,
     "oracion": "Las acaricio",
     "traduccion": "pict_7031_las pict_27407_acariciar"
   },
   {
-    "id": 905,
+    "id": 914,
     "oracion": "Hoy es lunes y Clara está muy contenta",
     "traduccion": "pict_7131_hoy pict_5581_ser pict_6554_lunes pict_3047_y pict_4604_clara pict_5466_estar pict_25708_muy pict_3245_contenta"
   },
   {
-    "id": 906,
+    "id": 915,
     "oracion": "Imagen personal",
     "traduccion": "pict_31418_imagen_personal"
   },
   {
-    "id": 907,
+    "id": 916,
     "oracion": "Yo quiero entrevistar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_6492_entrevistar"
   },
   {
-    "id": 908,
+    "id": 917,
     "oracion": "Juntarnos en equipo",
     "traduccion": "pict_26817_juntar pict_15262_equipo"
   },
   {
-    "id": 909,
+    "id": 918,
     "oracion": "Ana lucharía contra las bolsas de plástico",
     "traduccion": "Ana pict_9007_luchar pict_21453_bolsa pict_10288_plástico"
   },
   {
-    "id": 910,
+    "id": 919,
     "oracion": "Si a mi no me gusta Halloween, yo no digo truco o trato",
     "traduccion": "pict_28359_si pict_12264_mi pict_5526_no pict_2617_me pict_2418_gustar pict_6951_halloween pict_2617_yo pict_5526_no pict_9692_decir truco pict_3037_o trato"
   },
   {
-    "id": 911,
+    "id": 920,
     "oracion": "Hola yo quiero comprar 1 regla",
     "traduccion": "pict_6009_hola pict_5441_yo_quiero pict_6457_comprar pict_2627_1 pict_2815_regla"
   },
   {
-    "id": 912,
+    "id": 921,
     "oracion": "Hacer ejercicio",
     "traduccion": "pict_10156_hacer_ejercicio"
   },
   {
-    "id": 913,
+    "id": 922,
     "oracion": "Yo soy fuerte",
     "traduccion": "pict_2617_yo pict_5581_ser pict_4655_fuerte"
   },
   {
-    "id": 914,
+    "id": 923,
     "oracion": "El lobo feroz es un cuento",
     "traduccion": "pict_6140_lobo_feroz pict_5581_ser pict_2627_un pict_2364_cuento"
   },
   {
-    "id": 915,
+    "id": 924,
     "oracion": "Yo quiero investigar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_15320_investigar"
   },
   {
-    "id": 916,
+    "id": 925,
     "oracion": "Yo quiero meditar",
     "traduccion": "pict_2617_yo pict_5441_querer pict_32689_meditar"
   },
   {
-    "id": 917,
+    "id": 926,
     "oracion": "Yo ayudo a poner la mesa",
     "traduccion": "pict_2617_yo pict_4570_ayudar pict_5549_poner_la_mesa"
   },
   {
-    "id": 918,
+    "id": 927,
     "oracion": "Los días más largos notarás",
     "traduccion": "pict_7022_día pict_3220_más pict_4675_largo notarás"
   },
   {
-    "id": 919,
+    "id": 928,
     "oracion": "Leer el texto y observar la imagen",
     "traduccion": "pict_7141_leer pict_37340_texto pict_3047_y pict_2474_observar pict_7029_la imagen"
   },
   {
-    "id": 920,
+    "id": 929,
     "oracion": "Tener en cuenta la pregunta",
     "traduccion": "pict_7271_tener pict_5739_cuenta pict_7029_la pict_7217_pregunta"
   },
   {
-    "id": 921,
+    "id": 930,
     "oracion": "Dónde está el polo sur",
     "traduccion": "pict_7764_dónde pict_5466_estar pict_6188_polo_sur"
   },
   {
-    "id": 922,
+    "id": 931,
     "oracion": "Al llegar dejamos la maleta dentro de la tienda",
     "traduccion": "pict_11708_llegar pict_6215_dejar pict_7029_la pict_2931_maleta pict_5439_dentro pict_7029_la pict_9117_tienda"
   },
   {
-    "id": 923,
+    "id": 932,
     "oracion": "Los niños cortan los árboles",
     "traduccion": "pict_6975_niños pict_2547_cortar pict_2256_árbol"
   },
   {
-    "id": 924,
+    "id": 933,
     "oracion": "También puede granizar",
     "traduccion": "pict_11591_también pict_11750_poder pict_35105_granizar"
   },
   {
-    "id": 925,
+    "id": 934,
     "oracion": "Decir información positiva",
     "traduccion": "pict_9692_decir pict_9897_información pict_27222_positiva"
   },
   {
-    "id": 926,
+    "id": 935,
     "oracion": "Adiós",
     "traduccion": "pict_5896_adiós"
   },
   {
-    "id": 927,
+    "id": 936,
     "oracion": "Yo quiero mejorar mi letra",
     "traduccion": "pict_2617_yo pict_5441_querer pict_11705_mejorar pict_12264_mi pict_39235_letra"
   },
   {
-    "id": 928,
+    "id": 937,
     "oracion": "La rana decidió gritar, gritar y gritar para que parara",
     "traduccion": "pict_7029_la pict_2543_rana pict_11694_decidir pict_4686_gritar pict_4686_gritar pict_3047_y pict_4686_gritar pict_11351_que pict_7195_parar"
   },
   {
-    "id": 929,
+    "id": 938,
     "oracion": "Él está triste",
     "traduccion": "pict_6480_él pict_5466_estar pict_2606_triste"
   },
   {
-    "id": 930,
+    "id": 939,
     "oracion": "Preparado para comer",
     "traduccion": "pict_17004_preparado pict_2349_comer"
   },
   {
-    "id": 931,
+    "id": 940,
     "oracion": "ver",
     "traduccion": "pict_2474_ver"
   },
   {
-    "id": 932,
+    "id": 941,
     "oracion": "Pinocho es un personaje de cuento",
     "traduccion": "pict_6177_pinocho pict_5581_ser pict_2627_un personaje pict_2364_cuento"
   },
   {
-    "id": 933,
+    "id": 942,
     "oracion": "tener una idea",
     "traduccion": "pict_6019_tener_una_idea"
   },
   {
-    "id": 934,
+    "id": 943,
     "oracion": "Érase una vez un niño que siempre quería ver los dibujos animados",
     "traduccion": "Érase pict_27385_una_vez pict_2627_un pict_2485_niño pict_11351_que pict_17322_siempre pict_5441_querer pict_2474_ver pict_11238_dibujo animados"
   },
   {
-    "id": 935,
+    "id": 944,
     "oracion": "Cuerpos geométricos",
     "traduccion": "pict_2728_cuerpo geométricos"
   },
   {
-    "id": 936,
+    "id": 945,
     "oracion": "Comemos helado, paseamos y hay ferias",
     "traduccion": "pict_2349_comer pict_35209_helado pict_8649_pasear pict_3047_y pict_9001_haber pict_4649_feria"
   },
   {
-    "id": 937,
+    "id": 946,
     "oracion": "Cuando el médico diga que estoy bien volveré al colegio",
     "traduccion": "pict_24053_cuando pict_2467_médico pict_9692_decir pict_11351_que pict_13630_estoy_bien pict_6248_volver pict_3082_colegio"
   },
   {
-    "id": 938,
+    "id": 947,
     "oracion": "La flor crece rápido",
     "traduccion": "pict_7029_la pict_3102_flor pict_7002_crecer pict_5306_rápido"
   },
   {
-    "id": 939,
+    "id": 948,
     "oracion": "Mira su postura correcta",
     "traduccion": "pict_2474_mirar pict_12272_su pict_32270_postura_correcta"
   },
   {
-    "id": 940,
+    "id": 949,
     "oracion": "Creció y se convirtió en la primera rana de tres ojos",
     "traduccion": "pict_7002_crecer pict_3047_y pict_6481_se convirtió pict_7029_la pict_10210_primera pict_2543_rana pict_2629_tres pict_2876_ojos"
   },
   {
-    "id": 941,
+    "id": 950,
     "oracion": "me toca a mi",
     "traduccion": "pict_2617_me pict_3293_tocar pict_12264_mi"
   },
   {
-    "id": 942,
+    "id": 951,
     "oracion": "Observa el Código QR",
     "traduccion": "pict_2474_observar Código pict_38514_qr"
   },
   {
-    "id": 943,
+    "id": 952,
+    "oracion": "Me duele la cabeza",
+    "traduccion": "pict_2617_me pict_30620_doler pict_7029_la pict_2673_cabeza"
+  },
+  {
+    "id": 953,
     "oracion": "Pasaron los días y las noches y el lugar estaba distinto",
     "traduccion": "pict_6581_pasar pict_7022_día pict_3047_y pict_7181_noche pict_3047_y pict_9819_lugar pict_5466_estar pict_4628_distinto"
   },
   {
-    "id": 944,
+    "id": 954,
     "oracion": "Personajes del cuento",
     "traduccion": "Personajes pict_2364_cuento"
   },
   {
-    "id": 945,
+    "id": 955,
     "oracion": "Observo un vaso de agua",
     "traduccion": "pict_2474_observar pict_2627_un pict_2610_vaso pict_2248_agua"
   },
   {
-    "id": 946,
+    "id": 956,
     "oracion": "¿Cómo se escribe un cuento?",
     "traduccion": "pict_22619_cómo pict_6481_se pict_2380_escribir pict_2627_un pict_2364_cuento"
   },
   {
-    "id": 947,
+    "id": 957,
     "oracion": "Karen quería ayudar a Manuel",
     "traduccion": "Karen pict_5441_querer pict_4570_ayudar Manuel"
   },
   {
-    "id": 948,
+    "id": 958,
     "oracion": "Dar educación",
     "traduccion": "pict_17038_dar pict_8098_educación"
   },
   {
-    "id": 949,
+    "id": 959,
     "oracion": "Compartir una idea hermosa",
     "traduccion": "pict_15361_compartir pict_2627_una idea pict_11194_hermosa"
   },
   {
-    "id": 950,
+    "id": 960,
     "oracion": "Prestar atención",
     "traduccion": "pict_24711_prestar_atención"
   },
   {
-    "id": 951,
+    "id": 961,
     "oracion": "Medir la botella",
     "traduccion": "pict_5510_medir pict_7029_la pict_2288_botella"
   },
   {
-    "id": 952,
+    "id": 962,
     "oracion": "Hacer un cartel de mis actividades",
     "traduccion": "pict_11749_hacer pict_2627_un pict_8064_cartel pict_12266_mis pict_8008_actividades"
   },
   {
-    "id": 953,
+    "id": 963,
     "oracion": "Hora de dormir",
     "traduccion": "pict_7129_hora pict_2369_dormir"
   },
   {
-    "id": 954,
+    "id": 964,
     "oracion": "Lee de manera silenciosa y rápida",
     "traduccion": "pict_7141_leer manera silenciosa pict_3047_y pict_5306_rápida"
   },
   {
-    "id": 955,
+    "id": 965,
     "oracion": "Observa el gráfico de la computadora",
     "traduccion": "pict_2474_observar pict_9174_gráfico pict_7029_la pict_2487_computadora"
   },
   {
-    "id": 956,
+    "id": 966,
     "oracion": "Ir a casa",
     "traduccion": "pict_2432_ir pict_2317_casa"
   },
   {
-    "id": 957,
+    "id": 967,
     "oracion": "Dónde está la iglesia",
     "traduccion": "pict_7764_dónde pict_5466_estar pict_7029_la pict_3118_iglesia"
   },
   {
-    "id": 958,
+    "id": 968,
     "oracion": "La contaminación",
     "traduccion": "pict_7029_la pict_7066_contaminación"
   },
   {
-    "id": 959,
+    "id": 969,
     "oracion": "¡Cómo me gusta chapotear y flotar en el mar!",
     "traduccion": "pict_22619_cómo pict_2617_me pict_2418_gustar pict_37902_chapotear pict_3047_y pict_21876_flotar pict_2925_mar"
   },
   {
-    "id": 960,
+    "id": 970,
     "oracion": "Escuchamos el reloj sonando 12 campanadas",
     "traduccion": "pict_2381_escuchar pict_2549_reloj pict_6891_sonar pict_29262_12 campanadas"
   },
   {
-    "id": 961,
+    "id": 971,
     "oracion": "En el colegio hay asignaturas que nos gustan menos",
     "traduccion": "pict_3082_colegio pict_9001_haber pict_34796_asignaturas pict_11351_que pict_7184_nos pict_2418_gustar pict_5512_menos"
   },
   {
-    "id": 962,
+    "id": 972,
     "oracion": "Lo elaboran con mucha energía para que duren las 24 horas",
     "traduccion": "pict_6481_lo pict_11698_elaborar pict_7168_mucha pict_26059_energía pict_11351_que pict_17050_durar pict_38797_24_horas"
   },
   {
-    "id": 963,
+    "id": 973,
     "oracion": "Qué es una polea",
     "traduccion": "pict_22624_qué pict_5581_ser pict_2627_una pict_26334_polea"
   }
