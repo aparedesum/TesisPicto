@@ -74,71 +74,86 @@
     {
         "id": 5820,
         "oracion": "Corta con cuidado",
-        "traduccion": "pict_4615 pict_25618"
+        "traduccion": "pict_4615 pict_25618",
+        "correccion": "pict_2547 pict_25618"
     },
     {
         "id": 1672,
         "oracion": "Un balde usado",
-        "traduccion": "pict_2627 pict_2725 usado"
+        "traduccion": "pict_2627 pict_2725 usado",
+        "correccion": "pict_2627 pict_2725 pict_11394"
     },
     {
         "id": 13594,
         "oracion": "Cocinamos con ají amarillo y hierbas",
-        "traduccion": "pict_2342 ají pict_2648 pict_3047 pict_3113"
+        "traduccion": "pict_2342 ají pict_2648 pict_3047 pict_3113",
+        "correccion": "pict_2342 pict_4661 pict_2648 pict_11334"
     },
     {
         "id": 55,
         "oracion": "Gran competencia deportiva",
-        "traduccion": "Gran competencia deportiva"
+        "traduccion": "Gran competencia deportiva",
+        "correccion": "pict_22627 pict_7010"
     },
     {
         "id": 463,
         "oracion": "Pequeños vasos sanguíneos",
-        "traduccion": "pict_4716 pict_2610 sanguíneos"
+        "traduccion": "pict_4716 pict_2610 sanguíneos",
+        "correccion": "pict_4716 pict_39165"
     },
     {
         "id": 600,
         "oracion": "Depende de ti",
-        "traduccion": "Depende pict_6625"
+        "traduccion": "Depende pict_6625",
+        "correccion": "pict_30510 pict_6625"
     },
     {
         "id": 608,
         "oracion": "La abeja escapa",
-        "traduccion": "pict_7029 pict_2239 pict_21834"
+        "traduccion": "pict_7029 pict_2239 pict_21834",
+        "correccion": "pict_2239 pict_31014",
     },
     {
         "id": 817,
         "oracion": "Niveles de alimentación",
-        "traduccion": "pict_9119 alimentación"
+        "traduccion": "pict_9119 alimentación",
+        "correccion": "pict_37361 pict_4610"
     },
     {
         "id": 892,
         "oracion": "Usa pegamento blanco",
-        "traduccion": "pict_15485 pict_2510 pict_2662"
+        "traduccion": "pict_15485 pict_2510 pict_2662",
+        "correccion": "pict_15485 pict_37499 pict_2662"
     },
     {
         "id": 1025,
         "oracion": "Delante y detrás",
         "traduccion": "pict_5438 pict_3047 pict_5443"
+        "correccion": "pict_5438 pict_3047 pict_5443"
     },
     {
         "id": 1076,
         "oracion": "Moler y seleccionar",
-        "traduccion": "pict_38077 pict_3047 pict_11694"
+        "traduccion": "pict_38077 pict_3047 pict_11694",
+        "correccion": "pict_38077 pict_3047 pict_11694"
     },
     {
         "id": 1183,
         "oracion": "Fecha de caducidad",
-        "traduccion": "pict_34799 pict_15503"
+        "traduccion": "pict_34799 pict_15503",
+        "correccion": "pict_34799 pict_15503"
     },
     {
         "id": 1291,
         "oracion": "Medios de transporte",
-        "traduccion": "pict_19570 pict_10351"
+        "traduccion": "pict_19570 pict_10351",
+        "correccion": "pict_10351"
     },
     {
         "id": 1801,
         "oracion": "Recibo de celular",
+        "traduccion": "pict_16873 pict_2586",
+        "correccion": "pict_16873 pict_2586",
         "traduccion": "pict_16873 pict_2586"
     },
     {
