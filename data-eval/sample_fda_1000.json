@@ -9,7 +9,7 @@
         "id": 721,
         "oracion": "Aire que respiro",
         "traduccion": "pict_23731 pict_11351 respiro",
-        "correccion: "pict_23731 pict_34508"
+        "correccion": "pict_23731 pict_34508"
     },
     {
         "id": 3619,
@@ -56,17 +56,20 @@
     {
         "id": 3081,
         "oracion": "Trabajé con papelitos",
-        "traduccion": "pict_2599 papelitos"
+        "traduccion": "pict_2599 papelitos",
+        "correccion": "pict_2547 pict_2398"
     },
     {
         "id": 3863,
         "oracion": "Ideas para investigar",
-        "traduccion": "Ideas pict_15320"
+        "traduccion": "Ideas pict_15320",
+        "correccion": "pict_38003 pict_15320"
     },
     {
         "id": 4153,
         "oracion": "Dibuja con pincel",
-        "traduccion": "pict_8088 pict_2523"
+        "traduccion": "pict_8088 pict_2523",
+        "correccion": "pict_8088 pict_2523"
     },
     {
         "id": 5820,
