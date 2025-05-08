@@ -2,47 +2,56 @@
     {
         "id": 14083,
         "oracion": "Bajamos el santo en la ceremonia",
-        "traduccion": "pict_6053 pict_24392 pict_7029 ceremonia"
+        "traduccion": "pict_6053 pict_24392 pict_7029 ceremonia",
+        "correccion": "pict_24723 pict_24392 pict_31023"
     },
     {
         "id": 721,
         "oracion": "Aire que respiro",
-        "traduccion": "pict_23731 pict_11351 respiro"
+        "traduccion": "pict_23731 pict_11351 respiro",
+        "correccion: "pict_23731 pict_34508"
     },
     {
         "id": 3619,
         "oracion": "Decoran las casas",
-        "traduccion": "pict_7008 pict_2317"
+        "traduccion": "pict_7008 pict_2317",
+        "correccion": "pict_7008 pict_2317"
     },
     {
         "id": 138,
         "oracion": "Sentido del tacto",
-        "traduccion": "Sentido tacto"
+        "traduccion": "Sentido tacto",
+        "correccion": "pict_30194 pict_27407"
     },
     {
         "id": 964,
         "oracion": "Medida del pecho",
-        "traduccion": "pict_9834 pict_2853"
+        "traduccion": "pict_9834 pict_2853",
+        "correccion": "pict_5510 pict_2853"
     },
     {
         "id": 9430,
         "oracion": "Puerto Inca, un balneario histórico",
-        "traduccion": "pict_3145 Inca pict_2627 pict_28203 histórico"
+        "traduccion": "pict_3145 Inca pict_2627 pict_28203 histórico",
+        "correccion": "pict_3145 pict_28203 pict_32806"
     },
     {
         "id": 3442,
         "oracion": "Reglas del salón",
-        "traduccion": "pict_2815 pict_6211"
+        "traduccion": "pict_2815 pict_6211",
+        "correccion": "pict_34779 pict_33072"
     },
     {
         "id": 1019,
         "oracion": "Pan con mermelada",
-        "traduccion": "pict_2494 pict_2470"
+        "traduccion": "pict_2494 pict_2470",
+        "correccion": "pict_2494 pict_2470"
     },
     {
         "id": 251,
         "oracion": "Objeto para jugar",
-        "traduccion": "pict_11318 pict_2439"
+        "traduccion": "pict_11318 pict_2439",
+        "correccion": "pict_11318 pict_2439"
     },
     {
         "id": 3081,
