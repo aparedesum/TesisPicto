@@ -1202,67 +1202,81 @@
     {
         "id": 7855,
         "oracion": "Escribo su utilidad aquí",
-        "traduccion": "pict_2380 pict_12272 pict_17036 pict_5382"
+        "traduccion": "pict_2380 pict_12272 pict_17036 pict_5382",
+        "correccion": "pict_2380 pict_12272 pict_17036 pict_5382"
     },
     {
         "id": 15103,
         "oracion": "¡Muy interesante!",
-        "traduccion": "pict_25708 interesante"
+        "traduccion": "pict_25708 interesante",
+        "correccion": "pict_25708 pict_22627"
     },
     {
         "id": 14463,
         "oracion": "Dios Wiracocha transformó a sus hijas en lagunas",
-        "traduccion": "pict_24013 Wiracocha transformó pict_12276 pict_9885 lagunas"
+        "traduccion": "pict_24013 Wiracocha transformó pict_12276 pict_9885 lagunas",
+        "correccion": "pict_24013 pict_37360 pict_12276 pict_6974 pict_6022"
     },
     {
         "id": 48,
         "oracion": "Decir tu nombre",
-        "traduccion": "pict_9692 pict_12281 pict_27357"
+        "traduccion": "pict_9692 pict_12281 pict_27357",
+        "correccion": "pict_9692 pict_12281 pict_27357"
     },
     {
         "id": 154,
         "oracion": "Sabor de las cosas",
-        "traduccion": "Sabor cosas"
+        "traduccion": "Sabor cosas",
+        "correccion": "pict_6456"
     },
     {
         "id": 636,
         "oracion": "¡Hola, amigo!",
-        "traduccion": "pict_6009 pict_8487"
+        "traduccion": "pict_6009 pict_8487",
+        "correccion": "pict_6009 pict_8487"
     },
     {
         "id": 13,
         "oracion": "Cómo funciona algo",
-        "traduccion": "pict_22619 pict_37038 algo"
+        "traduccion": "pict_22619 pict_37038 algo",
+        "correccion": "pict_22619 pict_37038 pict_7091"
     },
     {
         "id": 361,
         "oracion": "Un número de cosas",
-        "traduccion": "pict_2627 pict_2879 cosas"
+        "traduccion": "pict_2627 pict_2879 cosas",
+        "correccion": "pict_7168 pict_11318"
     },
     {
         "id": 766,
         "oracion": "Hablar correcto",
-        "traduccion": "pict_3345 pict_21381"
+        "traduccion": "pict_3345 pict_21381",
+        "correccion": "pict_3345 pict_21381"
     },
     {
         "id": 1743,
         "oracion": "Mucha información",
-        "traduccion": "pict_7168 pict_9897"
+        "traduccion": "pict_7168 pict_9897",
+        "correccion": "pict_7168 pict_9897"
     },
     {
         "id": 3876,
         "oracion": "¡Qué rica naranja!",
-        "traduccion": "pict_22624 pict_10211 pict_2483"
+        "traduccion": "pict_22624 pict_10211 pict_2483",
+        "correccion": "pict_32340 pict_2483"
+        
     },
     {
         "id": 7163,
         "oracion": "Importante participar en mesas redondas",
-        "traduccion": "pict_11470 pict_11475 pict_3129 pict_4603"
+        "traduccion": "pict_11470 pict_11475 pict_3129 pict_4603",
+        "correccion": "pict_11470 pict_11475 pict_12289"
     },
     {
         "id": 7604,
         "oracion": "Lugar tranquilo para pasear y disfrutar",
-        "traduccion": "pict_9819 pict_31310 pict_8649 pict_3047 pict_16647"
+        "traduccion": "pict_9819 pict_31310 pict_8649 pict_3047 pict_16647",
+        "correccion": "pict_10304 pict_39269 pict_8649 pict_3047 pict_16647"
     },
     {
         "id": 5306,
