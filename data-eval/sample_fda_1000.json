@@ -541,222 +541,266 @@
     {
         "id": 8311,
         "oracion": "Mistura celebra la comida peruana",
-        "traduccion": "Mistura pict_6969 pict_7029 pict_4611 peruana"
+        "traduccion": "Mistura pict_6969 pict_7029 pict_4611 peruana",
+        "correccion": "pict_37741 pict_6969 pict_4611 pict_8185"
     },
     {
         "id": 11513,
         "oracion": "Compraron muchas cosas en la feria",
-        "traduccion": "pict_6457 pict_7168 cosas pict_7029 pict_4649"
+        "traduccion": "pict_6457 pict_7168 cosas pict_7029 pict_4649",
+        "correccion": "pict_6457 pict_7168 pict_11318 pict_37741"
     },
     {
         "id": 14909,
         "oracion": "¿Quiénes están?",
-        "traduccion": "pict_9857 pict_5466"
+        "traduccion": "pict_9857 pict_5466",
+        "correccion": "pict_13358 pict_36392"
     },
     {
         "id": 13106,
         "oracion": "Observen el video para aprender a describir",
-        "traduccion": "Observen video pict_8029 describir"
+        "traduccion": "Observen video pict_8029 describir",
+        "correccion": "pict_6564 pict_24797 pict_8029 pict_11713"
     },
     {
         "id": 9824,
         "oracion": "Tiene muchos dientes cerca unos de otros",
-        "traduccion": "pict_7271 pict_7168 pict_2737 pict_30383 pict_8475 pict_17056"
+        "traduccion": "pict_7271 pict_7168 pict_2737 pict_30383 pict_8475 pict_17056",
+        "correccion": "pict_7271 pict_7168 pict_2737 pict_30383"
     },
     {
         "id": 8456,
         "oracion": "Adopta postura adecuada al hablar",
-        "traduccion": "pict_21353 pict_37199 adecuada pict_3345"
+        "traduccion": "pict_21353 pict_37199 adecuada pict_3345",
+        "correccion": "pict_37199 pict_34641 pict_6517"
     },
     {
         "id": 1449,
         "oracion": "Mistura, el mercado grande",
-        "traduccion": "Mistura pict_32942 pict_4658"
+        "traduccion": "Mistura pict_32942 pict_4658",
+        "correccion": "pict_37741 pict_32942 pict_4658"
     },
     {
         "id": 6251,
         "oracion": "¡Artesanía de Quinua!",
-        "traduccion": "pict_22769 pict_38527"
+        "traduccion": "pict_22769 pict_38527",
+        "correccion": "pict_22769 pict_38527"
     },
     {
         "id": 10544,
         "oracion": "Aprendo para qué sirve cada cosa",
-        "traduccion": "pict_8029 pict_22624 pict_7247 cada cosa"
+        "traduccion": "pict_8029 pict_22624 pict_7247 cada cosa",
+        "correccion": "pict_8029 pict_36719 pict_37038 pict_11318"
     },
     {
         "id": 6084,
         "oracion": "Algo extraño pasó al despertar",
-        "traduccion": "Algo pict_11355 pict_6581 pict_8988"
+        "traduccion": "Algo pict_11355 pict_6581 pict_8988",
+        "correccion": "pict_32390 pict_37310 pict_8988"
     },
     {
         "id": 2993,
         "oracion": "La Bruja es muy conocida",
-        "traduccion": "pict_7029 pict_5404 pict_5581 pict_25708 conocida"
+        "traduccion": "pict_7029 pict_5404 pict_5581 pict_25708 conocida",
+        "correccion": "pict_5404 pict_25708 pict_10202"
     },
     {
         "id": 6574,
         "oracion": "Solo fecundan a la reina",
-        "traduccion": "pict_7253 fecundan pict_7029 pict_5559"
+        "traduccion": "pict_7253 fecundan pict_7029 pict_5559",
+        "correccion": "pict_14984 pict_5559"
     },
     {
         "id": 5178,
         "oracion": "Las ferias son más famosas",
-        "traduccion": "pict_4649 pict_5581 pict_3220 pict_10203"
+        "traduccion": "pict_4649 pict_5581 pict_3220 pict_10203",
+        "correccion": "pict_37741 pict_25708 pict_37802"
     },
     {
         "id": 1692,
         "oracion": "¿Cuántos pasos son?",
-        "traduccion": "pict_7073 pict_35477 pict_5581"
+        "traduccion": "pict_7073 pict_35477 pict_5581",
+        "correccion": "pict_7073 pict_6044"
     },
     {
         "id": 14247,
         "oracion": "Legumbres y hortalizas son diferentes",
-        "traduccion": "pict_24805 pict_3047 pict_6244 pict_5581 pict_4628"
+        "traduccion": "pict_24805 pict_3047 pict_6244 pict_5581 pict_4628",
+        "correccion": "pict_24805 pict_3047 pict_6244 pict_4628"
     },
     {
         "id": 12311,
         "oracion": "Comparte texto para recibir aportes",
-        "traduccion": "Comparte pict_37340 pict_17044 aportes"
+        "traduccion": "Comparte pict_37340 pict_17044 aportes",
+        "correccion": "pict_38900 pict_25191 pict_17044 pict_6531"
     },
     {
         "id": 9896,
         "oracion": "La lluvia mejora la producción de leche en mi pueblo",
-        "traduccion": "pict_7029 pict_3123 pict_11705 pict_7029 pict_17032 pict_2445 pict_12264 pict_2823"
+        "traduccion": "pict_7029 pict_3123 pict_11705 pict_7029 pict_17032 pict_2445 pict_12264 pict_2823",
+        "correccion": "pict_3123 pict_11705 pict_17032 pict_2445 pict_12264 pict_2823"
     },
     {
         "id": 8957,
         "oracion": "Identifica materiales de la polea",
-        "traduccion": "Identifica materiales pict_7029 pict_26334"
+        "traduccion": "Identifica materiales pict_7029 pict_26334",
+        "correccion": "pict_15320 pict_9877 pict_26334"
     },
     {
         "id": 6009,
         "oracion": "Creían que eran historias inventadas",
-        "traduccion": "Creían pict_11351 pict_5581 pict_32634 inventadas"
+        "traduccion": "Creían pict_11351 pict_5581 pict_32634 inventadas",
+        "correccion": "pict_38796 pict_5581 pict_6472"
     },
     {
         "id": 5179,
         "oracion": "Aunque cuidemos, se acabarán",
-        "traduccion": "pict_11185 pict_11691 pict_6481 pict_5358"
+        "traduccion": "pict_11185 pict_11691 pict_6481 pict_5358",
+        "correccion": "pict_26533 pict_28429"
     },
     {
         "id": 2888,
         "oracion": "¿Cuándo se hizo?",
-        "traduccion": "pict_22621 pict_6481 pict_11749"
+        "traduccion": "pict_22621 pict_6481 pict_11749",
+        "correccion": "pict_22621 pict_32751"
     },
     {
         "id": 3437,
         "oracion": "¿Estás de acuerdo?",
-        "traduccion": "pict_5466 acuerdo"
+        "traduccion": "pict_5466 acuerdo",
+        "correccion": "pict_24607"
     },
     {
         "id": 4357,
         "oracion": "Base de piedras y barro",
-        "traduccion": "Base pict_28585 pict_3047 pict_5908"
+        "traduccion": "Base pict_28585 pict_3047 pict_5908",
+        "correccion": "pict_39074 pict_28585 pict_3047 pict_5908"
     },
     {
         "id": 8795,
         "oracion": "Va a pescar con Luis",
-        "traduccion": "pict_2432 pict_6592 Luis"
+        "traduccion": "pict_2432 pict_6592 Luis",
+        "correccion": "pict_2432 pict_6592 pict_7176"
     },
     {
         "id": 8981,
         "oracion": "Usaron solo negro y marrones",
-        "traduccion": "pict_15485 pict_7253 pict_2886 pict_3047 pict_2923"
+        "traduccion": "pict_15485 pict_7253 pict_2886 pict_3047 pict_2923",
+        "correccion": "pict_15485 pict_2886 pict_3047 pict_2923"
     },
     {
         "id": 14708,
         "oracion": "Helado artesanal con ingredientes naturales",
-        "traduccion": "pict_35209 artesanal pict_24119 pict_32542"
+        "traduccion": "pict_35209 artesanal pict_24119 pict_32542",
+        "correccion": "pict_35209 pict_24119"
     },
     {
         "id": 8787,
         "oracion": "Soy Mateo y quiero hablar mejor",
-        "traduccion": "pict_5581 Mateo pict_3047 pict_5441 pict_3345 pict_11470"
+        "traduccion": "pict_5581 Mateo pict_3047 pict_5441 pict_3345 pict_11470",
+        "correccion": "pict_6632 pict_7176 pict_5441 pict_3345 pict_11470"
     },
     {
         "id": 3774,
         "oracion": "Lee y responde en voz alta",
-        "traduccion": "pict_7141 pict_3047 pict_9030 voz pict_10193"
+        "traduccion": "pict_7141 pict_3047 pict_9030 voz pict_10193",
+        "correccion": "pict_7141 pict_3047 pict_9030 pict_4686"
     },
     {
         "id": 10582,
         "oracion": "Tiene vitamina D para los huesos",
-        "traduccion": "pict_7271 pict_36504 pict_3025 pict_2972"
+        "traduccion": "pict_7271 pict_36504 pict_3025 pict_2972",
+        "correccion": "pict_7271 pict_36504 pict_2972"
     },
     {
         "id": 10166,
         "oracion": "Dibujo el nivel del agua dentro de la botella",
-        "traduccion": "pict_11238 pict_9119 pict_2248 pict_5439 pict_7029 pict_2288"
+        "traduccion": "pict_11238 pict_9119 pict_2248 pict_5439 pict_7029 pict_2288",
+        "correccion": "pict_8088 pict_34703 pict_2248 pict_5439 pict_2288"
     },
     {
         "id": 7557,
         "oracion": "Encontramos palabras en la sopa de letras",
-        "traduccion": "pict_5990 pict_9837 pict_7029 pict_2573 pict_34361"
+        "traduccion": "pict_5990 pict_9837 pict_7029 pict_2573 pict_34361",
+        "correccion": "pict_5990 pict_9837 pict_2573 pict_34361"
     },
     {
         "id": 9074,
         "oracion": "Organiza los hechos de tu historia",
-        "traduccion": "pict_35653 hechos pict_12281 pict_32634"
+        "traduccion": "pict_35653 hechos pict_12281 pict_32634",
+        "correccion": "pict_35653 pict_37310 pict_12281 pict_2364"
     },
     {
         "id": 3748,
         "oracion": "¿Qué datos personales escribo?",
-        "traduccion": "pict_22624 pict_9702 pict_2380"
+        "traduccion": "pict_22624 pict_9702 pict_2380",
+        "correccion": "pict_22620 pict_9702 pict_2380"
     },
     {
         "id": 7680,
         "oracion": "Busca la respuesta en el texto",
-        "traduccion": "pict_6946 pict_7029 respuesta pict_37340"
+        "traduccion": "pict_6946 pict_7029 respuesta pict_37340",
+        "correccion": "pict_6946 pict_9031 pict_25191"
     },
     {
         "id": 7702,
         "oracion": "Importante comer pescado en la dieta",
-        "traduccion": "pict_11470 pict_2349 pict_2519 pict_7029 pict_11239"
+        "traduccion": "pict_11470 pict_2349 pict_2519 pict_7029 pict_11239",
+        "correccion": "pict_22627 pict_2349 pict_2519 pict_4611"
     },
     {
         "id": 7439,
         "oracion": "Me tomó de la mano amablemente",
-        "traduccion": "pict_2617 pict_2276 pict_7029 pict_2928 amablemente"
+        "traduccion": "pict_2617 pict_2276 pict_7029 pict_2928 amablemente",
+        "correccion": "pict_13024"
     },
     {
         "id": 10617,
         "oracion": "Invento que convierte viento en electricidad",
-        "traduccion": "Invento pict_11351 convierte pict_7259 pict_24798"
+        "traduccion": "Invento pict_11351 convierte pict_7259 pict_24798",
+        "correccion": "pict_6531 pict_37360 pict_7259 pict_24798"
     },
     {
         "id": 13072,
         "oracion": "La rana macho cuida los huevos",
-        "traduccion": "pict_7029 pict_2543 pict_38895 pict_11691 pict_34039"
+        "traduccion": "pict_7029 pict_2543 pict_38895 pict_11691 pict_34039",
+        "correccion": "pict_2543 pict_6599 pict_2427"
     },
     {
         "id": 1461,
         "oracion": "Hablamos y respondemos",
-        "traduccion": "pict_3345 pict_3047 pict_9030"
+        "traduccion": "pict_3345 pict_3047 pict_9030",
+        "correccion": "pict_3345 pict_3047 pict_9030"
     },
     {
         "id": 196,
         "oracion": "Ser vivo que crece en la tierra",
-        "traduccion": "pict_5581 pict_11397 pict_11351 pict_7002 pict_7029 pict_3160"
+        "traduccion": "pict_5581 pict_11397 pict_11351 pict_7002 pict_7029 pict_3160",
+        "correccion": "pict_11375 pict_23991 pict_3160"
     },
     {
         "id": 14462,
         "oracion": "Planeamos cómo compartir mensaje sobre el medio ambiente",
-        "traduccion": "Planeamos pict_22619 pict_15361 mensaje pict_20389"
+        "traduccion": "Planeamos pict_22619 pict_15361 mensaje pict_20389",
+        "correccion": "pict_35653 pict_22619 pict_15361 pict_27527 pict_20389"
     },
     {
         "id": 497,
         "oracion": "¿Qué es?",
-        "traduccion": "pict_22624 pict_5581"
+        "traduccion": "pict_22624 pict_5581",
+        "correccion": "pict_32771"
     },
     {
         "id": 6456,
         "oracion": "¿Es útil el gráfico de barras?",
-        "traduccion": "pict_5581 útil pict_9174 barras"
+        "traduccion": "pict_5581 útil pict_9174 barras",
+        "correccion": "pict_5581 pict_4570 pict_9174"
     },
     {
         "id": 9851,
         "oracion": "Los carneros pesan hasta 135 kilos, las ovejas 90",
-        "traduccion": "pict_9061 pict_4717 135 kilos pict_2489 pict_29430"
+        "traduccion": "pict_9061 pict_4717 135 kilos pict_2489 pict_29430",
+        "correccion": "pict_9061 pict_4717 pict_2489"
     },
     {
         "id": 812,
