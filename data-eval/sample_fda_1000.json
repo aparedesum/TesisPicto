@@ -506,7 +506,7 @@
         "id": 11663,
         "oracion": "Compartimos durante el recreo",
         "traduccion": "pict_15361 pict_6204",
-        "traduccion": "pict_15361 pict_7081 pict_6204"
+        "correccion": "pict_15361 pict_7081 pict_6204"
     },
     {
         "id": 9322,
@@ -517,22 +517,26 @@
     {
         "id": 1483,
         "oracion": "Mi papá es un héroe",
-        "traduccion": "pict_12264 pict_31146 pict_5581 pict_2627 héroe"
+        "traduccion": "pict_12264 pict_31146 pict_5581 pict_2627 héroe",
+        "correccion": "pict_12264 pict_2497 pict_5581 pict_2627 pict_8227"
     },
     {
         "id": 3365,
         "oracion": "Sigue las instrucciones de Ana",
-        "traduccion": "pict_7038 pict_34705 Ana"
+        "traduccion": "pict_7038 pict_34705 Ana",
+        "correccion": "pict_27331 pict_34705 pict_32845"
     },
     {
         "id": 4465,
         "oracion": "Hagan una pregunta del problema",
-        "traduccion": "Hagan pict_2627 pict_7217 pict_5556"
+        "traduccion": "Hagan pict_2627 pict_7217 pict_5556",
+        "correccion": "pict_32751 pict_9847 pict_5556"
     },
     {
         "id": 5072,
         "oracion": "El otoño parece niño juguetón",
-        "traduccion": "pict_5531 pict_36480 pict_2485 juguetón"
+        "traduccion": "pict_5531 pict_36480 pict_2485 juguetón",
+        "correccion": "pict_5531 pict_36480 pict_7176 pict_23392"
     },
     {
         "id": 8311,
