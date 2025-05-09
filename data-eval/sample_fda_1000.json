@@ -1228,71 +1228,85 @@
     {
         "id": 5306,
         "oracion": "Busco información",
-        "traduccion": "pict_6946 pict_9897"
+        "traduccion": "pict_6946 pict_9897",
+        "correccion": "pict_6946 pict_9897"
     },
     {
         "id": 5024,
         "oracion": "¿Podemos evitar algo?",
-        "traduccion": "pict_11750 pict_24031 algo"
+        "traduccion": "pict_11750 pict_24031 algo",
+        "correccion": "pict_11750 pict_24031 pict_7091"
     },
     {
         "id": 6205,
         "oracion": "Aceite muy saludable",
-        "traduccion": "pict_2246 pict_25708 saludable"
+        "traduccion": "pict_2246 pict_25708 saludable",
+        "correccion": "pict_2246 pict_25708 pict_14664"
     },
     {
         "id": 14132,
         "oracion": "Lugar popular para descansar y deportes",
-        "traduccion": "pict_9819 popular pict_3299 pict_3047 pict_7010"
+        "traduccion": "pict_9819 popular pict_3299 pict_3047 pict_7010",
+        "correccion": "pict_2823 pict_3299 pict_3047 pict_7010"
     },
     {
         "id": 2418,
         "oracion": "Agua cae por rocas",
-        "traduccion": "pict_2248 pict_4582 pict_6594"
+        "traduccion": "pict_2248 pict_4582 pict_6594",
+        "correccion": "pict_2248 pict_39440 pict_6594"
     },
     {
         "id": 12523,
         "oracion": "Comentó su viaje a Áncash",
-        "traduccion": "Comentó pict_12272 pict_11393 Áncash"
+        "traduccion": "Comentó pict_12272 pict_11393 Áncash",
+        "correccion": "pict_6461 pict_12272 pict_11393"
     },
     {
         "id": 11064,
         "oracion": "Adolescentes no suelen preocuparse por su futuro",
-        "traduccion": "pict_38817 pict_5526 suelen pict_26985 pict_12272 pict_9829"
+        "traduccion": "pict_38817 pict_5526 suelen pict_26985 pict_12272 pict_9829",
+        "correccion": "pict_38817 pict_5526 pict_26985 pict_9829"
     },
     {
         "id": 1536,
         "oracion": "¿Cómo nació?",
-        "traduccion": "pict_22619 pict_8176"
+        "traduccion": "pict_22619 pict_8176",
+        "correccion": "pict_22619 pict_8176"
     },
     {
         "id": 3954,
         "oracion": "Quita maleza de más",
-        "traduccion": "pict_11751 maleza pict_3220"
+        "traduccion": "pict_11751 maleza pict_3220",
+        "correccion": "pict_10151 pict_3113 pict_39188"
     },
     {
         "id": 14994,
         "oracion": "Cambios por las fuerzas",
-        "traduccion": "pict_28833 pict_25638"
+        "traduccion": "pict_28833 pict_25638",
+        "correccion": "pict_31955 pict_25638"
     },
     {
         "id": 729,
         "oracion": "Lo escogí",
-        "traduccion": "pict_6481 pict_6483"
+        "traduccion": "pict_6481 pict_6483",
+        "correccion": "pict_30510"
     },
     {
         "id": 1899,
         "oracion": "Elegí estos por una razón",
-        "traduccion": "pict_6483 pict_7096 pict_2627 pict_5739"
+        "traduccion": "pict_6483 pict_7096 pict_2627 pict_5739",
+        "correccion": "pict_30510 pict_7096 pict_2627 pict_16659"
     },
     {
         "id": 6039,
         "oracion": "Mi conejo se escondió",
-        "traduccion": "pict_12264 pict_2351 pict_6481 pict_4642"
+        "traduccion": "pict_12264 pict_2351 pict_6481 pict_4642",
+        "correccion": "pict_12264 pict_2351 pict_4642"
     },
     {
         "id": 9371,
         "oracion": "Beben ponches al salir",
-        "traduccion": "pict_2276 ponches pict_2806"
+        "traduccion": "pict_2276 ponches pict_2806",
+        "correccion": "pict_2276 pict_2330 pict_29951"
     }
 ]
