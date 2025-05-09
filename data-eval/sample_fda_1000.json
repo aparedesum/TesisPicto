@@ -387,7 +387,7 @@
         "id": 11470,
         "oracion": "Es un lugar hermoso que debemos cuidar",
         "traduccion": "pict_5581 pict_2627 pict_9819 pict_11194 pict_11351 debemos pict_11691",
-        "traduccion": "pict_10304 pict_11194 debemos pict_6599"
+        "correccion": "pict_10304 pict_11194 debemos pict_6599"
     },
     {
         "id": 2960,
@@ -410,7 +410,8 @@
     {
         "id": 3736,
         "oracion": "Lo hacen en Chiquián",
-        "traduccion": "pict_11749 pict_2823"
+        "traduccion": "pict_11749 pict_2823",
+        "correccion": "pict_32751 pict_2823"
     },
     {
         "id": 9534,
@@ -1148,7 +1149,7 @@
         "id": 14184,
         "oracion": "Viaja en cocodrilo por ríos amazónicos",
         "traduccion": "pict_4671 pict_2343 pict_10306 amazónicos",
-        "traduccion": "pict_4671 pict_2343 pict_2811 pict_3385"
+        "correccion": "pict_4671 pict_2343 pict_2811 pict_3385"
     },
     {
         "id": 7610,
