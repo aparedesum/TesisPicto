@@ -153,108 +153,127 @@
         "id": 1801,
         "oracion": "Recibo de celular",
         "traduccion": "pict_16873 pict_2586",
-        "correccion": "pict_16873 pict_2586",
-        "traduccion": "pict_16873 pict_2586"
+        "correccion": "pict_16873 pict_2586"
     },
     {
         "id": 1916,
         "oracion": "Causa y efecto",
-        "traduccion": "pict_12295 pict_3047 efecto"
+        "traduccion": "pict_12295 pict_3047 efecto",
+        "correccion": "pict_5431 pict_3047 pict_5358"
     },
     {
         "id": 2543,
         "oracion": "Metro de manguera",
-        "traduccion": "pict_2472 pict_2929"
+        "traduccion": "pict_2472 pict_2929",
+        "correccion": "pict_2913 pict_2929"
     },
     {
         "id": 2662,
         "oracion": "Paseamos en bote",
-        "traduccion": "pict_8649 pict_3322"
+        "traduccion": "pict_8649 pict_3322",
+        "correccion": "pict_8649 pict_6932"
     },
     {
         "id": 3150,
         "oracion": "Decoramos la letra",
-        "traduccion": "pict_7008 pict_7029 pict_39235"
+        "traduccion": "pict_7008 pict_7029 pict_39235",
+        "correccion": "pict_7008 pict_2380"
     },
     {
         "id": 4109,
         "oracion": "Combustible de carbón",
-        "traduccion": "Combustible pict_5943"
+        "traduccion": "Combustible pict_5943",
+        "correccion": "pict_8125 pict_5943"
     },
     {
         "id": 4579,
         "oracion": "Aquí unas recomendaciones",
-        "traduccion": "pict_5382 pict_8475 recomendaciones"
+        "traduccion": "pict_5382 pict_8475 recomendaciones",
+        "correccion": "pict_37708"
     },
     {
         "id": 5681,
         "oracion": "Guardamos relatos escribiéndolos",
-        "traduccion": "pict_5514 relatos pict_2380"
+        "traduccion": "pict_5514 relatos pict_2380",
+        "correccion": "pict_5514 pict_6471 pict_2380"
     },
     {
         "id": 8220,
         "oracion": "Descripción personal detallada",
-        "traduccion": "pict_11713 pict_32588 detallada"
+        "traduccion": "pict_11713 pict_32588 detallada",
+        "correccion": "pict_11719 pict_4665"
     },
     {
         "id": 10642,
         "oracion": "Marcar respuestas correctas",
-        "traduccion": "pict_4691 respuestas pict_21381"
+        "traduccion": "pict_4691 respuestas pict_21381",
+        "correccion": "pict_39451 pict_38462 pict_21381"
     },
     {
         "id": 12497,
         "oracion": "Moléculas forman cuerpos",
-        "traduccion": "Moléculas forman pict_2728"
+        "traduccion": "Moléculas forman pict_2728",
+        "correccion": "pict_24240 pict_11698 pict_26226"
     },
     {
         "id": 12752,
         "oracion": "Elegimos la palabra \"alegría\"",
-        "traduccion": "pict_6483 pict_7029 pict_9837 pict_8582"
+        "traduccion": "pict_6483 pict_7029 pict_9837 pict_8582",
+        "correccion": "pict_30510 pict_9837 pict_8582"
     },
     {
         "id": 15038,
         "oracion": "Mayores cuentan historias",
-        "traduccion": "pict_4557 pict_2714 pict_32634"
+        "traduccion": "pict_4557 pict_2714 pict_32634",
+        "correccion": "pict_6876 pict_5973 pict_6472"
     },
     {
         "id": 2621,
-        "oracion": "“Soy fuerte,” dice uno",
-        "traduccion": "“ pict_5581 pict_4655 ” pict_9692 pict_2627"
+        "oracion": "Soy fuerte, dice uno",
+        "traduccion": "pict_5581 pict_4655 pict_9692 pict_2627",
+        "correccion": "pict_36480 pict_25121 pict_9693"
     },
     {
         "id": 8494,
         "oracion": "Facilita funciones vitales de los seres vivos",
-        "traduccion": "Facilita funciones vitales pict_10250"
+        "traduccion": "Facilita funciones vitales pict_10250",
+        "correccion": "pict_4570 pict_24214 pict_10250"
     },
     {
         "id": 6012,
         "oracion": "Noticia sobre El Niño",
-        "traduccion": "pict_7784 pict_2485"
+        "traduccion": "pict_7784 pict_2485",
+        "correccion": "pict_8229 pict_4669"
     },
     {
         "id": 539,
         "oracion": "¿A quiénes?",
-        "traduccion": "pict_9857"
+        "traduccion": "pict_9857",
+        "correccion": "pict_9857"
     },
     {
         "id": 2246,
         "oracion": "A él no le importa",
-        "traduccion": "pict_6480 pict_5526 pict_6481 pict_21927"
+        "traduccion": "pict_6480 pict_5526 pict_6481 pict_21927",
+        "correccion": "pict_6480 pict_5526 pict_38123"
     },
     {
         "id": 10446,
         "oracion": "La fuerza disminuye, y es más fácil mover cargas",
-        "traduccion": "pict_7029 pict_25638 disminuye pict_3047 pict_5581 pict_3220 pict_4645 pict_7167 cargas"
+        "traduccion": "pict_7029 pict_25638 disminuye pict_3047 pict_5581 pict_3220 pict_4645 pict_7167 cargas",
+        "correccion": "pict_25638 pict_5546 pict_4645 pict_7167 pict_11318"
     },
     {
         "id": 10944,
         "oracion": "Mira al entrevistado al responder",
-        "traduccion": "pict_2474 entrevistado pict_9030"
+        "traduccion": "pict_2474 entrevistado pict_9030",
+        "correccion": "pict_2474 pict_8105 pict_9030"
     },
     {
         "id": 6979,
         "oracion": "Explicación del gráfico en texto",
-        "traduccion": "Explicación pict_9174 pict_37340"
+        "traduccion": "Explicación pict_9174 pict_37340",
+        "correccion": "pict_16705 pict_9174 pict_37340"
     },
     {
         "id": 3677,
