@@ -1199,12 +1199,14 @@
     {
         "id": 14620,
         "oracion": "Elaboramos ficha informativa de atracciones turísticas",
-        "traduccion": "pict_11698 pict_10310 pict_8229 atracciones turísticas"
+        "traduccion": "pict_11698 pict_10310 pict_8229 atracciones turísticas",
+        "correccion": "pict_11698 pict_11263 pict_16037 pict_10304"
     },
     {
         "id": 5179,
         "oracion": "Aunque cuidemos, se acabarán",
-        "traduccion": "pict_11185 pict_11691 pict_6481 pict_5358"
+        "traduccion": "pict_11185 pict_11691 pict_6481 pict_5358",
+        "correccion": "pict_26533 pict_28429"
     },
     {
         "id": 6959,
@@ -1214,81 +1216,97 @@
     {
         "id": 198,
         "oracion": "Herramienta para cortar",
-        "traduccion": "pict_7127 pict_2547"
+        "traduccion": "pict_7127 pict_2547",
+        "correccion": "pict_7127 pict_2547"
     },
     {
         "id": 9358,
         "oracion": "Ordenamos los pasos del 1 al 5",
-        "traduccion": "pict_2872 pict_35477 pict_2627 pict_2631"
+        "traduccion": "pict_2872 pict_35477 pict_2627 pict_2631",
+        "correccion": "pict_2872 pict_2627 pict_7771 pict_2631"
     },
     {
         "id": 3113,
         "oracion": "¿Qué descubrió el niño?",
-        "traduccion": "pict_22624 pict_6019 pict_2485"
+        "traduccion": "pict_22624 pict_6019 pict_2485",
+        "correccion": "pict_22620 pict_6019 pict_7176"
     },
     {
         "id": 14485,
         "oracion": "Familias mejoran alimentación de ganado",
-        "traduccion": "pict_2392 pict_11705 alimentación pict_25640"
+        "traduccion": "pict_2392 pict_11705 alimentación pict_25640",
+        "correccion": "pict_2392 pict_11705 pict_38431 pict_25640"
     },
     {
         "id": 4561,
         "oracion": "Me llaman kuntur",
-        "traduccion": "pict_2617 pict_4687 kuntur"
+        "traduccion": "pict_2617 pict_4687",
+        "correccion": "pict_6632 pict_27357"
     },
     {
         "id": 11883,
         "oracion": "Hago juguetes con botellas",
-        "traduccion": "pict_11749 pict_9813 pict_2288"
+        "traduccion": "pict_11749 pict_9813 pict_2288",
+        "correccion": "pict_11749 pict_9813 pict_2288"
     },
     {
         "id": 3002,
         "oracion": "El dragón no tenía título",
-        "traduccion": "pict_5572 pict_5526 pict_7271 título"
+        "traduccion": "pict_5572 pict_5526 pict_7271 título",
+        "correccion": "pict_5572 pict_5526 pict_7271 pict_27724"
     },
     {
         "id": 10830,
         "oracion": "Cortamos cartulinas para la caja",
-        "traduccion": "pict_2547 pict_27659 pict_7029 pict_5935"
+        "traduccion": "pict_2547 pict_27659 pict_7029 pict_5935",
+        "correccion": "pict_2547 pict_27659 pict_5935"
     },
     {
         "id": 4022,
         "oracion": "Explica cómo crece una planta",
-        "traduccion": "pict_8579 pict_22619 pict_7002 pict_2627 pict_3143"
+        "traduccion": "pict_8579 pict_22619 pict_7002 pict_2627 pict_3143",
+        "correccion": "pict_8579 pict_22619 pict_23991 pict_7291 pict_3143"
     },
     {
         "id": 10546,
         "oracion": "¿Qué significa estar muy asustado?",
-        "traduccion": "pict_22624 significa pict_5466 pict_25708 pict_2261"
+        "traduccion": "pict_22624 significa pict_5466 pict_25708 pict_2261",
+        "correccion": "pict_22620 pict_5466 pict_25708 pict_2261"
     },
     {
         "id": 3981,
         "oracion": "Pedazo de pantalón en el jardín",
-        "traduccion": "pict_27093 pict_2565 pict_2434"
+        "traduccion": "pict_27093 pict_2565 pict_2434",
+        "correccion": "pict_27093 pict_2565 pict_2434"
     },
     {
         "id": 896,
         "oracion": "¿Qué le gustará?",
-        "traduccion": "pict_22624 pict_6481 pict_2418"
+        "traduccion": "pict_22624 pict_6481 pict_2418",
+        "correccion": "pict_22620 pict_37826"
     },
     {
         "id": 5160,
         "oracion": "Tienen orejas que se mueven",
-        "traduccion": "pict_7271 pict_2871 pict_11351 pict_6481 pict_7167"
+        "traduccion": "pict_7271 pict_2871 pict_11351 pict_6481 pict_7167",
+        "correccion": "pict_7271 pict_2871 pict_7167"
     },
     {
         "id": 7076,
         "oracion": "Leemos un mapa informativo",
-        "traduccion": "pict_7141 pict_2627 pict_5505 pict_8229"
+        "traduccion": "pict_7141 pict_2627 pict_5505 pict_8229",
+        "correccion": "pict_7141 pict_2627 pict_39172"
     },
     {
         "id": 4329,
         "oracion": "Tiempo de hablar de cada uno",
-        "traduccion": "pict_7223 pict_3345 cada pict_2627"
+        "traduccion": "pict_7223 pict_3345 cada pict_2627",
+        "correccion": "pict_7129 pict_3345 pict_36081"
     },
     {
         "id": 2058,
         "oracion": "Será la nariz del ratón",
-        "traduccion": "pict_5581 pict_7029 pict_2887 pict_2546"
+        "traduccion": "pict_5581 pict_7029 pict_2887 pict_2546",
+        "correccion": "pict_5581 pict_2887 pict_2546"
     }
 ]
