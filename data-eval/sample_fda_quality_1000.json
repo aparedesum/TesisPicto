@@ -1211,7 +1211,8 @@
     {
         "id": 6959,
         "oracion": "¿Qué materiales usan para trabajar?",
-        "traduccion": "pict_22624 materiales pict_15485 pict_2599"
+        "traduccion": "pict_22624 materiales pict_15485 pict_2599",
+        "correccion": "pict_22620 pict_34153 pict_15485 pict_2599"
     },
     {
         "id": 198,
