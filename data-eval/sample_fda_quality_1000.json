@@ -1143,127 +1143,152 @@
     {
         "id": 10623,
         "oracion": "Usa verbos como respetar y organizar",
-        "traduccion": "pict_15485 pict_7297 pict_12313 pict_11621 pict_3047 pict_35653"
+        "traduccion": "pict_15485 pict_7297 pict_12313 pict_11621 pict_3047 pict_35653",
+        "correccion": "pict_15485 pict_7297 pict_11621 pict_3047 pict_35653"
     },
     {
         "id": 7553,
         "oracion": "Suelos están muy degradados",
-        "traduccion": "pict_2575 pict_5466 pict_25708 degradados"
+        "traduccion": "pict_2575 pict_5466 pict_25708 degradados",
+        "correccion":  "pict_5466 pict_25708 pict_4770"
     },
     {
         "id": 14083,
         "oracion": "Bajamos el santo en la ceremonia",
-        "traduccion": "pict_6053 pict_24392 pict_7029 ceremonia"
+        "traduccion": "pict_6053 pict_24392 pict_7029 ceremonia",
+        "correccion": "pict_24723 pict_24392 pict_31023"
     },
     {
         "id": 13962,
         "oracion": "Hablamos sobre siembra y cosecha",
-        "traduccion": "pict_3345 pict_7245 pict_3047 cosecha"
+        "traduccion": "pict_3345 pict_7245 pict_3047 cosecha",
+        "correccion": "pict_3345 pict_7245 pict_3047 pict_26533"
     },
     {
         "id": 2472,
         "oracion": "Lee muy atento",
-        "traduccion": "pict_7141 pict_25708 atento"
+        "traduccion": "pict_7141 pict_25708 atento",
+        "correccion": "pict_7141 pict_25708 pict_25355"
     },
     {
         "id": 13601,
         "oracion": "Cultivamos legumbres para comer y vender",
-        "traduccion": "pict_38080 pict_24805 pict_2349 pict_3047 pict_6652"
+        "traduccion": "pict_38080 pict_24805 pict_2349 pict_3047 pict_6652",
+        "correccion": "pict_38080 pict_24805 pict_2349 pict_3047 pict_6652"
     },
     {
         "id": 11227,
         "oracion": "¿Cómo reacciona el arquero para atrapar la pelota?",
-        "traduccion": "pict_22619 reacciona pict_5387 pict_8188 pict_7029 pict_3241"
+        "traduccion": "pict_22619 reacciona pict_5387 pict_8188 pict_7029 pict_3241",
+        "correccion": "pict_22619 pict_38796 pict_9015 pict_32773 pict_3241"
     },
     {
         "id": 7316,
         "oracion": "¿Cómo es el clima en Ecuador y los polos?",
-        "traduccion": "pict_22619 pict_5581 pict_24721 pict_19550 pict_3047 pict_3348"
+        "traduccion": "pict_22619 pict_5581 pict_24721 pict_19550 pict_3047 pict_3348",
+        "correccion": "pict_22619 pict_5581 pict_24721 pict_19550 pict_3047 pict_6187"
     },
     {
         "id": 596,
         "oracion": "Ya sé",
-        "traduccion": "pict_25736 sé"
+        "traduccion": "pict_25736 sé",
+        "correccion": "pict_25736 pict_16659"
     },
     {
         "id": 3499,
         "oracion": "Trabaja con familia",
-        "traduccion": "pict_2599 pict_2392"
+        "traduccion": "pict_2599 pict_2392",
+        "correccion": "pict_2599 pict_2392"
     },
     {
         "id": 9241,
         "oracion": "Haz un borde",
-        "traduccion": "pict_11749 pict_2627 borde"
+        "traduccion": "pict_11749 pict_2627 borde",
+        "correccion": "pict_11749 pict_2627 pict_4684"
     },
     {
         "id": 10735,
         "oracion": "Acuerda cuándo entrevistarás a alguien",
-        "traduccion": "pict_37369 pict_22621 pict_6492 pict_37779"
+        "traduccion": "pict_37369 pict_22621 pict_6492 pict_37779",
+        "correccion": "pict_33970 pict_22621 pict_6492 pict_37779"
     },
     {
         "id": 4989,
         "oracion": "Amo la naturaleza y nadar",
-        "traduccion": "pict_6898 pict_7029 pict_20389 pict_3047 pict_6568"
+        "traduccion": "pict_6898 pict_7029 pict_20389 pict_3047 pict_6568",
+        "correccion": "pict_6898 pict_20389 pict_3047 pict_39128"
     },
     {
         "id": 4645,
         "oracion": "Ella coge papas con las manos",
-        "traduccion": "pict_7029 pict_6452 pict_2503 pict_9830"
+        "traduccion": "pict_7029 pict_6452 pict_2503 pict_9830",
+        "correccion": "pict_7028 pict_6452 pict_2503 pict_9830"
     },
     {
         "id": 9321,
         "oracion": "Evitan hablar y visitar",
-        "traduccion": "pict_24031 pict_3345 pict_3047 pict_4772"
+        "traduccion": "pict_24031 pict_3345 pict_3047 pict_4772",
+        "correccion": "pict_24031 pict_3345 pict_3047 pict_4772"
     },
     {
         "id": 401,
         "oracion": "Pinturas para arte",
-        "traduccion": "pict_16855 arte"
+        "traduccion": "pict_16855 arte",
+        "correccion": "pict_16855 pict_2360"
     },
     {
         "id": 3535,
         "oracion": "Estudio un animal",
-        "traduccion": "pict_8491 pict_2627 pict_6901"
+        "traduccion": "pict_8491 pict_2627 pict_6901",
+        "correccion": "pict_6495 pict_2627 pict_6901"
     },
     {
         "id": 1350,
         "oracion": "¡Respiro aire puro!",
-        "traduccion": "pict_34377 pict_23731 pict_4728"
+        "traduccion": "pict_34377 pict_23731 pict_4728",
+        "correccion": "pict_34377 pict_23731"
     },
     {
         "id": 5255,
         "oracion": "¿Qué hace el señor de gorra?",
-        "traduccion": "pict_22624 pict_11749 pict_4744 pict_2411"
+        "traduccion": "pict_22624 pict_11749 pict_4744 pict_2411",
+        "correccion": "pict_22620 pict_11749 pict_4665 pict_2411
     },
     {
         "id": 9028,
         "oracion": "Seguimos la conversación claramente",
-        "traduccion": "pict_7038 pict_7029 pict_23402 claramente"
+        "traduccion": "pict_7038 pict_7029 pict_23402 claramente",
+        "correccion": "pict_16659 pict_23402"
     },
     {
         "id": 4614,
         "oracion": "Unen oraciones",
-        "traduccion": "pict_6965 pict_30850"
+        "traduccion": "pict_6965 pict_30850",
+        "correccion": "pict_8243 pict_27768"
     },
     {
         "id": 2080,
         "oracion": "Miro y contesto",
-        "traduccion": "pict_2474 pict_3047 pict_9030"
+        "traduccion": "pict_2474 pict_3047 pict_9030",
+        "correccion": "pict_2474 pict_3047 pict_9030"
     },
     {
         "id": 6578,
         "oracion": "Forramos tarjetas si podemos",
-        "traduccion": "Forramos pict_6226 pict_28359 pict_11750"
+        "traduccion": "Forramos pict_6226 pict_28359 pict_11750",
+        "correccion": "pict_26024 pict_6226 pict_28359 pict_11750"
     },
     {
         "id": 3093,
         "oracion": "Verde fuera, blanco dentro",
-        "traduccion": "pict_4886 pict_5475 pict_2662 pict_5439"
+        "traduccion": "pict_4886 pict_5475 pict_2662 pict_5439",
+        "correccion": "pict_4886 pict_5475 pict_2662 pict_5439"
     },
     {
         "id": 8220,
         "oracion": "Descripción personal detallada",
-        "traduccion": "pict_11713 pict_32588 detallada"
+        "traduccion": "pict_11713 pict_32588 detallada",
+        "correccion": "pict_11719 pict_4665"
     },
     {
         "id": 14620,
