@@ -668,312 +668,374 @@
     {
         "id": 1516,
         "oracion": "Soy la maestra Juanita",
-        "traduccion": "pict_5581 pict_7029 pict_2456 Juanita"
+        "traduccion": "pict_5581 pict_7029 pict_2456 Juanita",
+        "correccion": "pict_7309 pict_2456"
     },
     {
         "id": 14100,
         "oracion": "Nacen lenguas para comunicarse",
-        "traduccion": "pict_8176 pict_2944 pict_3345"
+        "traduccion": "pict_8176 pict_2944 pict_3345",
+        "correccion": "pict_8176 pict_37085 pict_3345"
     },
     {
         "id": 36,
         "oracion": "Personas que construyen",
-        "traduccion": "pict_7117 pict_11351 pict_2713"
+        "traduccion": "pict_7117 pict_11351 pict_2713",
+        "correccion": "pict_7117 pict_2713"
     },
     {
         "id": 6676,
         "oracion": "Pedro trabaja al lado de la sala",
-        "traduccion": "Pedro pict_2599 pict_5367 pict_7029 pict_30387"
+        "traduccion": "Pedro pict_2599 pict_5367 pict_7029 pict_30387",
+        "correccion": "pict_2599 pict_5367 pict_33074"
     },
     {
         "id": 831,
         "oracion": "Cómo llegar",
-        "traduccion": "pict_22619 pict_11708"
+        "traduccion": "pict_22619 pict_11708",
+        "correccion": "pict_22619 pict_16807"
     },
     {
         "id": 781,
         "oracion": "¿Cómo lo hacen?",
-        "traduccion": "pict_22619 pict_6481 pict_11749"
+        "traduccion": "pict_22619 pict_6481 pict_11749",
+        "correccion": "pict_22619 pict_11749"
     },
     {
         "id": 12591,
         "oracion": "Observamos efectos de la fuerza en cuerpos",
-        "traduccion": "pict_2474 efectos pict_7029 pict_25638 pict_2728"
+        "traduccion": "pict_2474 efectos pict_7029 pict_25638 pict_2728",
+        "correccion": "pict_2474 pict_26061 pict_25638 pict_11318"
     },
     {
         "id": 5346,
         "oracion": "No sabía sus cualidades",
-        "traduccion": "pict_5526 pict_9034 pict_12276 pict_32584"
+        "traduccion": "pict_5526 pict_9034 pict_12276 pict_32584",
+        "correccion": "pict_7180 pict_12276 pict_36539"
     },
     {
         "id": 9958,
         "oracion": "¿Y si ningún título es bueno para los personajes del cuento?",
-        "traduccion": "pict_3047 pict_28359 pict_5800 título pict_5581 pict_4581 personajes pict_2364"
+        "traduccion": "pict_3047 pict_28359 pict_5800 título pict_5581 pict_4581 personajes pict_2364",
+        "correccion": "pict_28359 pict_5800 pict_27357 pict_5581 pict_5397 pict_15495 pict_2364"
     },
     {
         "id": 7883,
         "oracion": "Usamos lápices como baquetas",
-        "traduccion": "pict_15485 pict_2440 pict_12313 baquetas"
+        "traduccion": "pict_15485 pict_2440 pict_12313 baquetas",
+        "correccion": "pict_15485 pict_2440 pict_11322"
     },
     {
         "id": 7301,
         "oracion": "¿Por qué y para qué escribo?",
-        "traduccion": "pict_22624 pict_3047 pict_22624 pict_2380"
+        "traduccion": "pict_22624 pict_3047 pict_22624 pict_2380",
+        "correccion": "pict_36719 pict_2380"
     },
     {
         "id": 4876,
         "oracion": "Saltan mucho en tierra",
-        "traduccion": "pict_2804 pict_5521 pict_3160"
+        "traduccion": "pict_2804 pict_5521 pict_3160",
+        "correccion": "pict_2804 pict_5521 pict_4565"
     },
     {
         "id": 13986,
         "oracion": "Lee y colorea respuestas",
-        "traduccion": "pict_7141 pict_3047 pict_2348 respuestas"
+        "traduccion": "pict_7141 pict_3047 pict_2348 respuestas",
+        "correccion": "pict_7141 pict_3047 pict_2348 pict_38462"
     },
     {
         "id": 368,
         "oracion": "Una hierba",
-        "traduccion": "pict_2627 pict_3113"
+        "traduccion": "pict_2627 pict_3113",
+        "correccion": "pict_2627 pict_3113"
     },
     {
         "id": 1358,
         "oracion": "¿En qué son diferentes?",
-        "traduccion": "pict_22624 pict_5581 pict_4628"
+        "traduccion": "pict_22624 pict_5581 pict_4628",
+        "correccion": "pict_22620 pict_5581 pict_4628"
     },
     {
         "id": 8297,
         "oracion": "Contesta usando la información de la noticia",
-        "traduccion": "pict_9030 pict_15485 pict_7029 pict_9897 pict_7029 pict_7784"
+        "traduccion": "pict_9030 pict_15485 pict_7029 pict_9897 pict_7029 pict_7784",
+        "correccion": "pict_9030 pict_15485 pict_9897 pict_8229"
     },
     {
         "id": 3447,
         "oracion": "Voy a contar",
-        "traduccion": "pict_2432 pict_2714"
+        "traduccion": "pict_2432 pict_2714",
+        "correccion": "pict_2714"
     },
     {
         "id": 1461,
         "oracion": "Hablamos y respondemos",
-        "traduccion": "pict_3345 pict_3047 pict_9030"
+        "traduccion": "pict_3345 pict_3047 pict_9030",
+        "correccion": "pict_3345 pict_3047 pict_9030"
     },
     {
         "id": 2723,
         "oracion": "A padres y madres",
-        "traduccion": "pict_35059 pict_3047 pict_35067"
+        "traduccion": "pict_35059 pict_3047 pict_35067",
+        "correccion": "pict_2497 pict_3047 pict_31148"
     },
     {
         "id": 7484,
         "oracion": "Asiste a la cena sin hablar",
-        "traduccion": "pict_21385 pict_7029 pict_4592 pict_3345"
+        "traduccion": "pict_21385 pict_7029 pict_4592 pict_3345",
+        "correccion": "pict_21385 pict_4592 pict_5526 pict_3345"
     },
     {
         "id": 14787,
         "oracion": "Debe llamar la atención",
-        "traduccion": "Debe pict_4687 pict_7029 pict_24863"
+        "traduccion": "Debe pict_4687 pict_7029 pict_24863",
+        "correccion": "pict_11470"
     },
     {
         "id": 177,
         "oracion": "Usa colores para decorar",
-        "traduccion": "pict_15485 pict_5968 pict_7008"
+        "traduccion": "pict_15485 pict_5968 pict_7008",
+        "correccion": "pict_15485 pict_5968 pict_7008"
     },
     {
         "id": 3673,
         "oracion": "Información breve y clara",
-        "traduccion": "pict_9897 breve pict_3047 pict_4604"
+        "traduccion": "pict_9897 breve pict_3047 pict_4604",
+        "correccion": "pict_9897 pict_5546 pict_3047 pict_16659"
     },
     {
         "id": 5092,
         "oracion": "Mantenemos limpio y ordenado",
-        "traduccion": "pict_17050 pict_4680 pict_3047 pict_4707"
+        "traduccion": "pict_17050 pict_4680 pict_3047 pict_4707",
+        "correccion": "pict_17050 pict_9008 pict_3047 pict_4707"
     },
     {
         "id": 12406,
         "oracion": "Descripciones con adjetivos enriquecen",
-        "traduccion": "pict_11713 pict_32584 enriquecen"
+        "traduccion": "pict_11713 pict_32584 enriquecen",
+        "correccion": "pict_11719 pict_32584 pict_13630"
     },
     {
         "id": 13565,
         "oracion": "Voces misteriosas desde un auto",
-        "traduccion": "Voces misteriosas pict_2627 pict_2339"
+        "traduccion": "Voces misteriosas pict_2627 pict_2339",
+        "correccion": "pict_11685 pict_7180 pict_6572 pict_2339"
     },
     {
         "id": 6800,
         "oracion": "Evalúa cómo hablaste después de exponer",
-        "traduccion": "Evalúa pict_22619 pict_3345 pict_13080 pict_9870"
+        "traduccion": "Evalúa pict_22619 pict_3345 pict_13080 pict_9870",
+        "correccion": "pict_9847 pict_22619 pict_3345 pict_13080 pict_9870"
     },
     {
         "id": 4241,
         "oracion": "Me gusta viajar en coche",
-        "traduccion": "pict_2617 pict_2418 pict_4671 pict_2339"
+        "traduccion": "pict_2617 pict_2418 pict_4671 pict_2339",
+        "correccion": "pict_37826 pict_4671 pict_2339"
     },
     {
         "id": 3852,
         "oracion": "Anotamos lo más importante",
-        "traduccion": "pict_6487 pict_6481 pict_3220 pict_11470"
+        "traduccion": "pict_6487 pict_6481 pict_3220 pict_11470",
+        "correccion": "pict_2380 pict_25708 pict_22627"
     },
     {
         "id": 6520,
         "oracion": "¿Qué aprendiste de las vacas?",
-        "traduccion": "pict_22624 pict_8029 pict_2609"
+        "traduccion": "pict_22624 pict_8029 pict_2609",
+        "correccion": "pict_22620 pict_8029 pict_2609"
     },
     {
         "id": 10691,
         "oracion": "La energía cambia de forma",
-        "traduccion": "pict_7029 pict_26059 pict_8053 forma"
+        "traduccion": "pict_7029 pict_26059 pict_8053 forma",
+        "correccion": "pict_26059 pict_8053 pict_4651"
     },
     {
         "id": 6535,
         "oracion": "Presentamos antes de explicar",
-        "traduccion": "pict_9870 pict_13028 pict_8579"
+        "traduccion": "pict_9870 pict_13028 pict_8579",
+        "correccion": "pict_9870 pict_13028 pict_8579"
     },
     {
         "id": 4250,
         "oracion": "Cubre la raíz con tierra",
-        "traduccion": "pict_26024 pict_7029 pict_3148 pict_3160"
+        "traduccion": "pict_26024 pict_7029 pict_3148 pict_3160",
+        "correccion": "pict_26024 pict_3148 pict_3160"
     },
     {
         "id": 10321,
         "oracion": "Escribo en mi cuaderno y hago un esquema para organizarlo",
-        "traduccion": "pict_2380 pict_12264 pict_2359 pict_3047 pict_11749 pict_2627 esquema pict_35653"
+        "traduccion": "pict_2380 pict_12264 pict_2359 pict_3047 pict_11749 pict_2627 esquema pict_35653",
+        "correccion": "pict_2380 pict_12264 pict_2359 pict_11749 pict_38143 pict_35653"
     },
     {
         "id": 9085,
         "oracion": "Niños aprenden a trabajar algodón",
-        "traduccion": "pict_6975 pict_8029 pict_2599 pict_2985"
+        "traduccion": "pict_6975 pict_8029 pict_2599 pict_2985",
+        "correccion": "pict_6975 pict_8029 pict_2599 pict_2985"
     },
     {
         "id": 9232,
         "oracion": "Observa las letras y la imagen",
-        "traduccion": "pict_2474 pict_34361 pict_3047 pict_7029 imagen"
+        "traduccion": "pict_2474 pict_34361 pict_3047 pict_7029 imagen",
+        "correccion": "pict_2474 pict_34361 pict_3047 pict_11238"
     },
     {
         "id": 8051,
         "oracion": "Ordena los pasos de tu exposición",
-        "traduccion": "pict_2872 pict_35477 pict_12281 pict_9870"
+        "traduccion": "pict_2872 pict_35477 pict_12281 pict_9870",
+        "correccion": "pict_2872 pict_34705 pict_12281 pict_9870"
     },
     {
         "id": 5046,
         "oracion": "Aprendemos a reciclar",
-        "traduccion": "pict_8029 pict_27212"
+        "traduccion": "pict_8029 pict_27212",
+        "correccion": "pict_8029 pict_27212"
     },
     {
         "id": 4365,
         "oracion": "¿Dónde encuentro información?",
-        "traduccion": "pict_7764 pict_5990 pict_9897"
+        "traduccion": "pict_7764 pict_5990 pict_9897",
+        "correccion": "pict_32872 pict_5990 pict_9897"
     },
     {
         "id": 8059,
         "oracion": "¿Cómo mejorar el juguete?",
-        "traduccion": "pict_22619 pict_11705 pict_9813"
+        "traduccion": "pict_22619 pict_11705 pict_9813",
+        "correccion": "pict_22619 pict_11705 pict_9813"
     },
     {
         "id": 8003,
         "oracion": "Usamos rojo y negro en decoración",
-        "traduccion": "pict_15485 pict_2808 pict_3047 pict_2886 pict_7008"
+        "traduccion": "pict_15485 pict_2808 pict_3047 pict_2886 pict_7008",
+        "correccion": "pict_15485 pict_2808 pict_2886 pict_7008"
     },
     {
         "id": 1697,
         "oracion": "Yo no —dijo el otro",
-        "traduccion": "pict_2617 pict_5526 — pict_9692 pict_17054"
+        "traduccion": "pict_2617 pict_5526 — pict_9692 pict_17054",
+        "correccion": "pict_2617 pict_39149 — pict_9692 pict_34560"
     },
     {
         "id": 12992,
         "oracion": "Observa y describe edificios",
-        "traduccion": "pict_2474 pict_3047 describe pict_5989"
+        "traduccion": "pict_2474 pict_3047 describe pict_5989",
+        "correccion": "pict_2474 pict_3047 pict_11713 pict_6199"
     },
     {
         "id": 5766,
         "oracion": "Conversábamos por teléfono",
-        "traduccion": "Conversábamos pict_2586"
+        "traduccion": "Conversábamos pict_2586",
+        "correccion": "pict_6517 pict_2586"
     },
     {
         "id": 8650,
         "oracion": "Los peces manta son grandes pero suaves",
-        "traduccion": "pict_7199 pict_2459 pict_5581 pict_4658 pict_11377 pict_26455"
+        "traduccion": "pict_7199 pict_2459 pict_5581 pict_4658 pict_11377 pict_26455",
+        "correccion": "pict_6146 pict_5581 pict_4658 pict_11377 pict_26455"
     },
     {
         "id": 12178,
         "oracion": "Pronto seré un hombre fuerte",
-        "traduccion": "pict_5306 pict_5581 pict_2627 pict_4665 pict_4655"
+        "traduccion": "pict_5306 pict_5581 pict_2627 pict_4665 pict_4655",
+        "correccion": "pict_5581 pict_4665 pict_4655"
     },
     {
         "id": 2152,
         "oracion": "Tres recipientes transparentes",
-        "traduccion": "pict_2629 pict_24344 pict_24440"
+        "traduccion": "pict_2629 pict_24344 pict_24440",
+        "correccion": "pict_2629 pict_2288 pict_24440"
     },
     {
         "id": 10661,
         "oracion": "Converso sobre unas preguntas",
-        "traduccion": "Converso pict_8475 pict_7217"
+        "traduccion": "Converso pict_8475 pict_7217",
+        "correccion": "pict_3345 pict_5374 pict_7217"
     },
     {
         "id": 322,
         "oracion": "Máquina grande",
-        "traduccion": "pict_25652 pict_4658"
+        "traduccion": "pict_25652 pict_4658",
+        "correccion": "pict_25652 pict_4658"
     },
     {
         "id": 10532,
         "oracion": "Difícil proteger nuestra cultura",
-        "traduccion": "pict_4629 pict_6192 pict_12268 pict_11693"
+        "traduccion": "pict_4629 pict_6192 pict_12268 pict_11693",
+        "correccion": "pict_4629 pict_6192 pict_12268 pict_11693"
     },
     {
         "id": 9985,
         "oracion": "El abono ayuda a que el suelo sea mejor para las plantas",
-        "traduccion": "pict_6872 pict_12252 pict_11351 pict_2575 pict_5581 pict_11470 pict_11572"
+        "traduccion": "pict_6872 pict_12252 pict_11351 pict_2575 pict_5581 pict_11470 pict_11572",
+        "correccion": "pict_6872 pict_12252 pict_3160 pict_5581 pict_22627 pict_11572"
     },
     {
         "id": 11754,
         "oracion": "Prefiero noches sin sol",
-        "traduccion": "pict_11694 pict_7181 pict_2798"
+        "traduccion": "pict_11694 pict_7181 pict_2798",
+        "correccion": "pict_11694 pict_7181 pict_5526 pict_2798"
     },
     {
         "id": 1743,
         "oracion": "Mucha información",
-        "traduccion": "pict_7168 pict_9897"
+        "traduccion": "pict_7168 pict_9897",
+        "correccion": "pict_7168 pict_9897"
     },
     {
         "id": 6903,
         "oracion": "¿Qué tiene tu cuaderno de comunicación?",
-        "traduccion": "pict_22624 pict_7271 pict_12281 pict_2359 pict_9870"
+        "traduccion": "pict_22624 pict_7271 pict_12281 pict_2359 pict_9870",
+        "correccion": "pict_22620 pict_7271 pict_12281 pict_2359 pict_34623"
     },
     {
         "id": 8298,
         "oracion": "La lana es importante para hacer ropa",
-        "traduccion": "pict_7029 pict_2948 pict_5581 pict_11470 pict_11749 pict_7233"
+        "traduccion": "pict_7029 pict_2948 pict_5581 pict_11470 pict_11749 pict_7233",
+        "correccion": "pict_2948 pict_5581 pict_22627 pict_11749 pict_7233"
     },
     {
         "id": 5880,
         "oracion": "Quiero aprender jugando",
-        "traduccion": "pict_5441 pict_8029 pict_2439"
+        "traduccion": "pict_5441 pict_8029 pict_2439",
+        "correccion": "pict_5441 pict_8029 pict_2439"
     },
     {
         "id": 4659,
         "oracion": "¿Miró a los ojos al hablar?",
-        "traduccion": "pict_2474 pict_2876 pict_3345"
+        "traduccion": "pict_2474 pict_2876 pict_3345",
+        "correccion": "pict_2474 pict_2876 pict_3345"
     },
     {
         "id": 13594,
         "oracion": "Cocinamos con ají amarillo y hierbas",
-        "traduccion": "pict_2342 ají pict_2648 pict_3047 pict_3113"
+        "traduccion": "pict_2342 ají pict_2648 pict_3047 pict_3113",
+        "correccion": "pict_2342 pict_4661 pict_2648 pict_11334"
     },
     {
         "id": 10731,
         "oracion": "Escribe el significado de la frase final",
-        "traduccion": "pict_2380 significado pict_7029 pict_27768 pict_5358"
+        "traduccion": "pict_2380 significado pict_7029 pict_27768 pict_5358",
+        "correccion": "pict_2380 pict_9693 pict_27768 pict_37751"
     },
     {
         "id": 3342,
         "oracion": "Investigamos el agua sucia",
-        "traduccion": "pict_15320 pict_2248 pict_4750"
+        "traduccion": "pict_15320 pict_2248 pict_4750",
+        "correccion": "pict_15320 pict_32464 pict_7066"
     },
     {
         "id": 333,
         "oracion": "¿Nos vamos?",
-        "traduccion": "pict_7184 pict_2432"
+        "traduccion": "pict_7184 pict_2432",
+        "correccion": "pict_8142"
     },
     {
         "id": 9246,
         "oracion": "¿Cómo escribir un texto descriptivo?",
-        "traduccion": "pict_22619 pict_2380 pict_2627 pict_37340 descriptivo"
+        "traduccion": "pict_22619 pict_2380 pict_2627 pict_37340 descriptivo",
+        "correccion": "pict_22619 pict_2380 pict_37340 pict_11719"
     },
     {
         "id": 3704,
@@ -1285,7 +1347,7 @@
         "id": 5255,
         "oracion": "¿Qué hace el señor de gorra?",
         "traduccion": "pict_22624 pict_11749 pict_4744 pict_2411",
-        "correccion": "pict_22620 pict_11749 pict_4665 pict_2411
+        "correccion": "pict_22620 pict_11749 pict_4665 pict_2411"
     },
     {
         "id": 9028,
